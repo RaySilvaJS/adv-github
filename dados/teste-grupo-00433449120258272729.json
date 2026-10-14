@@ -1,0 +1,30 @@
+{
+  "autor": {
+    "doc": "04738978144",
+    "telefones": [
+      {
+        "numero": "(63)98145-4858",
+        "operadora": "TIM",
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)99980-0370",
+        "operadora": "VIVO",
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)99291-9646",
+        "operadora": "CLARO",
+        "whatsapp": false
+      }
+    ],
+    "renda": "R$ 1.004,04",
+    "nome": "Pedro Henrique Leal Ramos",
+    "nascimento": "28/04/2000 | 26 Anos",
+    "formato": "whatsapp",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": false,
+    "bruto": "*☞ Resultado da sua consulta:*\n\n• DADOS PESSOAIS:\n       CPF: 047.389.781-44 (TO)\n       NOME: Pedro Henrique Leal Ramos\n       SEXO: MASCULINO\n       NASCIMENTO: 28/04/2000 | 26 Anos\n       MÃE: Vivian Vilela Leal\n       PAI: Sem informação\n\n• RENDAS/CREDITO:\n       RENDA: R$ 1.004,04\n       PODER AQUISITIVO: Baixo\n       PODER DE COMPRA: De R$ 630 Até R$ 1018\n       PROFISSÃO: Sem informação\n\n• SCORE (0 a 1000):\n       SERASA SCORE: 836\n       SERASA SCORE ANTIGO: Sem informação\n       SPC SCORE: 234\n       SPC SCORE ANTIGO: 234\n       BOAVISTA SCORE: 459\n       BOAVISTA SCORE ANTIGO: 226\n\n• INFORMAÇÕES DO RG/CNH:\n       RG: Sem informação\n       EMISSÃO: Sem informação\n       ORGÃO: Sem informação\n       UF: Sem informação\n\n• OUTRAS INFORMAÇÕES:\n       NIS: Sem informação\n       PIS: Sem informação\n       TITULO: Sem informação\n       CONJUGE: Sem informação\n       ESCOLARIDADE: Sem informação\n       CIDADE DE NASCIMENTO: Sem informação\n\n• ENDEREÇOS (7):\n       ★ ARSE ALAMEDA 1 74, PLANO DIRETOR SUL, PALMAS/TO - 77020558\n       ★ ARSE ALAMEDA 1 74, 74 - PALMAS/TO - 77020558\n       R ARSE 23 ALAMEDA 1, 74 - PALMAS/TO - 77020558\n       QUADRA 208 SUL ALAMEDA 1, 14, LT 14 - PALMAS/TO - 77020558\n       208 SUL ALAMEDA 1, 14, LT 14 - PALMAS/TO - 77020558\n       208 SUL AL 1 14 LT 14, PLANO DIRETOR SUL, PALMAS/TO - 77020558\n       208 SUL AL 1 14 LT 14, 14 - PALMAS/TO - 77020558\n\n• NÚMEROS (3):\n       ★ (63)98145-4858 - TIM - WhatsApp\n       (63)99980-0370 - VIVO\n       (63)99291-9646 - CLARO\n\n• E-MAILS (1):\n       ★ pedrohlealr@hotmail.com - PESSOAL - BOM\n\n• PARENTES (0):\n       Parentes não encontrados\n\n• EMPRESAS (1):\n       MAGIC WORLD | 30.890.259/0001-16 | 100%\n\n• EMPREGOS (0):\n       Empregos não encontrados"
+  }
+}

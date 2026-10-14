@@ -1,0 +1,14 @@
+{
+  "autor": {
+    "doc": "12050208103",
+    "telefones": [],
+    "renda": null,
+    "nome": null,
+    "nascimento": null,
+    "formato": "lista",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": true,
+    "bruto": "Dados não encontrados para o CPF: 120.502.081-03"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "data": "2026-10-14T15:06:45.956Z",
+  "modo": "numerico",
+  "uf": "TO",
+  "oab": "TO002621",
+  "etapa": "consultando processos da OAB",
+  "erro": {
+    "nome": "Error",
+    "mensagem": "o eproc não respondeu à consulta de TO002621 em 120 s",
+    "stack": "Error: o eproc não respondeu à consulta de TO002621 em 120 s\n    at Timeout.<anonymous> (C:\\Users\\rs250\\OneDrive\\Desktop\\📁 01 - PROJETOS\\adv-github\\scripts\\varrer-oab-eproc.js:300:20)\n    at listOnTimeout (node:internal/timers:588:17)\n    at process.processTimers (node:internal/timers:523:7)"
+  }
+}

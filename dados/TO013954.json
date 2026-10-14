@@ -1,0 +1,1051 @@
+{
+  "oab": "TO013954",
+  "primeira_consulta": "2026-10-09T01:16:42.184Z",
+  "ultima_consulta": "2026-10-09T01:24:15.737Z",
+  "total_na_ultima_consulta": 27,
+  "processos": {
+    "00477320320268272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00477320320268272729",
+        "autuacao": "22/09/2026 13:59:24",
+        "str_sig_orgao_juizo": "TOPAL4JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00477320320268272729&hash=c79793e55956ec344a7f445936c41316",
+        "autor": "MICHELLY HELOISY OLIVEIRA PIRES<br>e outros",
+        "reu": "WILDSON RAIMUNDO MUNIZ DE CARVALHO<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "08/10/2026 02:37:27",
+        "ultimo_evento": "08/10/2026 02:37:27 - Disponibilizado no DJEN",
+        "id_orgao_juizo": "271000394",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Rescisão do contrato e devolução do dinheiro, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "70167662252",
+        "ident_reu": "95500170104",
+        "endereco_autor": "GO, Goiânia, Goiânia 2, Rua Imbaúba, 41, QD 19, 74663320",
+        "endereco_reu": "TO, Palmas, Plano Diretor Norte, ARNO 61 (503 Norte) Alameda 11, s/n, quadra 15, 77001840",
+        "juizo": "Juízo do 4º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "JACQUELINE LACERDA BRITO",
+          "doc": "056.723.691-97",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 10.852,14"
+      }
+    },
+    "00017740320268272726": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00017740320268272726",
+        "autuacao": "11/09/2026 13:59:09",
+        "str_sig_orgao_juizo": "TOMNT1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00017740320268272726&hash=ec416f436d42e32e469e9ab5f9a95177",
+        "autor": "MARCIA MARTA DE AZEVEDO MOURA<br>",
+        "reu": "ESTADO DO TOCANTINS<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "2",
+        "dth_ultimo_evento": "07/10/2026 18:47:11",
+        "ultimo_evento": "07/10/2026 18:47:11 - Mandado devolvido - entregue ao destinatário",
+        "id_orgao_juizo": "270000118",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Liminar, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Serviços de Saúde, Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL, Fornecimento de medicamentos, Planos de saúde, Suplementar, DIREITO DA SAÚDE",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "82018863134",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Miranorte, VILA MARIA, AVENIDA PRINCESA ISABEL, 1400, 77660000",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juízo da 1ª Escrivania Cível de Miranorte",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "MARCIA MARTA DE AZEVEDO MOURA",
+          "doc": "820.188.631-34",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 900.479,00"
+      }
+    },
+    "00071278820268272737": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00071278820268272737",
+        "autuacao": "31/08/2026 11:20:24",
+        "str_sig_orgao_juizo": "TOPOR1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00071278820268272737&hash=83bac412ac951f0b4036114a76a8f378",
+        "autor": "RITA DE CÁSSIA PIRES CORREIA DA SILVA<br>",
+        "reu": "ESTADO DO TOCANTINS<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "2",
+        "dth_ultimo_evento": "30/09/2026 03:12:56",
+        "ultimo_evento": "30/09/2026 03:12:56 - Publicado no DJEN",
+        "id_orgao_juizo": "270000055",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Liminar, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Tratamento médico-hospitalar, Planos de saúde, Suplementar, DIREITO DA SAÚDE",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "01149603720",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Porto Nacional, Jardim Brasilia, Rua Pedro Aires Sobrinho, 663, 77500000",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juízo da 1ª Vara Cível de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "RITA DE CÁSSIA PIRES CORREIA DA SILVA",
+          "doc": "011.496.037-20",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 53.000,00"
+      }
+    },
+    "00008660720268272738": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00008660720268272738",
+        "autuacao": "07/07/2026 13:36:44",
+        "str_sig_orgao_juizo": "TOTAG1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00008660720268272738&hash=dcd9bff23e9b8e323499f2f9da44d95e",
+        "autor": "D. F. D. A. ",
+        "reu": "E. D. T. o. ",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "2",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000136",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Pessoas com deficiência, Garantias Constitucionais, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO, Obrigação de Fazer / Não Fazer, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "39136523534",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Ponte Alta do Bom Jesus, Setor Central, RUA PONTE ALTA, 40, 77315000",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juízo da 1ª Vara Cível de Taguatinga",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00270823220268272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00270823220268272729",
+        "autuacao": "08/06/2026 13:01:44",
+        "str_sig_orgao_juizo": "TOPAL3FAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00270823220268272729&hash=1eb304d778f7f686a434cae9b47ead67",
+        "autor": "EDINALDO OLIVEIRA DE HOLANDA<br>e outros",
+        "reu": "ESTADO DO TOCANTINS<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "35",
+        "dth_ultimo_evento": "07/10/2026 03:07:40",
+        "ultimo_evento": "07/10/2026 03:07:40 - Publicado no DJEN",
+        "id_orgao_juizo": "270000192",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "IPVA - Imposto Sobre Propriedade de Veículos Automotores, Impostos, DIREITO TRIBUTÁRIO, Liminar, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Dívida Ativa (Execução Fiscal), DIREITO TRIBUTÁRIO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "01790055105",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Palmas, Taquaralto, Avenida Francisco Galvão da Cruz, Qd. 10, Lt. 12, 77064030",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juizo da Vara de Execuções Fiscais e Saúde de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "EDINALDO OLIVEIRA DE HOLANDA",
+          "doc": "017.900.551-05",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 6.530,20"
+      }
+    },
+    "00235756320268272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00235756320268272729",
+        "autuacao": "19/05/2026 12:58:05",
+        "str_sig_orgao_juizo": "TOPAL3JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00235756320268272729&hash=55e2cf67a62caa7e45ce8a91e4ee72ca",
+        "autor": "JOSÉ MENDES GAMA JUNIOR<br>",
+        "reu": "BANCO BMG S.A<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "02/10/2026 14:31:03",
+        "ultimo_evento": "02/10/2026 14:31:03 - Conclusão para decisão",
+        "id_orgao_juizo": "271000392",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Empréstimo consignado, Bancários, Contratos de Consumo, DIREITO DO CONSUMIDOR",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "71501576100",
+        "ident_reu": "61186680000174",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ARSE 121 (1204 Sul) Alameda 2, N° 41, q. 1 , 77019520",
+        "endereco_reu": "SP, São Paulo, Vila Nova Conceição, Avenida Presidente Juscelino Kubitschek 1830, SN, 10º ANDAR, 04543900",
+        "juizo": "Juízo do 3º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "JOSÉ MENDES GAMA JUNIOR",
+          "doc": "715.015.761-00",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 62.461,28"
+      }
+    },
+    "00194270920268272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00194270920268272729",
+        "autuacao": "28/04/2026 16:04:43",
+        "str_sig_orgao_juizo": "TOPAL3FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00194270920268272729&hash=fabed1dc8002f7a1a42085cf75d19583",
+        "autor": "M. K. S. V. o. ",
+        "reu": "R. D. S. L. ",
+        "classe": "Cumprimento Provisório de Decisão",
+        "cod_classe": "2367",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000018",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Alimentos, Prisão Civil, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Expropriação de Bens, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "94203539153",
+        "ident_reu": "53395271153",
+        "endereco_autor": "TO, Palmas, Plano Diretor Norte, ARNE 61 (504 Norte) Alameda 20, 01, QI 17, 77006602",
+        "endereco_reu": "GO, Goiânia, Jardim América, Rua C134, 09, QD 274, VERT GREEN, 74255480",
+        "juizo": "Juízo da 3ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00149868220268272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00149868220268272729",
+        "autuacao": "01/04/2026 11:36:16",
+        "str_sig_orgao_juizo": "TOPAL2FAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00149868220268272729&hash=7671b6384321dff46d51a6aad4aec515",
+        "autor": "ODETE MENDES ARAÚJO<br>",
+        "reu": "ESTADO DO TOCANTINS<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "2",
+        "dth_ultimo_evento": "06/10/2026 11:07:43",
+        "ultimo_evento": "06/10/2026 11:07:43 - Protocolizada Petição",
+        "id_orgao_juizo": "270000191",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Liminar, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Serviços de Saúde, Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL, Tratamento médico-hospitalar, Planos de saúde, Suplementar, DIREITO DA SAÚDE",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "58928847168",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Palmas, PLANO DIRETOR SUL, QUADRA ARSE 121 ALAMEDA 2, 41, 77019520",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juizo da 2ª Vara da Fazenda e Reg. Públicos de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "ODETE MENDES ARAÚJO",
+          "doc": "589.288.471-68",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 11.077,00"
+      }
+    },
+    "00137777820268272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00137777820268272729",
+        "autuacao": "25/03/2026 17:17:04",
+        "str_sig_orgao_juizo": "TOPAL5JEJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00137777820268272729&hash=a53ec6f5ceb382dfd516bebf5366856c",
+        "autor": "E. O. D. H. ",
+        "reu": "E. D. T. ",
+        "classe": "Procedimento do Juizado Especial da Fazenda Pública",
+        "cod_classe": "14616",
+        "cod_competencia": "36",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "271000389",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Isenção, Limitações ao Poder de Tributar, DIREITO TRIBUTÁRIO, Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "01790055105",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Palmas, Taquaralto, Avenida Francisco Galvão da Cruz, Qd. 10, Lt. 12, 77064030",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juízo do 5º Juizado Especial de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00016016120268272731": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00016016120268272731",
+        "autuacao": "17/03/2026 20:21:34",
+        "str_sig_orgao_juizo": "TOPAI1FAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00016016120268272731&hash=026fafc0618a26b6038b83eeb6af5a8a",
+        "autor": "ALMIRO DE FARIA<br>",
+        "reu": "ESTADO DO TOCANTINS<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "2",
+        "dth_ultimo_evento": "04/10/2026 00:04:27",
+        "ultimo_evento": "04/10/2026 00:04:27 - Confirmada a intimação eletrônica",
+        "id_orgao_juizo": "270000232",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Liminar, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Urgência, Cirurgia, Tratamento médico-hospitalar, Pública, DIREITO DA SAÚDE",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "45147965149",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, Palmas, AASE 50 (502 Sul) Avenida LO 13, Lote 16, 77021656",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juizo da 1ª Vara dos Feitos das Fazendas e Reg. Públicos e Prec. Cíveis de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "ALMIRO DE FARIA",
+          "doc": "451.479.651-49",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 18.300,00"
+      }
+    },
+    "00002278620268272738": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00002278620268272738",
+        "autuacao": "25/02/2026 14:47:38",
+        "str_sig_orgao_juizo": "TOTAG1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00002278620268272738&hash=a6f61adfd17783d12bbeb16840925ff2",
+        "autor": "TEREZINA CARLOS FREIRE<br>",
+        "reu": "ESTADO DO TOCANTINS<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "2",
+        "dth_ultimo_evento": "13/07/2026 13:05:05",
+        "ultimo_evento": "13/07/2026 13:05:05 - Conclusão para despacho",
+        "id_orgao_juizo": "270000136",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Obrigação de Fazer / Não Fazer, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Serviços de Saúde, Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL, Liminar, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Tratamento médico-hospitalar, Planos de saúde, Suplementar, DIREITO DA SAÚDE",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "38743183115",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Ponte Alta do Bom Jesus, Setor  Bela Vista, Avenida Brasil I, 11, 77315000",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juízo da 1ª Vara Cível de Taguatinga",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "TEREZINA CARLOS FREIRE",
+          "doc": "387.431.831-15",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 42.400,00"
+      }
+    },
+    "00081578520268272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00081578520268272729",
+        "autuacao": "23/02/2026 10:34:45",
+        "str_sig_orgao_juizo": "TOPAL1FAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00081578520268272729&hash=24499ddde485d2f667361776c6415406",
+        "autor": "JANETH LUDOVINO DE SOUZA<br>",
+        "reu": "ESTADO DO TOCANTINS<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "2",
+        "dth_ultimo_evento": "24/08/2026 14:30:57",
+        "ultimo_evento": "24/08/2026 14:30:57 - Comunicação eletrônica recebida - baixado",
+        "id_orgao_juizo": "270000190",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Liminar, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Fornecimento de medicamentos, Planos de saúde, Suplementar, DIREITO DA SAÚDE, Tratamento médico-hospitalar, Planos de saúde, Suplementar, DIREITO DA SAÚDE",
+        "des_situacao": "MOVIMENTO-AGUARDA JULGAMENTO",
+        "ident_autor": "35953403100",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ARSE 33 (308 Sul) Alameda 7, 26, Alameda 07, 77021080",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juizo da 1ª Vara da Fazenda e Reg. Públicos de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "JANETH LUDOVINO DE SOUZA",
+          "doc": "359.534.031-00",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 435.615,68"
+      }
+    },
+    "00023906620268272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00023906620268272729",
+        "autuacao": "20/01/2026 14:38:49",
+        "str_sig_orgao_juizo": "TOPAL3FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00023906620268272729&hash=cff05388f3f67f00bff6581d5fb044b9",
+        "autor": "M. K. S. V. o. ",
+        "reu": "R. D. S. L. ",
+        "classe": "Alimentos - Lei Especial Nº 5.478/68",
+        "cod_classe": "684",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000018",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Fixação, Alimentos, Família, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA PROVIDÊNCIA UNIDADE",
+        "ident_autor": "94203539153",
+        "ident_reu": "53395271153",
+        "endereco_autor": "TO, Palmas, Plano Diretor Norte, ARNE 61 (504 Norte) Alameda 20, 01, QI 17, 77006602",
+        "endereco_reu": "GO, Goiânia, Jardim América, Rua C134, 09, QD 274, VERT GREEN, 74255480",
+        "juizo": "Juízo da 3ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00439770520258272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00439770520258272729",
+        "autuacao": "29/09/2025 17:34:03",
+        "str_sig_orgao_juizo": "TOPAL6CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00439770520258272729&hash=724142a0a38e957dee06bf7295c856c6",
+        "autor": "MANOEL CARDOSO DA MATA<br>",
+        "reu": "BANCO BRADESCO S.A.<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "15/09/2026 00:05:04",
+        "ultimo_evento": "15/09/2026 00:05:04 - Decurso de Prazo",
+        "id_orgao_juizo": "270000189",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Indenização por Dano Material, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR, Assistência Judiciária Gratuita, Partes e Procuradores, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Análise de Crédito, Indenização por Dano Moral, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR, Práticas Abusivas, DIREITO DO CONSUMIDOR, Perdas e Danos, Inadimplemento, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "64006441800",
+        "ident_reu": "60746948000112",
+        "endereco_autor": "TO, Natividade, ZONA RURAL, FAZENDA CARNEIRO 1, 77370000",
+        "endereco_reu": "RJ, Rio de Janeiro, Campo Grande, RUA Rua Barcelos Domingos, 39, 23080020",
+        "juizo": "Juizo da 6ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "MANOEL CARDOSO DA MATA",
+          "doc": "640.064.418-00",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 34.299,19"
+      }
+    },
+    "00433449120258272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00433449120258272729",
+        "autuacao": "25/09/2025 16:11:42",
+        "str_sig_orgao_juizo": "TOPAL1CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00433449120258272729&hash=dcdde9f020b931430a93400b21ae2b64",
+        "autor": "PEDRO HENRIQUE LEAL RAMOS<br>",
+        "reu": "BRADESCO SAÚDE S/A<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "21/08/2026 15:36:34",
+        "ultimo_evento": "21/08/2026 15:36:34 - Decisão - Saneamento e Organização  do processo",
+        "id_orgao_juizo": "270000008",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Liminar, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Tratamento médico-hospitalar, Planos de Saúde, Contratos de Consumo, DIREITO DO CONSUMIDOR, Assistência Judiciária Gratuita, Partes e Procuradores, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Serviços de Saúde, Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "04738978144",
+        "ident_reu": "92693118000160",
+        "endereco_autor": "TO, Palmas, QUADRA ARSE 23 ALAMEDA 1, SN, LOTE 74, 77020558",
+        "endereco_reu": "RJ, Rio de Janeiro, Rio Comprido, Rua Barão de Itapagipe, 225, Centro, 20261901",
+        "juizo": "Juízo da 1ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "PEDRO HENRIQUE LEAL RAMOS",
+          "doc": "047.389.781-44",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 202.824,00"
+      }
+    },
+    "00413546520258272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00413546520258272729",
+        "autuacao": "15/09/2025 14:43:44",
+        "str_sig_orgao_juizo": "TOPAL3FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00413546520258272729&hash=2f3f4e95297580291c19d5d97e3abd1d",
+        "autor": "J. D. S. ",
+        "reu": "E. R. M. o. ",
+        "classe": "Guarda de Família",
+        "cod_classe": "977",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000018",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Guarda, Relações de Parentesco, Família, DIREITO CIVIL, Revisão, Alimentos, Família, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA JULGAMENTO",
+        "ident_autor": "55849075291",
+        "ident_reu": "09745604135",
+        "endereco_autor": "TO, Palmas, Whatsapp, Atos Whatsapp Palmas, s/n, 77000000",
+        "endereco_reu": "TO, Palmas, NÃO INFORMADO, NÃO INFORMADO, 00, 00000000",
+        "juizo": "Juízo da 3ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00404349120258272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00404349120258272729",
+        "autuacao": "09/09/2025 17:51:29",
+        "str_sig_orgao_juizo": "TOPAL3FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00404349120258272729&hash=704b602038d0f0c009167d240edd796b",
+        "autor": "L. A. M. D. P. o. ",
+        "reu": "J. D. S. ",
+        "classe": "Alimentos - Lei Especial Nº 5.478/68",
+        "cod_classe": "684",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000018",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Revisão, Alimentos, Família, DIREITO CIVIL, Liminar, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "09745604135",
+        "ident_reu": "55849075291",
+        "endereco_autor": "TO, Palmas, NÃO INFORMADO, NÃO INFORMADO, 00, 00000000",
+        "endereco_reu": "TO, Palmas, Whatsapp, Atos Whatsapp Palmas, s/n, 77000000",
+        "juizo": "Juízo da 3ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00344797920258272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00344797920258272729",
+        "autuacao": "06/08/2025 11:56:42",
+        "str_sig_orgao_juizo": "TOPAL1FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00344797920258272729&hash=5dda993ef47a2110e103abafabe5bd8a",
+        "autor": "D. L. S. D. M. o. ",
+        "reu": "J. B. D. M. ",
+        "classe": "Alimentos - Lei Especial Nº 5.478/68",
+        "cod_classe": "684",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000016",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Fixação, Alimentos, Família, DIREITO CIVIL, Guarda, Relações de Parentesco, Família, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "11584720131",
+        "ident_reu": "07480021119",
+        "endereco_autor": "TO, Palmas, sul, Quadra T 23, Avenida NS 06, Loe 18, 18, Conjunto C 23, 77063890",
+        "endereco_reu": "TO, Palmas, Whatsapp, Atos Whatsapp Palmas, SN,  (63) 99246-9384, 77000000",
+        "juizo": "Juízo da 1ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00338466820258272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00338466820258272729",
+        "autuacao": "01/08/2025 13:10:27",
+        "str_sig_orgao_juizo": "TOPAL3JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00338466820258272729&hash=5a6103d68bf606159cc1dc364bbace74",
+        "autor": "FERNANDO AFONSO NUNES FILHO<br>",
+        "reu": "99 TECNOLOGIA LTDA<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "14/07/2026 12:24:10",
+        "ultimo_evento": "14/07/2026 12:24:10 - Conclusão para despacho",
+        "id_orgao_juizo": "271000392",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Indenização por Dano Material, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "02236774184",
+        "ident_reu": "18033552001486",
+        "endereco_autor": "TO, Palmas, PLANO DIRETOR NORTE, 404 NORTE ALAMEDA 17 , SN, LOTE 35, 77006398",
+        "endereco_reu": "",
+        "juizo": "Juízo do 3º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "FERNANDO AFONSO NUNES FILHO",
+          "doc": "022.367.741-84",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 11.700,00"
+      }
+    },
+    "00316347420258272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00316347420258272729",
+        "autuacao": "18/07/2025 12:59:15",
+        "str_sig_orgao_juizo": "TOPAL1FAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00316347420258272729&hash=a802e833091303cd4069ac1d861d121f",
+        "autor": "ODETE MENDES ARAÚJO<br>",
+        "reu": "PLANO DE ASSISTÊNCIA À SAÚDE DOS SERVIDORES DO ESTADO TOCANTINS - SERVIR<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "2",
+        "dth_ultimo_evento": "06/10/2026 11:08:23",
+        "ultimo_evento": "06/10/2026 11:08:23 - Protocolizada Petição",
+        "id_orgao_juizo": "270000190",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Obrigação de Fazer / Não Fazer, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Liminar, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Tratamento médico-hospitalar, Planos de saúde, Suplementar, DIREITO DA SAÚDE",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "58928847168",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Palmas, PLANO DIRETOR SUL, QUADRA ARSE 121 ALAMEDA 2, 41, 77019520",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juizo da 1ª Vara da Fazenda e Reg. Públicos de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "ODETE MENDES ARAÚJO",
+          "doc": "589.288.471-68",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 31.800,00"
+      }
+    },
+    "00013750820258272726": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00013750820258272726",
+        "autuacao": "10/07/2025 11:31:07",
+        "str_sig_orgao_juizo": "TOMNT1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00013750820258272726&hash=7f3aac32632002da245bbc18e66649f6",
+        "autor": "ERIVELTON HONORATO DA LUZ<br>e outros",
+        "reu": "ALFIZO FERREIRA DA LUZ<br>",
+        "classe": "Inventário",
+        "cod_classe": "673",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "28/08/2026 13:20:25",
+        "ultimo_evento": "28/08/2026 13:20:25 - Protocolizada Petição",
+        "id_orgao_juizo": "270000118",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Inventário e Partilha, Sucessões, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "03438383110",
+        "ident_reu": "44904541120",
+        "endereco_autor": "TO, Miranorte, Setor Central, Avenida Princesa Isabel, 2080, 77660000",
+        "endereco_reu": "TO, Miranorte, Atos de Bloqueios, Atos de Bloqueios, SN, 77660000",
+        "juizo": "Juízo da 1ª Escrivania Cível de Miranorte",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "ERIVELTON HONORATO DA LUZ",
+          "doc": "034.383.831-10",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 1.000,00"
+      }
+    },
+    "00295604720258272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00295604720258272729",
+        "autuacao": "07/07/2025 11:19:56",
+        "str_sig_orgao_juizo": "TOPAL5CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00295604720258272729&hash=da185cb25265d16e82c9aa8c1ddf03ac",
+        "autor": "GIOVANI DA VEIGA LOBO COLICCHIO<br>",
+        "reu": "LOCALIZA RENT A CAR SA<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "06/08/2026 14:09:04",
+        "ultimo_evento": "06/08/2026 14:09:04 - Conclusão para decisão",
+        "id_orgao_juizo": "270000011",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Indenização por Dano Material, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR, Assistência Judiciária Gratuita, Partes e Procuradores, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "26119722149",
+        "ident_reu": "16670085000155",
+        "endereco_autor": "GO, Goiânia, Setor Nova Suíça, Rua C-257, QD. 586, LT. 01, EDIFÍCIO IZALTINA, APTO 303, 74280200",
+        "endereco_reu": "TO, Palmas, Cartórios Extrajudiciais, Serventias Extrajudiciais - Palmas, sn, ACSO 11 Rua de Pedestre SO 9, 31, , 77000000",
+        "juizo": "Juízo da 5ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "GIOVANI DA VEIGA LOBO COLICCHIO",
+          "doc": "261.197.221-49",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 48.084,85"
+      }
+    },
+    "00258026020258272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00258026020258272729",
+        "autuacao": "11/06/2025 17:48:08",
+        "str_sig_orgao_juizo": "TOPAL7CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00258026020258272729&hash=d7d6aa0198ce444b89ee711672582181",
+        "autor": "FERNANDO AFONSO NUNES FILHO<br>",
+        "reu": "HENDRIW FERREIRA DA SILVEIRA BATISTA<br>",
+        "classe": "Execução de Título Extrajudicial",
+        "cod_classe": "644",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "31/08/2026 15:28:57",
+        "ultimo_evento": "31/08/2026 15:28:57 - Protocolizada Petição",
+        "id_orgao_juizo": "271000430",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Confissão/Composição de Dívida, Espécies de Contratos, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "02236774184",
+        "ident_reu": "05639467177",
+        "endereco_autor": "TO, Palmas, PLANO DIRETOR NORTE, 404 NORTE ALAMEDA 17 , SN, LOTE 35, 77006398",
+        "endereco_reu": "TO, Palmas, Whatsapp, Atos Whatsapp Palmas, S/N, WhatsApp: (41) 99701-3614/ (62) 98161-9096, 77000000",
+        "juizo": "Juízo da 7ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "FERNANDO AFONSO NUNES FILHO",
+          "doc": "022.367.741-84",
+          "tipo": "Pessoa Física",
+          "papel": "EXEQUENTE"
+        },
+        "valorCausa": "R$ 48.247,04"
+      }
+    },
+    "00245684320258272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00245684320258272729",
+        "autuacao": "04/06/2025 17:03:31",
+        "str_sig_orgao_juizo": "TOPAL6CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00245684320258272729&hash=d02507abeb50d6a0ebaf064a89194e46",
+        "autor": "ANSELMO LIMA FERREIRA<br>",
+        "reu": "COMPANHIA DE SANEAMENTO DO TOCANTINS - SANEATINS<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "30/09/2026 03:14:41",
+        "ultimo_evento": "30/09/2026 03:14:41 - Publicado no DJEN",
+        "id_orgao_juizo": "270000189",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL, Fornecimento de Água, Contratos de Consumo, DIREITO DO CONSUMIDOR, Assistência Judiciária Gratuita, Partes e Procuradores, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "74911210630",
+        "ident_reu": "25089509000183",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ARSE 23 (208 Sul) Alameda 10, sn, Esquina 15, Lote HM-4-1, 77020571",
+        "endereco_reu": "TO, Miracema do Tocantins, Plantão, Plantão Regional Miracema do Tocantins, 364, Rua 07 de Setembro, 77650000",
+        "juizo": "Juizo da 6ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "ANSELMO LIMA FERREIRA",
+          "doc": "749.112.106-30",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 10.000,00"
+      }
+    },
+    "00427467420248272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00427467420248272729",
+        "autuacao": "10/10/2024 12:50:31",
+        "str_sig_orgao_juizo": "TOPAL1FAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00427467420248272729&hash=861fa31346a65c65a789d6377111032f",
+        "autor": "ODETE MENDES ARAÚJO<br>",
+        "reu": "ESTADO DO TOCANTINS<br>e outros",
+        "classe": "Cumprimento de Sentença contra a Fazenda Pública",
+        "cod_classe": "2472",
+        "cod_competencia": "2",
+        "dth_ultimo_evento": "06/10/2026 11:08:57",
+        "ultimo_evento": "06/10/2026 11:08:57 - Protocolizada Petição",
+        "id_orgao_juizo": "270000190",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Obrigação de Fazer / Não Fazer, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Liminar, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Urgência, Cirurgia, Tratamento médico-hospitalar, Pública, DIREITO DA SAÚDE",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "58928847168",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Palmas, PLANO DIRETOR SUL, QUADRA ARSE 121 ALAMEDA 2, 41, 77019520",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juizo da 1ª Vara da Fazenda e Reg. Públicos de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "ODETE MENDES ARAÚJO",
+          "doc": "589.288.471-68",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 54.400,00"
+      }
+    },
+    "00358638220228272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00358638220228272729",
+        "autuacao": "16/09/2022 16:52:13",
+        "str_sig_orgao_juizo": "TOPAL4JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00358638220228272729&hash=cde0d07445ff97cea2e21b74d3238a98",
+        "autor": "GIOVANI DA VEIGA LOBO COLICCHIO<br>",
+        "reu": "LOCALIZA RENT A CAR SA<br>e outros",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "24/11/2025 15:34:44",
+        "ultimo_evento": "24/11/2025 15:34:44 - Baixa Definitiva",
+        "id_orgao_juizo": "271000394",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Indenização por Dano Material, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "26119722149",
+        "ident_reu": "16670085000155",
+        "endereco_autor": "GO, Goiânia, Setor Nova Suíça, Rua C-257, QD. 586, LT. 01, EDIFÍCIO IZALTINA, APTO 303, 74280200",
+        "endereco_reu": "TO, Palmas, Cartórios Extrajudiciais, Serventias Extrajudiciais - Palmas, sn, ACSO 11 Rua de Pedestre SO 9, 31, , 77000000",
+        "juizo": "Juízo do 4º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "STEPHANNY GAMA MENDES DE SOUSA",
+          "oab": "TO013954"
+        },
+        "requerente": {
+          "nome": "GIOVANI DA VEIGA LOBO COLICCHIO",
+          "doc": "261.197.221-49",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 13.112,26"
+      }
+    },
+    "00009836420228272729": {
+      "primeira_vez_visto": "2026-10-09T01:16:42.184Z",
+      "atualizado_em": "2026-10-09T01:24:15.737Z",
+      "dados": {
+        "nr_processo": "00009836420228272729",
+        "autuacao": "17/01/2022 00:01:29",
+        "str_sig_orgao_juizo": "TOPAL3FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00009836420228272729&hash=3c660ed0953403f8ec29a85f793d0329",
+        "autor": "L. A. M. D. P. o. ",
+        "reu": "J. D. S. ",
+        "classe": "Cumprimento de Sentença de Obrigação de Prestar Alimentos",
+        "cod_classe": "2502",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000018",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Revisão, Alimentos, Família, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "09745604135",
+        "ident_reu": "55849075291",
+        "endereco_autor": "TO, Palmas, NÃO INFORMADO, NÃO INFORMADO, 00, 00000000",
+        "endereco_reu": "TO, Palmas, Whatsapp, Atos Whatsapp Palmas, s/n, 77000000",
+        "juizo": "Juízo da 3ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    }
+  }
+}

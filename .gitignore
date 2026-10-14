@@ -1,0 +1,11 @@
+node_modules/
+# .env
+# .env.*
+!.env.example
+dados/advogados
+.baileys_auth
+dados/config-grupo.json
+# dados/config-grupo.json
+# dados/respostas-sistema/
+# dados/progresso-oab.json
+# dados/erros-varredura-eproc/

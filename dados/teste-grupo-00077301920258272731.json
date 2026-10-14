@@ -1,0 +1,40 @@
+{
+  "autor": {
+    "doc": "04508905110",
+    "telefones": [
+      {
+        "numero": "(63)99972-8823",
+        "operadora": "VIVO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)99953-2818",
+        "operadora": "VIVO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)99259-9972",
+        "operadora": "CLARO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)99200-0706",
+        "operadora": "CLARO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)98468-1759",
+        "operadora": "TIM",
+        "whatsapp": false
+      }
+    ],
+    "renda": "R$ 1.116,75",
+    "nome": "Alexandre Teixeira Dos Santos",
+    "nascimento": "14/03/1981 | 45 Anos",
+    "formato": "whatsapp",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": false,
+    "bruto": "*☞ Resultado da sua consulta:*\n\n• DADOS PESSOAIS:\n       CPF: 045.089.051-10\n       NOME: Alexandre Teixeira Dos Santos\n       SEXO: MASCULINO\n       NASCIMENTO: 14/03/1981 | 45 Anos\n       MÃE: Marize Teixeira Dos Santos\n       PAI: Sem informação\n\n• RENDAS/CREDITO:\n       RENDA: R$ 1.116,75\n       PODER AQUISITIVO: Baixo\n       PODER DE COMPRA: De R$ 630 Até R$ 1018\n       PROFISSÃO: Sem informação\n\n• SCORE (0 a 1000):\n       SERASA SCORE: 404\n       SERASA SCORE ANTIGO: 615\n       SPC SCORE: 391\n       SPC SCORE ANTIGO: 391\n       BOAVISTA SCORE: 442\n       BOAVISTA SCORE ANTIGO: 442\n\n• INFORMAÇÕES DO RG/CNH:\n       RG: Sem informação\n       EMISSÃO: Sem informação\n       ORGÃO: Sem informação\n       UF: Sem informação\n\n• OUTRAS INFORMAÇÕES:\n       NIS: Sem informação\n       PIS: Sem informação\n       TITULO: Sem informação\n       CONJUGE: Sem informação\n       ESCOLARIDADE: Sem informação\n       CIDADE DE NASCIMENTO: Sem informação\n\n• ENDEREÇOS (9):\n       ★ R ESTRELA SOLITARIA 38 C 2, CIDADE JULIA, SAO PAULO/SP - 04425010\n       ★ R ESTRELA SOLITARIA 38 C 2, 38 - SAO PAULO/SP - 04425010\n       R TREZE, 264 - PARAISO DO TOCANTINS/TO - 77600000\n       R DEZ 1, ST PLANALTO, ITAPIRATINS/TO - 77718000\n       R DEZ 1, 1 - ITAPIRATINS/TO - 77718000\n       R BENEDITO PIRES, 1, CENTRO - ITAPIRATINS/TO - 77718000\n       PSG SILVA CASTRO SN, GUAMA, BELEM/PA - 66075040\n       PSG SILVA CASTRO SN - BELEM/PA - 66075040\n       BENEDITO PIRES, 1, CENTRO - ITAPIRATINS/TO - 77718000\n\n• NÚMEROS (5):\n       ★ (63)99972-8823 - VIVO - WhatsApp\n       (63)99953-2818 - VIVO\n       (63)99259-9972 - CLARO - WhatsApp\n       (63)99200-0706 - CLARO - WhatsApp\n       (63)98468-1759 - TIM\n\n• E-MAILS (0):\n       E-mails não encontrados\n\n• PARENTES (1):\n       MARIZE TEIXEIRA DOS SANTOS - MAE\n\n• EMPRESAS (0):\n       Empresas não encontradas\n\n• EMPREGOS (0):\n       Empregos não encontrados"
+  }
+}

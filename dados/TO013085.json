@@ -1,0 +1,1733 @@
+{
+  "oab": "TO013085",
+  "primeira_consulta": "2026-10-13T18:02:31.799Z",
+  "ultima_consulta": "2026-10-14T11:31:41.910Z",
+  "total_na_ultima_consulta": 45,
+  "processos": {
+    "00056028920268272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00056028920268272731",
+        "autuacao": "02/09/2026 18:16:35",
+        "str_sig_orgao_juizo": "TOPAI1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00056028920268272731&hash=a0300fd70f2739b86807886c8b710050",
+        "autor": "PALLUMA CHRISTY VITORINO FREITAS<br>",
+        "reu": "ITALO MOREIRA COELHO<br>",
+        "classe": "Cumprimento de sentença",
+        "cod_classe": "2366",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "25/09/2026 09:48:54",
+        "ultimo_evento": "25/09/2026 09:48:54 - Protocolizada Petição",
+        "id_orgao_juizo": "270000066",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Cumprimento Provisório de Sentença, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "04699056113",
+        "ident_reu": "05734005126",
+        "endereco_autor": "TO, Paraíso do Tocantins, Centro, Av. Bernardo Sayão, nº 1101, Centro, 1101, 77600000",
+        "endereco_reu": "TO, Paraíso do Tocantins, Cartórios Extrajudiciais, Serventias Extrajudiciais - Paraíso do Tocantins, s/n, 77600000",
+        "juizo": "Juízo da 1ª Vara Cível de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "PALLUMA CHRISTY VITORINO FREITAS",
+          "doc": "046.990.561-13",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 93.000,61"
+      }
+    },
+    "00054677720268272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00054677720268272731",
+        "autuacao": "28/08/2026 16:14:25",
+        "str_sig_orgao_juizo": "TOPAI2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00054677720268272731&hash=f7ca06b6f67fdcd690b367ab01e9c8d0",
+        "autor": "LIS VITORIA MENDES DOS SANTOS<br>",
+        "reu": "DANIEL DOS SANTOS PEREIRA BRITO<br>",
+        "classe": "Cumprimento de Sentença de Obrigação de Prestar Alimentos",
+        "cod_classe": "2502",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "09/10/2026 11:22:41",
+        "ultimo_evento": "09/10/2026 11:22:41 - Expedida/certificada a intimação eletrônica",
+        "id_orgao_juizo": "270000068",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Alimentos, Prisão Civil, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "10674672119",
+        "ident_reu": "06162968197",
+        "endereco_autor": "TO, Paraíso do Tocantins, SETOR MILENA NEST, RUA 21, 580, 77600000",
+        "endereco_reu": "TO, Paraíso do Tocantins, Atos WhatsApp, Atos WhatsApp - Paraiso do Tocantins, s/n, Telefone/Whatsapp: (63) 99118-1412, 77600000",
+        "juizo": "Juizo da Vara de Família, Sucessões, Infância e Juventude de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "LIS VITORIA MENDES DOS SANTOS",
+          "doc": "106.746.721-19",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00016831020268272726": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00016831020268272726",
+        "autuacao": "26/08/2026 16:26:17",
+        "str_sig_orgao_juizo": "TOMNT1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00016831020268272726&hash=bb74b23b8d5abd338a5030e724a4e72d",
+        "autor": "LEANDRO JOSÉ RIBEIRO<br>",
+        "reu": "ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A.<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "08/10/2026 08:27:12",
+        "ultimo_evento": "08/10/2026 08:27:12 - Juntada - Boleto Gerado",
+        "id_orgao_juizo": "270000118",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Indenização por Dano Material, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR, Indenização por Dano Material, Responsabilidade Civil em Outras Relações de Trabalho, Direito Individual do Trabalho, DIREITO DO TRABALHO, Indenização por Dano Moral, Responsabilidade Civil em Outras Relações de Trabalho, Direito Individual do Trabalho, DIREITO DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "98445065149",
+        "ident_reu": "25086034000171",
+        "endereco_autor": "TO, Palmas, PLANO DIRETOR SUL, 504 SUL, AL 14, LT 01, S/N, 77665000",
+        "endereco_reu": "TO, Paraíso do Tocantins, Atos WhatsApp, Atos WhatsApp - Paraiso do Tocantins, S/N, (63) 99222-6664, 77600000",
+        "juizo": "Juízo da 1ª Escrivania Cível de Miranorte",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "LEANDRO JOSÉ RIBEIRO",
+          "doc": "984.450.651-49",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 589.000,00"
+      }
+    },
+    "00053188120268272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00053188120268272731",
+        "autuacao": "24/08/2026 18:41:15",
+        "str_sig_orgao_juizo": "TOPAIJECCRJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00053188120268272731&hash=c358e598ad372f02c367bc2da3d089b0",
+        "autor": "CLAUDIONICE PEREIRA MARTINS<br>",
+        "reu": "MARIA APARECIDA GOMES RODRIGUES DE CASTRO<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "04/09/2026 16:41:27",
+        "ultimo_evento": "04/09/2026 16:41:27 - Audiência - de Conciliação - designada",
+        "id_orgao_juizo": "270000069",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Acidente de Trânsito, Indenização por Dano Material, Responsabilidade Civil, DIREITO CIVIL, Acidente de Trânsito, Indenização por Dano Moral, Responsabilidade da Administração, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "00241460131",
+        "ident_reu": "64334406149",
+        "endereco_autor": "TO, Paraíso do Tocantins, Atos WhatsApp, Atos WhatsApp - Paraiso do Tocantins, sn, (63) 99120-8893, 77600000",
+        "endereco_reu": "TO, Paraíso do Tocantins, Jardim Paulista, Rua Salgado Filho, 562, Casa, 77600000",
+        "juizo": "Juízo do Juizado Especial Cível de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "CLAUDIONICE PEREIRA MARTINS",
+          "doc": "002.414.601-31",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00042742720268272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00042742720268272731",
+        "autuacao": "10/07/2026 15:50:47",
+        "str_sig_orgao_juizo": "TOPAI1ECRIJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00042742720268272731&hash=9035d819426389584e739148f9fe81e3",
+        "autor": "MARCELO SILVA MIRANDA<br>",
+        "reu": "SEM PARTE RÉ<br>",
+        "classe": "Reabilitação",
+        "cod_classe": "2432",
+        "cod_competencia": "5",
+        "dth_ultimo_evento": "27/08/2026 16:56:26",
+        "ultimo_evento": "27/08/2026 16:56:26 - Remessa Externa - em grau de recurso - TJTO",
+        "id_orgao_juizo": "270000067",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Fato Atípico, DIREITO PENAL",
+        "des_situacao": "MOVIMENTO-REMETIDO AO TJTO",
+        "ident_autor": "01991587112",
+        "ident_reu": "",
+        "endereco_autor": "TO, Paraíso do Tocantins, Setor Alto Paraíso, Avenida 23 de Outubro (Alto Paraíso), 355, Quadra 91, Lote 12, 77600000",
+        "endereco_reu": "",
+        "juizo": "Juízo da 1ª Vara Criminal de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "MARCELO SILVA MIRANDA",
+          "doc": "019.915.871-12",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00034333220268272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00034333220268272731",
+        "autuacao": "08/06/2026 16:50:03",
+        "str_sig_orgao_juizo": "TOPAI1ECRIJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00034333220268272731&hash=cc9a36c7ddcf0e81e63269adbbd42dcd",
+        "autor": "WANDERSON RIBEIRO TEIXEIRA<br>",
+        "reu": "PROCESSO SEM PARTE RE<br>",
+        "classe": "Liberdade Provisória com ou sem fiança",
+        "cod_classe": "731",
+        "cod_competencia": "5",
+        "dth_ultimo_evento": "08/07/2026 15:12:29",
+        "ultimo_evento": "08/07/2026 15:12:29 - Baixa Definitiva",
+        "id_orgao_juizo": "270000067",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Liberdade Provisória, DIREITO PROCESSUAL PENAL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "03850783154",
+        "ident_reu": "",
+        "endereco_autor": "TO, Miranorte, Cartórios Extrajudiciais, Serventias Extrajudiciais - Miranorte, s/n, 77660000",
+        "endereco_reu": "",
+        "juizo": "Juízo da 1ª Vara Criminal de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "WANDERSON RIBEIRO TEIXEIRA",
+          "doc": "038.507.831-54",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00027517720268272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00027517720268272731",
+        "autuacao": "07/05/2026 18:22:36",
+        "str_sig_orgao_juizo": "TOPAI1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00027517720268272731&hash=aeda851f276a561d10f7e353087baf80",
+        "autor": "ALTAIR ALVES TEIXEIRA LTDA<br>",
+        "reu": "LR LOCACOES LTDA<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "07/10/2026 00:12:15",
+        "ultimo_evento": "07/10/2026 00:12:15 - Decurso de Prazo",
+        "id_orgao_juizo": "270000066",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Rescisão / Resolução, Inadimplemento, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "25046590000114",
+        "ident_reu": "06008642000113",
+        "endereco_autor": "",
+        "endereco_reu": "TO, Paraíso do Tocantins, Atos WhatsApp, Atos WhatsApp - Paraiso do Tocantins, 0001, (63) 9 8483 - 4492, 77600000",
+        "juizo": "Juízo da 1ª Vara Cível de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "ALTAIR ALVES TEIXEIRA LTDA",
+          "doc": "25.046.590/0001-14",
+          "tipo": "Pessoa Jurídica",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 220.000,00"
+      }
+    },
+    "00022667720268272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00022667720268272731",
+        "autuacao": "16/04/2026 11:19:29",
+        "str_sig_orgao_juizo": "TOPAI2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00022667720268272731&hash=62c43308325a832bb65fc8852d07434d",
+        "autor": "N. C. C. ",
+        "reu": "G. B. C. o. ",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000068",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Reconhecimento / Dissolução, União Estável ou Concubinato, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "70413336123",
+        "ident_reu": "38770733104",
+        "endereco_autor": "GO, Porangatu, SAO FRANCISCO, R SANTA CATARINA , S/N, Q53 L03, 76550000",
+        "endereco_reu": "TO, Paraíso do Tocantins, JARDIM AMERICA, N/A SUICA, 1430, 77600000",
+        "juizo": "Juizo da Vara de Família, Sucessões, Infância e Juventude de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00006793520268272726": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00006793520268272726",
+        "autuacao": "08/04/2026 19:23:00",
+        "str_sig_orgao_juizo": "TOMNT1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00006793520268272726&hash=245ae658ac4eb6d792ab656f7c8034b4",
+        "autor": "DANNY AGRO PRODUTOS AGROPECUARIOS LTDA<br>",
+        "reu": "AGENCIA DE DEFESA AGROPECUARIA DO ESTADO DO TO - ADAPEC<br>e outros",
+        "classe": "Mandado de Segurança Cível",
+        "cod_classe": "2351",
+        "cod_competencia": "2",
+        "dth_ultimo_evento": "21/09/2026 12:53:28",
+        "ultimo_evento": "21/09/2026 12:53:28 - Conclusão para julgamento",
+        "id_orgao_juizo": "270000118",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Abuso de Poder, Atos Administrativos, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+        "des_situacao": "MOVIMENTO-AGUARDA JULGAMENTO",
+        "ident_autor": "53613264000187",
+        "ident_reu": "",
+        "endereco_autor": "",
+        "endereco_reu": "TO, Palmas, Cartórios Extrajudiciais, Serventias Extrajudiciais - Palmas, SN, 77000000",
+        "juizo": "Juízo da 1ª Escrivania Cível de Miranorte",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "DANNY AGRO PRODUTOS AGROPECUARIOS LTDA",
+          "doc": "53.613.264/0001-87",
+          "tipo": "Pessoa Jurídica",
+          "papel": "IMPETRANTE"
+        },
+        "valorCausa": "R$ 1.000,00"
+      }
+    },
+    "00020268820268272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00020268820268272731",
+        "autuacao": "07/04/2026 10:44:15",
+        "str_sig_orgao_juizo": "TOPAI2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00020268820268272731&hash=4e561e187da13bdd0c134b6624454d5d",
+        "autor": "M. R. D. R. N. o. ",
+        "reu": "F. S. N. ",
+        "classe": "Alimentos - Lei Especial Nº 5.478/68",
+        "cod_classe": "684",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000068",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Fixação, Alimentos, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "77085027215",
+        "ident_reu": "33730387820",
+        "endereco_autor": "PA, Santana do Araguaia, RODOVIARIO, N/A V LIBANO, 142, 68560000",
+        "endereco_reu": "TO, Paraíso do Tocantins, Atos WhatsApp, Atos WhatsApp - Paraiso do Tocantins, sn, whatsapp: 63 99258-9361, 77600000",
+        "juizo": "Juizo da Vara de Família, Sucessões, Infância e Juventude de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00019791720268272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00019791720268272731",
+        "autuacao": "06/04/2026 10:04:15",
+        "str_sig_orgao_juizo": "TOPAI2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00019791720268272731&hash=448f9e31b7245585d9a4d13d232a8749",
+        "autor": "G. B. O. C. o. ",
+        "reu": "G. B. C. ",
+        "classe": "Inventário",
+        "cod_classe": "673",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000068",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Inventário e Partilha, Sucessões, DIREITO CIVIL, Reconhecimento / Dissolução, União Estável ou Concubinato, Família, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "04779437130",
+        "ident_reu": "38770733104",
+        "endereco_autor": "TO, Paraíso do Tocantins, Atos WhatsApp, Atos WhatsApp - Paraiso do Tocantins, SN, 77600000",
+        "endereco_reu": "TO, Paraíso do Tocantins, JARDIM AMERICA, N/A SUICA, 1430, 77600000",
+        "juizo": "Juizo da Vara de Família, Sucessões, Infância e Juventude de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00019341320268272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00019341320268272731",
+        "autuacao": "01/04/2026 00:23:24",
+        "str_sig_orgao_juizo": "TOPAI1ECRIJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00019341320268272731&hash=c939316362a3869e668ea56f3114e537",
+        "autor": "P. C. ",
+        "reu": "W. R. T. ",
+        "classe": "Medidas Protetivas de Urgência (Lei Maria da Penha) - Criminal",
+        "cod_classe": "728",
+        "cod_competencia": "9",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000067",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Lesão Cometida em Razão da Condição de Mulher, Lesão Corporal, DIREITO PENAL, Violência Doméstica Contra a Mulher, DIREITO PENAL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "",
+        "ident_reu": "03850783154",
+        "endereco_autor": "TO, Santa Maria do Tocantins, Setor Central, Rua 10, 77716000",
+        "endereco_reu": "TO, Miranorte, Cartórios Extrajudiciais, Serventias Extrajudiciais - Miranorte, s/n, 77660000",
+        "juizo": "Juízo da 1ª Vara Criminal de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00019332820268272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00019332820268272731",
+        "autuacao": "01/04/2026 00:21:09",
+        "str_sig_orgao_juizo": "TOPAI1ECRIJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00019332820268272731&hash=1638774196309ff360f87f8ccd29164b",
+        "autor": "P. C. ",
+        "reu": "W. R. T. ",
+        "classe": "Inquérito Policial",
+        "cod_classe": "2411",
+        "cod_competencia": "9",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000067",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Lesão Cometida em Razão da Condição de Mulher, Lesão Corporal, DIREITO PENAL, Violência Doméstica Contra a Mulher, DIREITO PENAL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "",
+        "ident_reu": "03850783154",
+        "endereco_autor": "TO, Santa Maria do Tocantins, Setor Central, Rua 10, 77716000",
+        "endereco_reu": "TO, Miranorte, Cartórios Extrajudiciais, Serventias Extrajudiciais - Miranorte, s/n, 77660000",
+        "juizo": "Juízo da 1ª Vara Criminal de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00013954720268272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00013954720268272731",
+        "autuacao": "09/03/2026 18:13:12",
+        "str_sig_orgao_juizo": "TOPAI2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00013954720268272731&hash=c8969c0290c2479a683b862c92670f01",
+        "autor": "DIONAS DA SILVA LIMA<br>",
+        "reu": "KELY FERREIRA LOPES<br>",
+        "classe": "Divórcio Litigioso",
+        "cod_classe": "982",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "11/10/2026 22:38:16",
+        "ultimo_evento": "11/10/2026 22:38:16 - Juntada de certidão - suspensão do prazo",
+        "id_orgao_juizo": "270000068",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Partilha, Dissolução, Casamento, Família, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "03804357130",
+        "ident_reu": "04851144105",
+        "endereco_autor": "TO, Paraíso do Tocantins, Setor Central, Rua Inglaterra, 1221, qd 48, lt 113, 77600000",
+        "endereco_reu": "TO, Paraíso do Tocantins, Atos WhatsApp, Atos WhatsApp - Paraiso do Tocantins, S/N, +353894870127, 77600000",
+        "juizo": "Juizo da Vara de Família, Sucessões, Infância e Juventude de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "DIONAS DA SILVA LIMA",
+          "doc": "038.043.571-30",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 1.320,00"
+      }
+    },
+    "00004507520268272726": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00004507520268272726",
+        "autuacao": "07/03/2026 01:03:01",
+        "str_sig_orgao_juizo": "TOMNT1ECRIJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00004507520268272726&hash=43e83707170590f03f9f4b585dbdf95a",
+        "autor": "POLÍCIA CIVIL/TO<br>",
+        "reu": "JOVANE BARRETO DE AZEVEDO<br>",
+        "classe": "Inquérito Policial",
+        "cod_classe": "2411",
+        "cod_competencia": "46",
+        "dth_ultimo_evento": "11/10/2026 14:41:07",
+        "ultimo_evento": "11/10/2026 14:41:07 - Juntada de certidão - suspensão do prazo",
+        "id_orgao_juizo": "270000119",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Crimes de Trânsito, Crimes Previstos na Legislação Extravagante, DIREITO PENAL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "",
+        "ident_reu": "01242926585",
+        "endereco_autor": "TO, Santa Maria do Tocantins, Setor Central, Rua 10, 77716000",
+        "endereco_reu": "SP, Capivari, JARDIM DO BOSQUE, RUA FAUSTINO DE TOLEDO, 35, 13360000",
+        "juizo": "Juízo da 1ª Escrivania Criminal de Miranorte",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "POLÍCIA CIVIL/TO",
+          "doc": null,
+          "tipo": null,
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00011824120268272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00011824120268272731",
+        "autuacao": "28/02/2026 03:32:57",
+        "str_sig_orgao_juizo": "TOPAI1ECRIJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00011824120268272731&hash=e2e64ae04c5f94479072a690af12d852",
+        "autor": "P. C. ",
+        "reu": "V. P. C. ",
+        "classe": "Inquérito Policial",
+        "cod_classe": "2411",
+        "cod_competencia": "5",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000067",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Contra pessoas não identificadas como mulher, Decorrente de Violência Doméstica, Lesão Corporal, DIREITO PENAL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "",
+        "ident_reu": "03308348195",
+        "endereco_autor": "TO, Santa Maria do Tocantins, Setor Central, Rua 10, 77716000",
+        "endereco_reu": "TO, Paraíso do Tocantins, Cartórios Extrajudiciais, Serventias Extrajudiciais - Paraíso do Tocantins, -, 77600000",
+        "juizo": "Juízo da 1ª Vara Criminal de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00007476720268272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00007476720268272731",
+        "autuacao": "09/02/2026 17:36:42",
+        "str_sig_orgao_juizo": "TOPAIJECCRJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00007476720268272731&hash=955fdf4f8c5cca2937fcb96924e25349",
+        "autor": "ELTON BRAGA AZEVEDO<br>",
+        "reu": "ITAÚ ADMINISTRADORA DE CONSÓRCIOS LTDA<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "20/08/2026 16:21:59",
+        "ultimo_evento": "20/08/2026 16:21:59 - Conclusão para julgamento",
+        "id_orgao_juizo": "270000069",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Protesto Indevido de Títulos, Indenização por Dano Moral, Responsabilidade da Administração, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO, Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Obrigação de Fazer / Não Fazer, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO-AGUARDA JULGAMENTO",
+        "ident_autor": "00782946143",
+        "ident_reu": "00000776000101",
+        "endereco_autor": "TO, Paraíso do Tocantins, Jardim Paulista, rua Princesa Isabel, 915, 77600000",
+        "endereco_reu": "TO, Paraíso do Tocantins, Setor Central, Avenida Castelo Branco (Setor Central), 1167, 77600000",
+        "juizo": "Juízo do Juizado Especial Cível de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "ELTON BRAGA AZEVEDO",
+          "doc": "007.829.461-43",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 10.000,00"
+      }
+    },
+    "00002271020268272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00002271020268272731",
+        "autuacao": "16/01/2026 19:08:15",
+        "str_sig_orgao_juizo": "TOPAI1ECRIJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00002271020268272731&hash=36f3abbf6bff1a10039a66c6fd9cfe04",
+        "autor": "MARCELO SILVA MIRANDA<br>",
+        "reu": "SEM PARTE RÉ<br>",
+        "classe": "Reabilitação",
+        "cod_classe": "2432",
+        "cod_competencia": "5",
+        "dth_ultimo_evento": "25/05/2026 12:57:26",
+        "ultimo_evento": "25/05/2026 12:57:26 - Baixa Definitiva",
+        "id_orgao_juizo": "270000067",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Fato Atípico, DIREITO PENAL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "01991587112",
+        "ident_reu": "",
+        "endereco_autor": "TO, Paraíso do Tocantins, Setor Alto Paraíso, Avenida 23 de Outubro (Alto Paraíso), 355, Quadra 91, Lote 12, 77600000",
+        "endereco_reu": "",
+        "juizo": "Juízo da 1ª Vara Criminal de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "MARCELO SILVA MIRANDA",
+          "doc": "019.915.871-12",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 500,00"
+      }
+    },
+    "00077301920258272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00077301920258272731",
+        "autuacao": "04/12/2025 11:00:17",
+        "str_sig_orgao_juizo": "TOPAI1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00077301920258272731&hash=8d0c206fd6d0451b6f3df405b44c9e7a",
+        "autor": "ALEXANDRE TEIXEIRA DOS SANTOS<br>",
+        "reu": "ADRIANO ALVES BEZERRA DE HOLANDA<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "12/08/2026 15:05:43",
+        "ultimo_evento": "12/08/2026 15:05:43 - Conclusão para despacho",
+        "id_orgao_juizo": "270000066",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Defeito, nulidade ou anulação, Ato / Negócio Jurídico, Fatos Jurídicos, DIREITO CIVIL, Tutela Provisória de Urgência, Cabimento, Mandado de Segurança, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "04508905110",
+        "ident_reu": "05322503110",
+        "endereco_autor": "TO, Colinas do Tocantins, Zona Rural, Chácara São Luiz, s/n, 77760000",
+        "endereco_reu": "TO, Guaraí, Setor aeroporto, Avenida B2, 3672, 77700000",
+        "juizo": "Juízo da 1ª Vara Cível de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "ALEXANDRE TEIXEIRA DOS SANTOS",
+          "doc": "045.089.051-10",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 91.000,00"
+      }
+    },
+    "00098467720258272737": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00098467720258272737",
+        "autuacao": "26/11/2025 19:01:56",
+        "str_sig_orgao_juizo": "TOPOR2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00098467720258272737&hash=dff897194f0fb9e9c2ec9dbc970cdb57",
+        "autor": "THULIO FREIRES MAIA CARVALHO<br>",
+        "reu": "PAULO RENATO ALVES DO NASCIMENTO SILVA<br>",
+        "classe": "Despejo por Falta de Pagamento",
+        "cod_classe": "606",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "11/10/2026 21:51:54",
+        "ultimo_evento": "11/10/2026 21:51:54 - Juntada de certidão - suspensão do prazo",
+        "id_orgao_juizo": "270000156",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Despejo por Inadimplemento, Locação de Imóvel, Espécies de Contratos, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "06319293128",
+        "ident_reu": "89951409253",
+        "endereco_autor": "TO, Paraíso do Tocantins, jardim paulista, rua Jorge Amado, 1664, 77600000",
+        "endereco_reu": "TO, Palmas, Whatsapp, Atos Whatsapp Palmas, sn, (63) 99223-3549  - 63 99269-8036., 77000000",
+        "juizo": "Juízo da 2ª Vara Cível de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "THULIO FREIRES MAIA CARVALHO",
+          "doc": "063.192.931-28",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 12.450,00"
+      }
+    },
+    "00017816520258272714": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00017816520258272714",
+        "autuacao": "28/10/2025 16:35:33",
+        "str_sig_orgao_juizo": "TOPAIJECCRJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00017816520258272714&hash=f1147d6581e8d465033377031373b3a9",
+        "autor": "KENEDE GONCALVES DE SOUZA<br>",
+        "reu": "DENISE DIAS MOREIRA RODRIGUES<br>e outros",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "25/09/2026 17:48:17",
+        "ultimo_evento": "25/09/2026 17:48:17 - Protocolizada Petição",
+        "id_orgao_juizo": "270000069",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Obrigação de Fazer / Não Fazer, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "96437570130",
+        "ident_reu": "35000699000174",
+        "endereco_autor": "GO, Iaciara, SETOR SUL, AVENIDA VEREADOR DIJALMA JOSE DOS SANTOS, SN, QD 43 LT 4 5, 73920000",
+        "endereco_reu": "TO, Paraíso do Tocantins, Atos WhatsApp, Atos WhatsApp - Paraiso do Tocantins, s/n, (63) 9 9206-2200, 77600000",
+        "juizo": "Juízo do Juizado Especial Cível de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "KENEDE GONCALVES DE SOUZA",
+          "doc": "964.375.701-30",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 16.354,59"
+      }
+    },
+    "00066606420258272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00066606420258272731",
+        "autuacao": "17/10/2025 15:12:03",
+        "str_sig_orgao_juizo": "TOPAIJECCRJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00066606420258272731&hash=461c705c264ce50b15ab3044bc21ab31",
+        "autor": "ELKA MORAES DOS SANTOS COSTA<br>",
+        "reu": "ERNANE ULISSES MAGALHAES<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "09/10/2026 00:15:50",
+        "ultimo_evento": "09/10/2026 00:15:50 - Decurso de Prazo",
+        "id_orgao_juizo": "270000069",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Acidente de Trânsito, Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL, Acidente de Trânsito, Indenização por Dano Material, Responsabilidade da Administração, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "81426836104",
+        "ident_reu": "05022156660",
+        "endereco_autor": "TO, Paraíso do Tocantins, VALE DO ARAGUAIA, AVENIDA JUSCELINO KUBITSCHEK, S N, QD4 LT 1, 77600000",
+        "endereco_reu": "TO, Paraíso do Tocantins, Setor Oeste, Avenida Marechal Castelo Branco, 888, (Casa de Carnes Mineiro), 77600000",
+        "juizo": "Juízo do Juizado Especial Cível de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "ELKA MORAES DOS SANTOS COSTA",
+          "doc": "814.268.361-04",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 13.300,00"
+      }
+    },
+    "00065783320258272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00065783320258272731",
+        "autuacao": "14/10/2025 12:41:38",
+        "str_sig_orgao_juizo": "TOPAIJECCRJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00065783320258272731&hash=c36630b1903f6591f7325400d45b1951",
+        "autor": "GILVAN SANTANA SOUSA<br>",
+        "reu": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "01/10/2026 19:37:36",
+        "ultimo_evento": "01/10/2026 19:37:36 - Baixa Definitiva",
+        "id_orgao_juizo": "270000069",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Protesto Indevido de Título, Indenização por Dano Moral, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "82499500204",
+        "ident_reu": "04895728000180",
+        "endereco_autor": "TO, Paraíso do Tocantins, Setor Pouso Alegre, Avenida 23 de Outubro (Setor Pouso Alegre), 676, 77600000",
+        "endereco_reu": "PA, Belém, Coqueiro, Rodovia Augusto Montenegro, sn, 66823010",
+        "juizo": "Juízo do Juizado Especial Cível de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "GILVAN SANTANA SOUSA",
+          "doc": "824.995.002-04",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00024943720258272715": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00024943720258272715",
+        "autuacao": "07/10/2025 18:24:10",
+        "str_sig_orgao_juizo": "TOCRI1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00024943720258272715&hash=4a838e3663109ea9f0d325addf505543",
+        "autor": "D. R. F. D. L. ",
+        "reu": "A. S. D. O. o. ",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000098",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Acidente de Trânsito, Indenização por Dano Material, Responsabilidade Civil, DIREITO CIVIL, Acidente de Trânsito, Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "04333851114",
+        "ident_reu": "06592416173",
+        "endereco_autor": "TO, Gurupi, Setor Central, Avenida Sergipe, 2137, qd. 13, 77403130",
+        "endereco_reu": "TO, Lagoa da Confusão, Setor Balneário, RUA 03 ST BALNEÁRIO, 02, 77493000",
+        "juizo": "Juízo da 1ª Vara da Comarca de Cristalândia",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00055408320258272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00055408320258272731",
+        "autuacao": "05/09/2025 10:20:15",
+        "str_sig_orgao_juizo": "TOPAI1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00055408320258272731&hash=ca1f530e7073455bb2af33546aae1ebf",
+        "autor": "MANOEL RODRIGUES DA SILVA<br>",
+        "reu": "CLARO S.A.<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "02/10/2026 07:25:39",
+        "ultimo_evento": "02/10/2026 07:25:39 - Juntado - Alvará Pago",
+        "id_orgao_juizo": "270000066",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Cláusulas Abusivas, DIREITO DO CONSUMIDOR, Práticas Abusivas, DIREITO DO CONSUMIDOR",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "16703073104",
+        "ident_reu": "40432544000147",
+        "endereco_autor": "TO, Paraíso do Tocantins, Centro, RUA VOLUNTARIOS DA PATRIA, 1665, 77600000",
+        "endereco_reu": "SP, São Paulo, Santo Amaro, Rua Henri Dunant, 780, 04709110",
+        "juizo": "Juízo da 1ª Vara Cível de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "MANOEL RODRIGUES DA SILVA",
+          "doc": "167.030.731-04",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00021237320258272715": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00021237320258272715",
+        "autuacao": "27/08/2025 09:42:53",
+        "str_sig_orgao_juizo": "TOGURJJG",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00021237320258272715&hash=f7af9849fa226905319fd1457009f6e3",
+        "autor": "P. C. ",
+        "reu": "E. I. ",
+        "classe": "Inquérito Policial",
+        "cod_classe": "2411",
+        "cod_competencia": "5",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "271000449",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Crimes de Trânsito, Crimes Previstos na Legislação Extravagante, DIREITO PENAL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "",
+        "ident_reu": "",
+        "endereco_autor": "TO, Santa Maria do Tocantins, Setor Central, Rua 10, 77716000",
+        "endereco_reu": "",
+        "juizo": "Juízo da Vara Regional das Garantias de Gurupi",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00043014420258272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00043014420258272731",
+        "autuacao": "12/07/2025 10:45:33",
+        "str_sig_orgao_juizo": "TOPAI2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00043014420258272731&hash=7210ac3f24b6a2e20486679713fda288",
+        "autor": "ISABELLA DANTAS SCHMIDT MENEGHETTI<br>e outros",
+        "reu": "PROCESSO SEM PARTE REU<br>",
+        "classe": "Divórcio Consensual",
+        "cod_classe": "2508",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "22/10/2025 07:29:56",
+        "ultimo_evento": "22/10/2025 07:29:56 - Baixa Definitiva",
+        "id_orgao_juizo": "270000068",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Partilha, Dissolução, Casamento, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "07821817163",
+        "ident_reu": "",
+        "endereco_autor": "TO, Paraíso do Tocantins, paraiso dos ipes, rua 11, 11, qd 15, 77600000",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, AASE 50 (502 Sul) Fórum de Palmas, 77000000",
+        "juizo": "Juizo da Vara de Família, Sucessões, Infância e Juventude de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "ISABELLA DANTAS SCHMIDT MENEGHETTI",
+          "doc": "078.218.171-63",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 1.000,00"
+      }
+    },
+    "00042287220258272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00042287220258272731",
+        "autuacao": "09/07/2025 09:20:07",
+        "str_sig_orgao_juizo": "TOPAIJECCRJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00042287220258272731&hash=28b307557ef33ced390f9828989aafbf",
+        "autor": "R.D.M.SOUSA<br>e outros",
+        "reu": "ILEANA CARVALHO RIBEIRO CARDOSO<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "19/12/2025 19:16:55",
+        "ultimo_evento": "19/12/2025 19:16:55 - Baixa Definitiva",
+        "id_orgao_juizo": "270000069",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "11291353000104",
+        "ident_reu": "94076138104",
+        "endereco_autor": "TO, Paraíso do Tocantins, Cartórios Extrajudiciais, Serventias Extrajudiciais - Paraíso do Tocantins, S/N, Av. Transbrasiliana, esquina com a R.Cristalândia, 77600000",
+        "endereco_reu": "TO, Ponte Alta do Tocantins, Setor Central, av. Joana Medeiros, nº 478, S/N, frente à Praça Capitão Antônio Mascarenhas, 77590000",
+        "juizo": "Juízo do Juizado Especial Cível de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "R.D.M.SOUSA",
+          "doc": "11.291.353/0001-04",
+          "tipo": "Pessoa Jurídica",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00040919020258272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00040919020258272731",
+        "autuacao": "02/07/2025 10:30:13",
+        "str_sig_orgao_juizo": "TOPAI2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00040919020258272731&hash=3dc288968c9a56a4f30b34de6689634c",
+        "autor": "J. J. S. ",
+        "reu": "C. M. C. D. A. ",
+        "classe": "Divórcio Litigioso",
+        "cod_classe": "982",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000068",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Partilha, Dissolução, Casamento, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "89386477149",
+        "ident_reu": "54697719115",
+        "endereco_autor": "TO, Lagoa da Confusão, Setor Bela Vista, Rua Pará, 01, 77493000",
+        "endereco_reu": "TO, Paraíso do Tocantins, Atos WhatsApp, Atos WhatsApp - Paraiso do Tocantins, S/N, 77600000",
+        "juizo": "Juizo da Vara de Família, Sucessões, Infância e Juventude de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00036926120258272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00036926120258272731",
+        "autuacao": "12/06/2025 10:27:59",
+        "str_sig_orgao_juizo": "TOPAI2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00036926120258272731&hash=d73a147b3d8492c9d2f82eec36802789",
+        "autor": "J. J. S. ",
+        "reu": "C. M. C. D. A. ",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000068",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Bem de Família Legal, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "89386477149",
+        "ident_reu": "54697719115",
+        "endereco_autor": "TO, Lagoa da Confusão, Setor Bela Vista, Rua Pará, 01, 77493000",
+        "endereco_reu": "TO, Paraíso do Tocantins, Atos WhatsApp, Atos WhatsApp - Paraiso do Tocantins, S/N, 77600000",
+        "juizo": "Juizo da Vara de Família, Sucessões, Infância e Juventude de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00034085320258272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00034085320258272731",
+        "autuacao": "30/05/2025 13:42:26",
+        "str_sig_orgao_juizo": "TOPAI1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00034085320258272731&hash=f3f0bf24996c629d39a009f56012a563",
+        "autor": "ELI MARQUES DE LIMA<br>",
+        "reu": "DENISE DIAS MOREIRA RODRIGUES<br>",
+        "classe": "Execução de Título Extrajudicial",
+        "cod_classe": "644",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "12/08/2026 11:26:53",
+        "ultimo_evento": "12/08/2026 11:26:53 - Protocolizada Petição",
+        "id_orgao_juizo": "270000066",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Nota Promissória, Espécies de Títulos de Crédito, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "25052192000100",
+        "ident_reu": "84110180163",
+        "endereco_autor": "TO, Paraíso do Tocantins, Atos WhatsApp, Atos WhatsApp - Paraiso do Tocantins, s/n,  (WhatsApp): (63) 99252-8153 e (63) 99252-7479, 77600000",
+        "endereco_reu": "TO, Paraíso do Tocantins, Atos WhatsApp, Atos WhatsApp - Paraiso do Tocantins, s/n, (63) 9 9206 2200, 77600000",
+        "juizo": "Juízo da 1ª Vara Cível de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "ELI MARQUES DE LIMA",
+          "doc": "25.052.192/0001-00",
+          "tipo": "Pessoa Jurídica",
+          "papel": "EXEQUENTE"
+        },
+        "valorCausa": "R$ 1.214,69"
+      }
+    },
+    "00015906620258272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00015906620258272731",
+        "autuacao": "14/03/2025 18:19:40",
+        "str_sig_orgao_juizo": "TOCRI1ECRIJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00015906620258272731&hash=e37116c719055c231a74f1ce4f3be7d4",
+        "autor": "LEILSON RIBEIRO DE SOUSA<br>",
+        "reu": "BRUNA MENDES PIAGEM<br>",
+        "classe": "Guarda de Família",
+        "cod_classe": "977",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "11/10/2026 15:00:41",
+        "ultimo_evento": "11/10/2026 15:00:41 - Juntada de certidão - suspensão do prazo",
+        "id_orgao_juizo": "270000099",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Alienação Parental, Relações de Parentesco, Família, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "03932132181",
+        "ident_reu": "08367972139",
+        "endereco_autor": "TO, Palmas, Loteamento Palmas Sul, Rua PS-29, S/N, Quadra 36, Lote 22, 77062360",
+        "endereco_reu": "TO, Paraíso do Tocantins, Atos WhatsApp, Atos WhatsApp - Paraiso do Tocantins, s/n, 63 99132-3908, 77600000",
+        "juizo": "Juízo da 2ª Vara da Comarca de Cristalândia",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "LEILSON RIBEIRO DE SOUSA",
+          "doc": "039.321.321-81",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 350,00"
+      }
+    },
+    "00005518220258272715": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00005518220258272715",
+        "autuacao": "14/03/2025 12:09:41",
+        "str_sig_orgao_juizo": "TOCRI1ECRIJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00005518220258272715&hash=4dc42bd9e6a4b4c71f152fe1c36f0dbf",
+        "autor": "P. C. ",
+        "reu": "L. R. D. S. ",
+        "classe": "Medidas Protetivas de Urgência (Lei Maria da Penha) - Criminal",
+        "cod_classe": "728",
+        "cod_competencia": "9",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000099",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Perseguição, Crimes contra a liberdade pessoal, DIREITO PENAL, Violência Doméstica Contra a Mulher, DIREITO PENAL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "",
+        "ident_reu": "03932132181",
+        "endereco_autor": "TO, Santa Maria do Tocantins, Setor Central, Rua 10, 77716000",
+        "endereco_reu": "TO, Palmas, Loteamento Palmas Sul, Rua PS-29, S/N, Quadra 36, Lote 22, 77062360",
+        "juizo": "Juízo da 2ª Vara da Comarca de Cristalândia",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00003704820258272726": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00003704820258272726",
+        "autuacao": "25/02/2025 14:13:50",
+        "str_sig_orgao_juizo": "2JTUR2",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00003704820258272726&hash=a6268dccf6e978b709feae1584f6ed3c",
+        "autor": "MARIA DE FATIMA NETO<br>",
+        "reu": "ANTÔNIO SILVÉRIO DA CUNHA<br>",
+        "classe": "Recurso Inominado Cível",
+        "cod_classe": "000184",
+        "cod_competencia": "38",
+        "dth_ultimo_evento": "01/10/2026 16:30:51",
+        "ultimo_evento": "01/10/2026 16:30:51 - Conclusão para despacho",
+        "id_orgao_juizo": "271000336",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Acidente de Trânsito, Indenização por Dano Material, Responsabilidade Civil, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "33226490168",
+        "ident_reu": "26429306100",
+        "endereco_autor": "TO, Miracema do Tocantins, zona rural, Chácara Santa Maria, 75650000",
+        "endereco_reu": "TO, Goiatins, POVOADO DE CREOLÂNDIA, FAZENDA BELA VISTA - RIACHO FUNDO DO MUQUÉM, 001, 77000000",
+        "juizo": "SEGUNDO GABINETE DA 2ª TURMA RECURSAL",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "MARIA DE FATIMA NETO",
+          "doc": "332.264.901-68",
+          "tipo": "Pessoa Física",
+          "papel": "RECORRENTE"
+        },
+        "valorCausa": "R$ 56.219,21"
+      }
+    },
+    "00007652520258272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00007652520258272731",
+        "autuacao": "10/02/2025 13:10:53",
+        "str_sig_orgao_juizo": "TOPAI2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00007652520258272731&hash=54ac17474f017471670ffd57466e4cb7",
+        "autor": "S. D. R. G. P. ",
+        "reu": "A. P. D. S. ",
+        "classe": "Divórcio Litigioso",
+        "cod_classe": "982",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000068",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Partilha, Dissolução, Casamento, Família, DIREITO CIVIL, Guarda, Relações de Parentesco, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "03451412101",
+        "ident_reu": "52643506120",
+        "endereco_autor": "TO, Paraíso do Tocantins, Cartórios Extrajudiciais, Serventias Extrajudiciais - Paraíso do Tocantins, s/n, rua Prof Dalva, Qd 44. lote 32, Setor Marisa, 77600000",
+        "endereco_reu": "TO, Barrolândia, CENTRO, N/A 13 DE MAIO, S/N, 77665000",
+        "juizo": "Juizo da Vara de Família, Sucessões, Infância e Juventude de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00007635520258272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00007635520258272731",
+        "autuacao": "10/02/2025 12:59:22",
+        "str_sig_orgao_juizo": "TOPAI2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00007635520258272731&hash=9c1be74d386925b00b970c4439e441df",
+        "autor": "MURILO DOS REIS PEREIRA<br>",
+        "reu": "ANTONIO PEREIRA DA SILVA<br>",
+        "classe": "Alimentos - Lei Especial Nº 5.478/68",
+        "cod_classe": "684",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "11/06/2025 15:04:46",
+        "ultimo_evento": "11/06/2025 15:04:46 - Baixa Definitiva",
+        "id_orgao_juizo": "270000068",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Fixação, Alimentos, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "10531362183",
+        "ident_reu": "52643506120",
+        "endereco_autor": "TO, Paraíso do Tocantins, Atos WhatsApp, Atos WhatsApp - Paraiso do Tocantins, S/N, telefone (63) 99933-5567(whatsapp), 77600000",
+        "endereco_reu": "TO, Barrolândia, CENTRO, N/A 13 DE MAIO, S/N, 77665000",
+        "juizo": "Juizo da Vara de Família, Sucessões, Infância e Juventude de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "MURILO DOS REIS PEREIRA",
+          "doc": "105.313.621-83",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 9.108,00"
+      }
+    },
+    "00006128920258272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00006128920258272731",
+        "autuacao": "03/02/2025 12:01:06",
+        "str_sig_orgao_juizo": "TOPAI1ECRIJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00006128920258272731&hash=c94cc24d50819e091ed9f8d90c3b5228",
+        "autor": "MINISTÉRIO PÚBLICO<br>",
+        "reu": "ALAN ALVES MADEIRA<br>",
+        "classe": "Acordo de Não Persecução Penal",
+        "cod_classe": "2984",
+        "cod_competencia": "5",
+        "dth_ultimo_evento": "17/10/2025 16:24:30",
+        "ultimo_evento": "17/10/2025 16:24:30 - Baixa Definitiva",
+        "id_orgao_juizo": "270000067",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Acordo de Não Persecução Penal, DIREITO PROCESSUAL PENAL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "01786078000146",
+        "ident_reu": "04951910195",
+        "endereco_autor": "SP, São Paulo, Jardim Macedônia, Rua Serra do Pilar, Nº 5, Bloco AP 81, 5, Bloco AP 81, 08330420",
+        "endereco_reu": "TO, Barrolândia, Zona Rural, Fazenda 2S, s/n, 77600000",
+        "juizo": "Juízo da 1ª Vara Criminal de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "MINISTÉRIO PÚBLICO",
+          "doc": "01.786.078/0001-46",
+          "tipo": null,
+          "papel": "AUTORIDADE"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00054276620248272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00054276620248272731",
+        "autuacao": "09/09/2024 16:25:55",
+        "str_sig_orgao_juizo": "TOPAIJECCRJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00054276620248272731&hash=6c47362ad7add08dd481aa07b2315b2a",
+        "autor": "VALERIA DUARTE MONTEL MILHOMEM<br>",
+        "reu": "FELLIPE MORAES AGUIAR<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "27/11/2025 17:41:21",
+        "ultimo_evento": "27/11/2025 17:41:21 - Baixa Definitiva",
+        "id_orgao_juizo": "270000069",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Mora, Inadimplemento, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "87875799104",
+        "ident_reu": "05126473131",
+        "endereco_autor": "TO, Paraíso do Tocantins, CENTRO, N/A ALFREDO NASCER, 819, 77545066",
+        "endereco_reu": "TO, Paraíso do Tocantins, SETOR CENTRAL, RUA BARAO DO RIO BRANCO, 714, 77600000",
+        "juizo": "Juízo do Juizado Especial Cível de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "VALERIA DUARTE MONTEL MILHOMEM",
+          "doc": "878.757.991-04",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 6.696,78"
+      }
+    },
+    "00051522020248272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00051522020248272731",
+        "autuacao": "27/08/2024 18:40:12",
+        "str_sig_orgao_juizo": "TOPAI2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00051522020248272731&hash=d6ca06e77b99f3b4cd038610ba0686b2",
+        "autor": "M. P. ",
+        "reu": "A. P. D. S. ",
+        "classe": "Medidas Protetivas de Urgência-Crianças e Adolescentes(Lei Henry Borel-Lei 14.344/2022) Infracionais",
+        "cod_classe": "14633",
+        "cod_competencia": "10",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000068",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Exploração Sexual, Seção Cível, DIREITO DA CRIANÇA E DO ADOLESCENTE",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "01786078000146",
+        "ident_reu": "52643506120",
+        "endereco_autor": "SP, São Paulo, Jardim Macedônia, Rua Serra do Pilar, Nº 5, Bloco AP 81, 5, Bloco AP 81, 08330420",
+        "endereco_reu": "TO, Barrolândia, CENTRO, N/A 13 DE MAIO, S/N, 77665000",
+        "juizo": "Juizo da Vara de Família, Sucessões, Infância e Juventude de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00041614420248272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00041614420248272731",
+        "autuacao": "11/07/2024 15:59:47",
+        "str_sig_orgao_juizo": "TOPAI2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00041614420248272731&hash=bf6a577532d14b11a55a89e2fb6ffbb2",
+        "autor": "A. R. M. ",
+        "reu": "P. S. P. R. ",
+        "classe": "Inventário",
+        "cod_classe": "673",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000068",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Inventário e Partilha, Sucessões, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "25128620115",
+        "ident_reu": "",
+        "endereco_autor": "TO, Paraíso do Tocantins, Setor Jardim Paulista, Rua Castro Alves (Setor Jardim Paulista), 1001, 77600000",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, AASE 50 (502 Sul) Fórum de Palmas, 77000000",
+        "juizo": "Juizo da Vara de Família, Sucessões, Infância e Juventude de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00070969120238272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00070969120238272731",
+        "autuacao": "22/12/2023 17:36:42",
+        "str_sig_orgao_juizo": "TOPAI1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00070969120238272731&hash=0b76c820468fa3bfce3e070f8887796a",
+        "autor": "JUSTINA RIBEIRO DA SILVA<br>",
+        "reu": "ENI ANDRE TEIXEIRA<br>e outros",
+        "classe": "Usucapião",
+        "cod_classe": "2317",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "29/07/2026 16:57:13",
+        "ultimo_evento": "29/07/2026 16:57:13 - Conclusão para despacho",
+        "id_orgao_juizo": "270000066",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Usucapião Extraordinária, Aquisição, Propriedade, Coisas, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "86658409153",
+        "ident_reu": "89735838168",
+        "endereco_autor": "TO, Paraíso do Tocantins, Zona Rural, Chácara Aeroporto, 111, 77600000",
+        "endereco_reu": "TO, Paraíso do Tocantins, Setor Oeste, Avenida Perimetral (Setor Oeste), 499, 77600000",
+        "juizo": "Juízo da 1ª Vara Cível de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "JUSTINA RIBEIRO DA SILVA",
+          "doc": "866.584.091-53",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 220.000,00"
+      }
+    },
+    "00057284720238272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00057284720238272731",
+        "autuacao": "28/10/2023 16:56:51",
+        "str_sig_orgao_juizo": "TOPAI1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00057284720238272731&hash=0b114444b79146675953dc6ee0a8c916",
+        "autor": "ELI MARQUES DE LIMA<br>",
+        "reu": "PEDRO AUGUSTO LOPES MEDEIROS<br>",
+        "classe": "Cumprimento de sentença",
+        "cod_classe": "2366",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "25/08/2026 17:00:56",
+        "ultimo_evento": "25/08/2026 17:00:56 - Conclusão para despacho",
+        "id_orgao_juizo": "270000066",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Nota Promissória, Espécies de Títulos de Crédito, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "25052192000100",
+        "ident_reu": "08232752130",
+        "endereco_autor": "TO, Paraíso do Tocantins, Atos WhatsApp, Atos WhatsApp - Paraiso do Tocantins, s/n,  (WhatsApp): (63) 99252-8153 e (63) 99252-7479, 77600000",
+        "endereco_reu": "TO, Paraíso do Tocantins, Atos WhatsApp, Atos WhatsApp - Paraiso do Tocantins, s/n, (63) 99274-4237, 77600000",
+        "juizo": "Juízo da 1ª Vara Cível de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "ELI MARQUES DE LIMA",
+          "doc": "25.052.192/0001-00",
+          "tipo": "Pessoa Jurídica",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 1.379,32"
+      }
+    },
+    "00049992120238272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00049992120238272731",
+        "autuacao": "22/09/2023 10:11:41",
+        "str_sig_orgao_juizo": "TOPAI1ECRIJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00049992120238272731&hash=5a5e958d034e36087eb05a9b3d6181b4",
+        "autor": "POLÍCIA CIVIL/TO<br>",
+        "reu": "ALAN ALVES MADEIRA<br>",
+        "classe": "Inquérito Policial",
+        "cod_classe": "2411",
+        "cod_competencia": "5",
+        "dth_ultimo_evento": "20/10/2025 16:04:58",
+        "ultimo_evento": "20/10/2025 16:04:58 - Baixa Definitiva",
+        "id_orgao_juizo": "270000067",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Furto, Crimes contra o Patrimônio, DIREITO PENAL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "",
+        "ident_reu": "04951910195",
+        "endereco_autor": "TO, Santa Maria do Tocantins, Setor Central, Rua 10, 77716000",
+        "endereco_reu": "TO, Barrolândia, Zona Rural, Fazenda 2S, s/n, 77600000",
+        "juizo": "Juízo da 1ª Vara Criminal de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "POLÍCIA CIVIL/TO",
+          "doc": null,
+          "tipo": null,
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00021888820238272731": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00021888820238272731",
+        "autuacao": "27/04/2023 10:55:36",
+        "str_sig_orgao_juizo": "TOPAIJECRCJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00021888820238272731&hash=e36eaf87d5e923efaf6d6c887d2c0924",
+        "autor": "POLÍCIA CIVIL/TO<br>",
+        "reu": "KAYON KESLEY DE CASTRO PONTES<br>",
+        "classe": "Termo Circunstanciado",
+        "cod_classe": "2414",
+        "cod_competencia": "25",
+        "dth_ultimo_evento": "05/11/2025 16:32:10",
+        "ultimo_evento": "05/11/2025 16:32:10 - Baixa Definitiva",
+        "id_orgao_juizo": "270000170",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Leve, Lesão Corporal, DIREITO PENAL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "",
+        "ident_reu": "07243312128",
+        "endereco_autor": "TO, Santa Maria do Tocantins, Setor Central, Rua 10, 77716000",
+        "endereco_reu": "TO, Paraíso do Tocantins, SETOR OESTE, N/A TOCANTINS, 2225, AREA VERDE, 77600000",
+        "juizo": "Juízo do Juizado Especial Criminal de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "EDINEY SOARES FERREIRA",
+          "oab": "TO013085"
+        },
+        "requerente": {
+          "nome": "POLÍCIA CIVIL/TO",
+          "doc": null,
+          "tipo": null,
+          "papel": "AUTORID. POL."
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00025704320168272726": {
+      "primeira_vez_visto": "2026-10-13T18:02:31.799Z",
+      "atualizado_em": "2026-10-14T11:31:41.910Z",
+      "dados": {
+        "nr_processo": "00025704320168272726",
+        "autuacao": "24/11/2016 12:03:01",
+        "str_sig_orgao_juizo": "TOMNT1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00025704320168272726&hash=ee609acc3acc6f013998147baa016a42",
+        "autor": "S. D. R. G. P. ",
+        "reu": "A. M. D. S. ",
+        "classe": "Cumprimento de sentença",
+        "cod_classe": "2366",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000118",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Alimentos, Prisão Civil, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "SUSPENSO / SOBRESTADO",
+        "ident_autor": "03451412101",
+        "ident_reu": "00269680101",
+        "endereco_autor": "TO, Paraíso do Tocantins, Cartórios Extrajudiciais, Serventias Extrajudiciais - Paraíso do Tocantins, s/n, rua Prof Dalva, Qd 44. lote 32, Setor Marisa, 77600000",
+        "endereco_reu": "TO, Miranorte, Atos de Bloqueios, Atos de Bloqueios, s/n, 77660000",
+        "juizo": "Juízo da 1ª Escrivania Cível de Miranorte",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    }
+  }
+}

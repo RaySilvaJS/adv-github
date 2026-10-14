@@ -1,0 +1,25 @@
+{
+  "autor": {
+    "doc": "08361822194",
+    "telefones": [
+      {
+        "numero": "(63)99110-9610",
+        "operadora": "CLARO",
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)98496-0701",
+        "operadora": "TIM",
+        "whatsapp": true
+      }
+    ],
+    "renda": "R$ 286,83",
+    "nome": "Genilson Alves Moreira",
+    "nascimento": "18/04/2002 | 24 Anos",
+    "formato": "whatsapp",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": false,
+    "bruto": "*☞ Resultado da sua consulta:*\n\n• DADOS PESSOAIS:\n       CPF: 083.618.221-94\n       NOME: Genilson Alves Moreira\n       SEXO: MASCULINO\n       NASCIMENTO: 18/04/2002 | 24 Anos\n       MÃE: Marli Alves Correia\n       PAI: Sem informação\n\n• RENDAS/CREDITO:\n       RENDA: R$ 286,83\n       PODER AQUISITIVO: Muito Baixo\n       PODER DE COMPRA: De R$ 112 Até R$ 630\n       PROFISSÃO: Sem informação\n\n• SCORE (0 a 1000):\n       SERASA SCORE: Sem informação\n       SERASA SCORE ANTIGO: Sem informação\n       SPC SCORE: Sem informação\n       SPC SCORE ANTIGO: Sem informação\n       BOAVISTA SCORE: 226\n       BOAVISTA SCORE ANTIGO: Sem informação\n\n• INFORMAÇÕES DO RG/CNH:\n       RG: Sem informação\n       EMISSÃO: Sem informação\n       ORGÃO: Sem informação\n       UF: Sem informação\n\n• OUTRAS INFORMAÇÕES:\n       NIS: Sem informação\n       PIS: Sem informação\n       TITULO: Sem informação\n       CONJUGE: Sem informação\n       ESCOLARIDADE: Sem informação\n       CIDADE DE NASCIMENTO: Sem informação\n\n• ENDEREÇOS (2):\n       PRINCIPAL, , N/A - GOIATINS/TO - 77770000\n       PRINCIPAL,  - GOIATINS/TO - 77770000\n\n• NÚMEROS (2):\n       (63)99110-9610 - CLARO\n       (63)98496-0701 - TIM - WhatsApp\n\n• E-MAILS (0):\n       E-mails não encontrados\n\n• PARENTES (0):\n       Parentes não encontrados\n\n• EMPRESAS (0):\n       Empresas não encontradas\n\n• EMPREGOS (1):\n       35.936.220/0001-06 | FAMA YOU INCORPORACOES IMOBILIARIAS SPE LTDA | 19/07/2021 até n/a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "autor": {
+    "doc": "41281772372",
+    "telefones": [
+      {
+        "numero": "(99)99186-4680",
+        "operadora": "VIVO",
+        "whatsapp": false
+      },
+      {
+        "numero": "(99)99144-5333",
+        "operadora": "VIVO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(99)98467-7052",
+        "operadora": "CLARO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(99)98101-1779",
+        "operadora": "TIM",
+        "whatsapp": false
+      }
+    ],
+    "renda": "R$ 3.520,94",
+    "nome": "Maria Francisca De Sousa Lira",
+    "nascimento": "04/07/1969 | 57 Anos",
+    "formato": "whatsapp",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": false,
+    "bruto": "*☞ Resultado da sua consulta:*\n\n• DADOS PESSOAIS:\n       CPF: 412.817.723-72 (MA)\n       NOME: Maria Francisca De Sousa Lira\n       SEXO: FEMININO\n       NASCIMENTO: 04/07/1969 | 57 Anos\n       MÃE: Eleuver De Sousa Lira\n       PAI: Sem informação\n\n• RENDAS/CREDITO:\n       RENDA: R$ 3.520,94\n       PODER AQUISITIVO: Medio\n       PODER DE COMPRA: De R$ 1630 Até R$ 4082\n       PROFISSÃO: Sem informação\n\n• SCORE (0 a 1000):\n       SERASA SCORE: 37\n       SERASA SCORE ANTIGO: 89\n       SPC SCORE: 89\n       SPC SCORE ANTIGO: 89\n       BOAVISTA SCORE: 570\n       BOAVISTA SCORE ANTIGO: 570\n\n• INFORMAÇÕES DO RG/CNH:\n       RG: Sem informação\n       EMISSÃO: Sem informação\n       ORGÃO: Sem informação\n       UF: Sem informação\n\n• OUTRAS INFORMAÇÕES:\n       NIS: Sem informação\n       PIS: 18210403082\n       TITULO: 018710361104\n       CONJUGE: Sem informação\n       ESCOLARIDADE: Superior Completo\n       CIDADE DE NASCIMENTO: Sem informação\n\n• ENDEREÇOS (14):\n       ★ R RICARDO MARTINS 402, CENTRO, CAROLINA/MA - 65980000\n       ★ R RICARDO MARTINS 402, 402 - CAROLINA/MA - 65980000\n       RUA RICARDO MARTINS, 409, CENTRO - CAROLINA/MA - 65980000\n       RICARDO MARTINS, 409, CENTRO - CAROLINA/MA - 65980000\n       R RICARDO MARTINS, 402 - CAROLINA/MA - 65980000\n       R RICARDO MARTINS 450, CENTRO, CAROLINA/MA - 65980000\n       R RICARDO MARTINS 450, 450 - CAROLINA/MA - 65980000\n       R RICARDO MARTINS 409, null, CAROLINA/MA - 65980000\n       R RICARDO MARTINS 409, 409 - CAROLINA/MA - 65980000\n       R RICARDO MARTINS 402 402, CENTRO, CAROLINA/MA - 65980000\n       R RICARDO MARTINS 402 402, 402 - CAROLINA/MA - 65980000\n       R RICARDO MARTINA, 402 - CAROLINA/MA - 65980000\n       D MARCELINO SN, CENTRO, CAROLINA/MA - 65980000\n       D MARCELINO SN - CAROLINA/MA - 65980000\n\n• NÚMEROS (4):\n       (99)99186-4680 - VIVO\n       (99)99144-5333 - VIVO - WhatsApp\n       (99)98467-7052 - CLARO\n       (99)98101-1779 - TIM\n\n• E-MAILS (0):\n       E-mails não encontrados\n\n• PARENTES (2):\n       ELEUVER DE SOUSA LIRA - MAE\n       NATALIA LIRA DE SOUSA - FILHA(O) - 041.689.081-43\n\n• EMPRESAS (0):\n       Empresas não encontradas\n\n• EMPREGOS (1):\n       25.053.083/0001-08 | SETA DA EDUC JUVENTUDE E ESPORTES | R$ 4.896,13 | 19/05/1993 até n/a"
+  }
+}

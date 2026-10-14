@@ -1,0 +1,2067 @@
+{
+  "oab": "TO006112",
+  "primeira_consulta": "2026-10-13T14:44:29.458Z",
+  "ultima_consulta": "2026-10-13T14:50:29.072Z",
+  "total_na_ultima_consulta": 58,
+  "processos": {
+    "00585219520258272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00585219520258272729",
+        "autuacao": "16/12/2025 23:46:13",
+        "str_sig_orgao_juizo": "TOPAL3CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00585219520258272729&hash=e5e681ce150121bb657ce2004b15e045",
+        "autor": "EDERSON ANTONIO DA CRUZ<br>",
+        "reu": "ALIANCA ON-LINE TELECOMUNICACOES LTDA<br>e outros",
+        "classe": "Liquidação de Sentença pelo Procedimento Comum",
+        "cod_classe": "2372",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "28/09/2026 14:16:53",
+        "ultimo_evento": "28/09/2026 14:16:53 - Recebidos os Autos pela Contadoria",
+        "id_orgao_juizo": "270000009",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Interesses ou Direitos Coletivos em Sentido Estrito, Direito Coletivo, Processo Coletivo, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Práticas Abusivas, DIREITO DO CONSUMIDOR, Pagamento, Adimplemento e Extinção, Obrigações, DIREITO CIVIL, Assistência Judiciária Gratuita, Partes e Procuradores, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Levantamento de Valor, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "84590920115",
+        "ident_reu": "08837391000105",
+        "endereco_autor": "TO, Palmas, Luzimangues, Rua Interna, Quadra 2, 12, Casa 2, 77502000",
+        "endereco_reu": "TO, Palmas, Plano Diretor Norte, ACNE 1 (104 Norte) Rua NE 1, 14, 77006016",
+        "juizo": "Juízo da 3ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "EDERSON ANTONIO DA CRUZ",
+          "doc": "845.909.201-15",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 7.285,86"
+      }
+    },
+    "00543136820258272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00543136820258272729",
+        "autuacao": "25/11/2025 13:39:50",
+        "str_sig_orgao_juizo": "TOPAL3CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00543136820258272729&hash=05cb294a02e18212292d52e94060f1b0",
+        "autor": "PAULO JEOVANI DANDOLINI<br>",
+        "reu": "RICARDO DANTAS DE MACEDO<br>e outros",
+        "classe": "Liquidação de Sentença pelo Procedimento Comum",
+        "cod_classe": "2372",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "12/09/2026 19:00:26",
+        "ultimo_evento": "12/09/2026 19:00:26 - Protocolizada Petição",
+        "id_orgao_juizo": "270000009",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Levantamento de Valor, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Assistência Judiciária Gratuita, Partes e Procuradores, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Pagamento, Adimplemento e Extinção, Obrigações, DIREITO CIVIL, Práticas Abusivas, DIREITO DO CONSUMIDOR, Interesses ou Direitos Coletivos em Sentido Estrito, Direito Coletivo, Processo Coletivo, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "64775704249",
+        "ident_reu": "08837391000105",
+        "endereco_autor": "RO, Rolim de Moura, CENTRO, AVENIDA RECIFE, 4674, 76940000",
+        "endereco_reu": "TO, Palmas, Plano Diretor Norte, ACNE 1 (104 Norte) Rua NE 1, 14, 77006016",
+        "juizo": "Juízo da 3ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "PAULO JEOVANI DANDOLINI",
+          "doc": "647.757.042-49",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 122.448,46"
+      }
+    },
+    "00503071820258272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00503071820258272729",
+        "autuacao": "30/10/2025 17:38:16",
+        "str_sig_orgao_juizo": "TOPAL1FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00503071820258272729&hash=da6d7bb54383309ced9bad055b9e8408",
+        "autor": "AAHRÃO DE DEUS MORAES<br>e outros",
+        "reu": "JOSELI MARIA DOS SANTOS<br>",
+        "classe": "Remoção de Inventariante",
+        "cod_classe": "2279",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "01/10/2026 16:26:32",
+        "ultimo_evento": "01/10/2026 16:26:32 - Protocolizada Petição",
+        "id_orgao_juizo": "270000016",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Inventário e Partilha, Sucessões, DIREITO CIVIL, Administração de Herança, Sucessões, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "00560343183",
+        "ident_reu": "90060954434",
+        "endereco_autor": "TO, Palmas, Whatsapp, Atos Whatsapp Palmas, sn,  (63) 99978-2517 , 77000000",
+        "endereco_reu": "TO, Palmas, Plano Diretor Norte, ARNO 41 (403 Norte) Alameda 2, lote 7, 77001486",
+        "juizo": "Juízo da 1ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": {
+          "nome": "AAHRÃO DE DEUS MORAES",
+          "doc": "005.603.431-83",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 1.000,00"
+      }
+    },
+    "00219737120258272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00219737120258272729",
+        "autuacao": "21/05/2025 14:09:53",
+        "str_sig_orgao_juizo": "TOPAL1FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00219737120258272729&hash=738817837e9ab7310c2ea00825d318a3",
+        "autor": "R. C. D. M. S. ",
+        "reu": "S. R. D. S. ",
+        "classe": "Divórcio Litigioso",
+        "cod_classe": "982",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000016",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Partilha, Dissolução, Casamento, Família, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "02204249858",
+        "ident_reu": "06180387877",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ARSO 33 (307 Sul) Rua 3, sn,  Lt. 06, QI. 16, CEP: 77015-476, 77015476",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, ARSO 31 (303 Sul) Alameda 9, S/N, QI.12LOTE 07, 77015403",
+        "juizo": "Juízo da 1ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00480721520248272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00480721520248272729",
+        "autuacao": "11/11/2024 18:06:35",
+        "str_sig_orgao_juizo": "TOPAL1FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00480721520248272729&hash=5fbaaa4b2a72727476267890a42b22b1",
+        "autor": "M. D. D. M. o. ",
+        "reu": "E. V. D. M. ",
+        "classe": "Inventário",
+        "cod_classe": "673",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000016",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Inventário e Partilha, Sucessões, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "00560343183",
+        "ident_reu": "15751074149",
+        "endereco_autor": "TO, Palmas, Whatsapp, Atos Whatsapp Palmas, sn,  (63) 99978-2517 , 77000000",
+        "endereco_reu": "TO, Palmas, PLANO DIRETOR SUL, ALAMEDA ARSE 12 ALAMEDA 3, LOTE 12, 77020074",
+        "juizo": "Juízo da 1ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00351501020228272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00351501020228272729",
+        "autuacao": "12/09/2022 17:18:08",
+        "str_sig_orgao_juizo": "TOPALPRECJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00351501020228272729&hash=cb5b7d4c3d47c8e0fae7050f7a5566ae",
+        "autor": "NÁRIA COSTA TEIXEIRA<br>",
+        "reu": "HOSPITAL DE URGENCIA DE PALMAS LTDA<br>",
+        "classe": "Impugnação de Crédito",
+        "cod_classe": "2347",
+        "cod_competencia": "39",
+        "dth_ultimo_evento": "10/04/2023 16:50:44",
+        "ultimo_evento": "10/04/2023 16:50:44 - Baixa Definitiva",
+        "id_orgao_juizo": "270000019",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Classificação de créditos, Recuperação judicial e Falência, Empresas, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "00002552116",
+        "ident_reu": "38147344000109",
+        "endereco_autor": "TO, Palmas, PALMAS SUL 1 ETAPA, RUA PS 02 QD 02 LT 11",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, ACSU-SO 40 (401 Sul) Avenida NS 1, Lote 07, Conjunto 02, 77015556",
+        "juizo": "Juízo da Vara de Precatórias Civeis e Criminais, Falências e Recuperações Judiciais de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "NÁRIA COSTA TEIXEIRA",
+          "doc": "000.025.521-16",
+          "tipo": "Pessoa Física",
+          "papel": "IMPUGNANTE"
+        },
+        "valorCausa": "R$ 12.000,00"
+      }
+    },
+    "00289680820228272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00289680820228272729",
+        "autuacao": "29/07/2022 12:25:22",
+        "str_sig_orgao_juizo": "TOPAL5JEJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00289680820228272729&hash=ce4e6c6427e4b2b37226d2b2079bea04",
+        "autor": "LUCIO DE LIMA CAVALCANTI<br>",
+        "reu": "ESTADO DO TOCANTINS<br>",
+        "classe": "Cumprimento de Sentença contra a Fazenda Pública",
+        "cod_classe": "2472",
+        "cod_competencia": "36",
+        "dth_ultimo_evento": "12/08/2024 15:56:11",
+        "ultimo_evento": "12/08/2024 15:56:11 - Baixa Definitiva",
+        "id_orgao_juizo": "271000389",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Licenciamento de Veículo, Sistema Nacional de Trânsito, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO, Multas e demais Sanções, Infração Administrativa, Atos Administrativos, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO, Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "71443819115",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Palmas, PLANO DIRETOR SUL, qUADRA 603 sUL, aLAMEDA 05, lOTE 17, 333, BLOCO B, 77000000",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juízo do 5º Juizado Especial de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "LUCIO DE LIMA CAVALCANTI",
+          "doc": "714.438.191-15",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 1.200,00"
+      }
+    },
+    "00478548920218272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00478548920218272729",
+        "autuacao": "23/12/2021 18:00:12",
+        "str_sig_orgao_juizo": "TOPALPRECJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00478548920218272729&hash=23288c3e05fedcf9d9f6977c846b4923",
+        "autor": "HOSPITAL DE URGENCIA DE PALMAS LTDA<br>",
+        "reu": "SEM PARTE RÉ<br>",
+        "classe": "Recuperação Judicial",
+        "cod_classe": "2356",
+        "cod_competencia": "39",
+        "dth_ultimo_evento": "28/09/2026 18:22:25",
+        "ultimo_evento": "28/09/2026 18:22:25 - Juntada de certidão - traslado de peças do processo ",
+        "id_orgao_juizo": "270000019",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Concurso de Credores, Recuperação judicial e Falência, Empresas, DIREITO CIVIL, Administração judicial, Recuperação judicial e Falência, Empresas, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "38147344000109",
+        "ident_reu": "",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ACSU-SO 40 (401 Sul) Avenida NS 1, Lote 07, Conjunto 02, 77015556",
+        "endereco_reu": "TO, Paraíso do Tocantins, Setor Milena, Rua 2 (Milena), 715, 77600000",
+        "juizo": "Juízo da Vara de Precatórias Civeis e Criminais, Falências e Recuperações Judiciais de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": {
+          "nome": "HOSPITAL DE URGENCIA DE PALMAS LTDA",
+          "doc": "38.147.344/0001-09",
+          "tipo": "Pessoa Jurídica",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 45.672.141,45"
+      }
+    },
+    "00056892120218272731": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00056892120218272731",
+        "autuacao": "06/12/2021 18:01:23",
+        "str_sig_orgao_juizo": "TOPAIJECCRJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00056892120218272731&hash=16b27b776152e619c242babc8a9bbd1e",
+        "autor": "RAFAEL RODRIGUES DE SOUSA<br>",
+        "reu": "ISABELLA DA COSTA SILVA<br>",
+        "classe": "Cumprimento de sentença",
+        "cod_classe": "2366",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "23/02/2024 19:10:29",
+        "ultimo_evento": "23/02/2024 19:10:29 - Baixa Definitiva",
+        "id_orgao_juizo": "270000069",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Acidente de Trânsito, Indenização por Dano Material, Responsabilidade Civil, DIREITO CIVIL, Acidente de Trânsito, Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "08038337174",
+        "ident_reu": "01695654323",
+        "endereco_autor": "TO, Paraíso do Tocantins, Setor Vila Regina, Rua Portugal (Vila Regina), 2121, QUADRA 05 , LOTE 24, 77600000",
+        "endereco_reu": "TO, Paraíso do Tocantins, Setor Central, Rua Tocantins (Setor Central), sn, 77600000",
+        "juizo": "Juízo do Juizado Especial Cível de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "RAFAEL RODRIGUES DE SOUSA",
+          "doc": "080.383.371-74",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00098098920218272737": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00098098920218272737",
+        "autuacao": "17/09/2021 09:15:37",
+        "str_sig_orgao_juizo": "TOPOR2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00098098920218272737&hash=db66a0f8dfac4a8be7cddfc27c8dce42",
+        "autor": "Juízo da 3ª Vara Civel de Palmas<br>",
+        "reu": "Juízo da 2ª Vara Cível de Porto Nacional<br>",
+        "classe": "Carta Precatória Cível",
+        "cod_classe": "2337",
+        "cod_competencia": "4",
+        "dth_ultimo_evento": "11/11/2021 14:14:49",
+        "ultimo_evento": "11/11/2021 14:14:49 - Baixa Definitiva",
+        "id_orgao_juizo": "270000156",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Contratos Bancários, Espécies de Contratos, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "",
+        "ident_reu": "",
+        "endereco_autor": "",
+        "endereco_reu": "",
+        "juizo": "Juízo da 2ª Vara Cível de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": {
+          "nome": "Juízo da 3ª Vara Civel de Palmas",
+          "doc": null,
+          "tipo": null,
+          "papel": "DEPRECANTE"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00335822720208272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00335822720208272729",
+        "autuacao": "31/08/2020 17:43:04",
+        "str_sig_orgao_juizo": "TOPAL5JEJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00335822720208272729&hash=a1a82320e05733493c35aa796affbf96",
+        "autor": "JULIANA CAROLINE CARVALHO MAFIOLETTI<br>e outros",
+        "reu": "ESTADO DO TOCANTINS<br>",
+        "classe": "Cumprimento de Sentença contra a Fazenda Pública",
+        "cod_classe": "2472",
+        "cod_competencia": "36",
+        "dth_ultimo_evento": "12/08/2024 16:13:44",
+        "ultimo_evento": "12/08/2024 16:13:44 - Baixa Definitiva",
+        "id_orgao_juizo": "271000389",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Adjudicação, Licitações, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO, Perdas e Danos, Inadimplemento, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "02938607008",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "RS, Viamão, Jardim Krahe, Rua Alvares de Azevedo, 110, 94440360",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juízo do 5º Juizado Especial de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "JULIANA CAROLINE CARVALHO MAFIOLETTI",
+          "doc": "029.386.070-08",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 41.700,00"
+      }
+    },
+    "00504493220198272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00504493220198272729",
+        "autuacao": "28/11/2019 14:59:36",
+        "str_sig_orgao_juizo": "TOPALPRECJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00504493220198272729&hash=6af141c1dcaade39ac2a73e955794a3c",
+        "autor": "Juízo da 1ª Escrivania Cível de Miranorte<br>",
+        "reu": "JUIZO DA VARA DE PRECATÓRIAS CÍVEIS E CRIMINAIS, FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DA COMARCA DE PALMAS TO <br>",
+        "classe": "Carta Precatória Cível",
+        "cod_classe": "2337",
+        "cod_competencia": "4",
+        "dth_ultimo_evento": "04/02/2020 17:54:13",
+        "ultimo_evento": "04/02/2020 17:54:13 - Baixa Definitiva",
+        "id_orgao_juizo": "270000019",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Citação, Objetos de cartas precatórias cíveis/de ordem, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Intimação, Objetos de cartas precatórias cíveis/de ordem, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "",
+        "ident_reu": "",
+        "endereco_autor": "TO, Miranorte, Vila Maria, Rua 32, s/n, 77660000",
+        "endereco_reu": "TO, Palmas, Centro, Praça dos Girassóis, 77015007",
+        "juizo": "Juízo da Vara de Precatórias Civeis e Criminais, Falências e Recuperações Judiciais de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": {
+          "nome": "Juízo da 1ª Escrivania Cível de Miranorte",
+          "doc": null,
+          "tipo": null,
+          "papel": "DEPRECANTE"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00455326720198272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00455326720198272729",
+        "autuacao": "30/10/2019 15:03:05",
+        "str_sig_orgao_juizo": "TOPAL3FAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00455326720198272729&hash=6de3822d90cbad0f85e6b5068365825f",
+        "autor": "ESTADO DO TOCANTINS<br>",
+        "reu": "GIDOC - GESTAO DA INFORMACAO DOCUMENTAL LTDA<br>e outros",
+        "classe": "Execução Fiscal",
+        "cod_classe": "662",
+        "cod_competencia": "35",
+        "dth_ultimo_evento": "12/07/2024 17:06:29",
+        "ultimo_evento": "12/07/2024 17:06:29 - Despacho - Suspensão ou Sobrestamento - Convenção das Partes",
+        "id_orgao_juizo": "270000192",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "ICMS/Importação, ICMS/ Imposto sobre Circulação de Mercadorias, Impostos, DIREITO TRIBUTÁRIO",
+        "des_situacao": "SUSPENSO / SOBRESTADO",
+        "ident_autor": "01786029000103",
+        "ident_reu": "16466793000179",
+        "endereco_autor": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "endereco_reu": "TO, Palmas, PLANO DIRETOR SUL, QUADRA 103 SUL RUA SO 1, 27, LOTE  16, 77015014",
+        "juizo": "Juizo da Vara de Execuções Fiscais e Saúde de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "ESTADO DO TOCANTINS",
+          "doc": "01.786.029/0001-03",
+          "tipo": "Entidade",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 19.154,13"
+      }
+    },
+    "00425801820198272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00425801820198272729",
+        "autuacao": "11/10/2019 14:49:26",
+        "str_sig_orgao_juizo": "TOPALPRECJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00425801820198272729&hash=e0158fc725f1915a280ef3c76a6c32d6",
+        "autor": "Juízo da 1ª Escrivania Cível de Miranorte<br>",
+        "reu": "JUIZO DA VARA DE PRECATÓRIAS CÍVEIS E CRIMINAIS, FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DA COMARCA DE PALMAS TO <br>",
+        "classe": "Carta Precatória Cível",
+        "cod_classe": "2337",
+        "cod_competencia": "4",
+        "dth_ultimo_evento": "25/11/2019 10:07:16",
+        "ultimo_evento": "25/11/2019 10:07:16 - Baixa Definitiva",
+        "id_orgao_juizo": "270000019",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Citação, Objetos de cartas precatórias cíveis/de ordem, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Intimação, Objetos de cartas precatórias cíveis/de ordem, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "",
+        "ident_reu": "",
+        "endereco_autor": "TO, Miranorte, Vila Maria, Rua 32, s/n, 77660000",
+        "endereco_reu": "TO, Palmas, Centro, Praça dos Girassóis, 77015007",
+        "juizo": "Juízo da Vara de Precatórias Civeis e Criminais, Falências e Recuperações Judiciais de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": {
+          "nome": "Juízo da 1ª Escrivania Cível de Miranorte",
+          "doc": null,
+          "tipo": null,
+          "papel": "DEPRECANTE"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00359911020198272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00359911020198272729",
+        "autuacao": "30/08/2019 18:26:27",
+        "str_sig_orgao_juizo": "TOPAL5JEJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00359911020198272729&hash=8cef19e9c690d2f30c5e3ae992c63ff4",
+        "autor": "JULIANA CAROLINE CARVALHO MAFIOLETTI<br>e outros",
+        "reu": "SUPERINTENDÊNCIA DE PROTEÇÃO AOS DIREITOS DO CONSUMIDOR - PROCON/TO<br>e outros",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "36",
+        "dth_ultimo_evento": "03/05/2022 21:44:30",
+        "ultimo_evento": "03/05/2022 21:44:30 - Protocolizada Petição",
+        "id_orgao_juizo": "271000389",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Adjudicação, Licitações, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "02938607008",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "RS, Viamão, Jardim Krahe, Rua Alvares de Azevedo, 110, 94440360",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juízo do 5º Juizado Especial de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "JULIANA CAROLINE CARVALHO MAFIOLETTI",
+          "doc": "029.386.070-08",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 41.700,00"
+      }
+    },
+    "00322488920198272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00322488920198272729",
+        "autuacao": "08/08/2019 18:06:29",
+        "str_sig_orgao_juizo": "TOPAL1FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00322488920198272729&hash=1022bc309ae5f6fe96eeea4a6c5fea37",
+        "autor": "S. G. R. ",
+        "reu": "M. B. P. ",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000016",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Dissolução, Casamento, Família, DIREITO CIVIL, Fixação, Alimentos, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "64426050197",
+        "ident_reu": "96203200182",
+        "endereco_autor": "TO, Palmas, Cartórios Extrajudiciais, Serventias Extrajudiciais - Palmas, s/n, Qd. 403S, Al. 10, QI 28, Lt. 28, 77000000",
+        "endereco_reu": "TO, Palmas, PLANO DIRETOR SUL, QUADRA ARSE 111 ALAMEDA 11, 04, 1104, 77024030",
+        "juizo": "Juízo da 1ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00251228520198272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00251228520198272729",
+        "autuacao": "17/06/2019 11:59:52",
+        "str_sig_orgao_juizo": "TOPAL5CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00251228520198272729&hash=57fd44b8ad55047814da8911e160e813",
+        "autor": "ALAN COELHO COSTA JORGE<br>e outros",
+        "reu": "BRADESCO SAÚDE S/A<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "07/07/2022 13:38:10",
+        "ultimo_evento": "07/07/2022 13:38:10 - Protocolizada Petição",
+        "id_orgao_juizo": "270000011",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Contratos Bancários, Espécies de Contratos, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "50985655291",
+        "ident_reu": "92693118000160",
+        "endereco_autor": "TO, Itacajá, Setor Central, Rua 2, sn, 77720000",
+        "endereco_reu": "RJ, Rio de Janeiro, Rio Comprido, Rua Barão de Itapagipe, 225, Centro, 20261901",
+        "juizo": "Juízo da 5ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "FABIANA MOREIRA DA SILVA",
+          "doc": "509.856.552-91",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 30.000,00"
+      }
+    },
+    "00232382120198272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00232382120198272729",
+        "autuacao": "03/06/2019 17:13:22",
+        "str_sig_orgao_juizo": "TOPAL4JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00232382120198272729&hash=1538b2dda846c642a98cd413496c07b8",
+        "autor": "CARLOS SANTOS MANZINI JUNIOR<br>",
+        "reu": "ACJ CONSTRUCOES E INCORPORACOES S/A<br>",
+        "classe": "Cumprimento de sentença",
+        "cod_classe": "2366",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "30/10/2024 12:58:53",
+        "ultimo_evento": "30/10/2024 12:58:53 - Baixa Definitiva",
+        "id_orgao_juizo": "271000394",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Protesto Indevido de Título, Indenização por Dano Moral, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "76416003104",
+        "ident_reu": "00148049000196",
+        "endereco_autor": "DF, Brasília, ASA SUL, SQS 403 BLOCO E, APTO 1, 70237050",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, ARSO 52 (505 Sul) Alameda 23, sn, QI 41 Lote 15, 77016045",
+        "juizo": "Juízo do 4º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "CARLOS SANTOS MANZINI JUNIOR",
+          "doc": "764.160.031-04",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 22.185,31"
+      }
+    },
+    "00213095020198272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00213095020198272729",
+        "autuacao": "21/05/2019 15:41:43",
+        "str_sig_orgao_juizo": "TOMNT1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00213095020198272729&hash=3af8fa1754de7309d54e09a8baa6171b",
+        "autor": "MARA CELMA AQUINO NUNES<br>",
+        "reu": "EDNEY VIEIRA DE MORAES<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "10/08/2021 11:35:49",
+        "ultimo_evento": "10/08/2021 11:35:49 - Baixa Definitiva",
+        "id_orgao_juizo": "270000118",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Agêncie e Distribuição, Espécies de Contratos, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "96128569153",
+        "ident_reu": "15751074149",
+        "endereco_autor": "MG, Paracatu, CENTRO, RIO GRANDE DO SUL , 1108, 38600100",
+        "endereco_reu": "TO, Palmas, PLANO DIRETOR SUL, ALAMEDA ARSE 12 ALAMEDA 3, LOTE 12, 77020074",
+        "juizo": "Juízo da 1ª Escrivania Cível de Miranorte",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "MARA CELMA AQUINO NUNES",
+          "doc": "961.285.691-53",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 168.000,00"
+      }
+    },
+    "00200078320198272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00200078320198272729",
+        "autuacao": "13/05/2019 13:28:17",
+        "str_sig_orgao_juizo": "TOPAL3JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00200078320198272729&hash=7d5f38f45b70bc59e078ac434d166c3d",
+        "autor": "ZILMAIR APARECIDA FERREIRA<br>e outros",
+        "reu": "GEFER CONSTRUTORA EIRELI ME<br>e outros",
+        "classe": "Execução de Título Extrajudicial",
+        "cod_classe": "644",
+        "cod_competencia": "16",
+        "dth_ultimo_evento": "23/07/2020 08:55:33",
+        "ultimo_evento": "23/07/2020 08:55:33 - Encaminhamento Processual",
+        "id_orgao_juizo": "271000392",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Contratos Bancários, Espécies de Contratos, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "02204249858",
+        "ident_reu": "01571059113",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ARSO 33 (307 Sul) Rua 3, sn,  Lt. 06, QI. 16, CEP: 77015-476, 77015476",
+        "endereco_reu": "TO, Palmas, Whatsapp, Atos Whatsapp Palmas, sn, (63) 99127.5595, 77000000",
+        "juizo": "Juízo do 3º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "doc": "022.042.498-58",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 12.819,41"
+      }
+    },
+    "00170086020198272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00170086020198272729",
+        "autuacao": "25/04/2019 09:09:36",
+        "str_sig_orgao_juizo": "TOPALJUICJSC",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00170086020198272729&hash=e2744498138cb8231a6ba0abdbb04805",
+        "autor": "MUNICIPIO DE PALMAS<br>",
+        "reu": "CARLOS SANTOS MANZINI JUNIOR<br>",
+        "classe": "Reclamação Pré-processual",
+        "cod_classe": "2444",
+        "cod_competencia": "30",
+        "dth_ultimo_evento": "24/02/2022 14:47:44",
+        "ultimo_evento": "24/02/2022 14:47:44 - Baixa Definitiva",
+        "id_orgao_juizo": "270000173",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "IPTU/ Imposto Predial e Territorial Urbano, Impostos, DIREITO TRIBUTÁRIO",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "24851511000185",
+        "ident_reu": "76416003104",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, 104 Norte, Avenida JK, Edifício Via Nobre, 28, A, 77006014",
+        "endereco_reu": "DF, Brasília, ASA SUL, SQS 403 BLOCO E, APTO 1, 70237050",
+        "juizo": "JUIZO DO CENTRO JUDICIÁRIO DE SOLUÇÃO DE CONFLITOS E CIDADANIA (CEJUSC) - PALMAS",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "MUNICIPIO DE PALMAS",
+          "doc": "24.851.511/0001-85",
+          "tipo": "Entidade",
+          "papel": "RECLAMANTE"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00139687020198272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00139687020198272729",
+        "autuacao": "07/04/2019 13:01:33",
+        "str_sig_orgao_juizo": "TOCOL1EFAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00139687020198272729&hash=3ce6dbb26ea7407c1dc7095b158801d8",
+        "autor": "ZENEOMAR DE SIQUEIRA<br>",
+        "reu": "EDUARDA RODRIGUES FREITAS DE SIQUEIRA<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "18/05/2022 16:18:53",
+        "ultimo_evento": "18/05/2022 16:18:53 - Baixa Definitiva",
+        "id_orgao_juizo": "270000095",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Exoneração, Alimentos, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "19585888149",
+        "ident_reu": "05556782105",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ARSE 111 (1104 Sul) Alameda 4, SN, Lote 65, 77024032",
+        "endereco_reu": "PA, Dom Eliseu, CENTRO, RUA HAVAI, 81, 68633000",
+        "juizo": "Juízo da Vara de Família Sucessões, Inf e Juventude de Colinas do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "ZENEOMAR DE SIQUEIRA",
+          "doc": "195.858.881-49",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 3.592,80"
+      }
+    },
+    "00112933720198272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00112933720198272729",
+        "autuacao": "20/03/2019 12:36:57",
+        "str_sig_orgao_juizo": "TOPAL5CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00112933720198272729&hash=d22edcd95a126e7717e258e837c61ba4",
+        "autor": "FABIANA MOREIRA DA SILVA<br>e outros",
+        "reu": "BRADESCO SAÚDE S/A<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "26/06/2019 09:00:24",
+        "ultimo_evento": "26/06/2019 09:00:24 - Baixa Definitiva",
+        "id_orgao_juizo": "270000011",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Seguro, Espécies de Contratos, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "50985655291",
+        "ident_reu": "92693118000160",
+        "endereco_autor": "TO, Itacajá, Setor Central, Rua 2, sn, 77720000",
+        "endereco_reu": "RJ, Rio de Janeiro, Rio Comprido, Rua Barão de Itapagipe, 225, Centro, 20261901",
+        "juizo": "Juízo da 5ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "ALAN COELHO COSTA JORGE",
+          "doc": "013.060.021-09",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 30.000,00"
+      }
+    },
+    "00089039420198272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00089039420198272729",
+        "autuacao": "28/02/2019 15:39:56",
+        "str_sig_orgao_juizo": "TOPAL3FAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00089039420198272729&hash=4ed3a5369d640914ea2c3e60b379166b",
+        "autor": "ESTADO DO TOCANTINS<br>",
+        "reu": "GIDOC - GESTAO DA INFORMACAO DOCUMENTAL LTDA<br>e outros",
+        "classe": "Execução Fiscal",
+        "cod_classe": "662",
+        "cod_competencia": "35",
+        "dth_ultimo_evento": "11/10/2026 17:13:04",
+        "ultimo_evento": "11/10/2026 17:13:04 - Juntada de certidão - suspensão do prazo",
+        "id_orgao_juizo": "270000192",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "ICMS/Importação, ICMS/ Imposto sobre Circulação de Mercadorias, Impostos, DIREITO TRIBUTÁRIO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "01786029000103",
+        "ident_reu": "16466793000179",
+        "endereco_autor": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "endereco_reu": "TO, Palmas, PLANO DIRETOR SUL, QUADRA 103 SUL RUA SO 1, 27, LOTE  16, 77015014",
+        "juizo": "Juizo da Vara de Execuções Fiscais e Saúde de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "ESTADO DO TOCANTINS",
+          "doc": "01.786.029/0001-03",
+          "tipo": "Entidade",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 273.690,53"
+      }
+    },
+    "00072713320198272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00072713320198272729",
+        "autuacao": "19/02/2019 09:12:05",
+        "str_sig_orgao_juizo": "TOPAL4JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00072713320198272729&hash=da9859973c0d84ccc3d11eb5c053802b",
+        "autor": "JAIR DA SILVA<br>",
+        "reu": "JAIR LUCAS PEREIRA<br>",
+        "classe": "Execução de Título Extrajudicial",
+        "cod_classe": "644",
+        "cod_competencia": "19",
+        "dth_ultimo_evento": "19/07/2020 18:03:21",
+        "ultimo_evento": "19/07/2020 18:03:21 - Encaminhamento Processual",
+        "id_orgao_juizo": "271000394",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Cheque, Espécies de Títulos de Crédito, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "87667223149",
+        "ident_reu": "03713878000162",
+        "endereco_autor": "TO, Palmas, Whatsapp, Atos Whatsapp Palmas, sn, (63)99283-6172, 77000000",
+        "endereco_reu": "TO, Palmas, JARDIM AURENY IV, AVENIDA D QD 65 LT 21, SN, 77060046",
+        "juizo": "Juízo do 4º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "JAIR DA SILVA",
+          "doc": "876.672.231-49",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 5.500,00"
+      }
+    },
+    "00027953620198279200": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00027953620198279200",
+        "autuacao": "12/02/2019 14:24:23",
+        "str_sig_orgao_juizo": "2JTUR1",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00027953620198279200&hash=9f77eb04b2b3c9a1de9a5b14a79edcb9",
+        "autor": "CLEUDIVÂNIA RODRIGUES DO NASCIMENTO<br>",
+        "reu": "ZURICH MINAS BRASIL SEGUROS S.A.<br>e outros",
+        "classe": "Recurso Inominado Cível (DISTRIBUIÇÃO INTERNA)",
+        "cod_classe": "2960",
+        "cod_competencia": "38",
+        "dth_ultimo_evento": "16/04/2020 18:17:18",
+        "ultimo_evento": "16/04/2020 18:17:18 - Juntada - Documento - Acórdão-Mérito",
+        "id_orgao_juizo": "271000336",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Indenização por Dano Material, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "02874972169",
+        "ident_reu": "",
+        "endereco_autor": "",
+        "endereco_reu": "",
+        "juizo": "PRIMEIRO GABINETE DA 2ª TURMA RECURSAL",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "CLEUDIVÂNIA RODRIGUES DO NASCIMENTO",
+          "doc": "028.749.721-69",
+          "tipo": "Pessoa Física",
+          "papel": "RECORRENTE"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00048775320198272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00048775320198272729",
+        "autuacao": "04/02/2019 18:32:40",
+        "str_sig_orgao_juizo": "TOPAL3CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00048775320198272729&hash=8d4223879966c664aff7b78fed62ce29",
+        "autor": "ROSA DOS VENTOS EMPREENDIMENTOS IMOBILIÁRIOS LTDA<br>",
+        "reu": "DANIEL MACIEL ROSA<br>",
+        "classe": "Cumprimento de sentença",
+        "cod_classe": "2366",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "19/10/2022 17:13:09",
+        "ultimo_evento": "19/10/2022 17:13:09 - Baixa Definitiva",
+        "id_orgao_juizo": "270000009",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Contratos Bancários, Espécies de Contratos, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "17805439000194",
+        "ident_reu": "01370521626",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ARSO 42 (405 Sul) Alameda 12, 11-A, QI 18, 77015642",
+        "endereco_reu": "TO, Araguaína, SETOR BEIRA LAGO, AV. MARECHAL CASTELO BRANCO, 614, 77813030",
+        "juizo": "Juízo da 3ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "ROSA DOS VENTOS EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+          "doc": "17.805.439/0001-94",
+          "tipo": "Pessoa Jurídica",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 54.095,63"
+      }
+    },
+    "00037256720198272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00037256720198272729",
+        "autuacao": "29/01/2019 10:49:13",
+        "str_sig_orgao_juizo": "TOPAL4JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00037256720198272729&hash=153811b9fec75b4370db746cca2e8fda",
+        "autor": "JAIR DA SILVA<br>",
+        "reu": "PR EMPREENDIMENTOS IMOBILIÁRIOS  LTDA<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "19",
+        "dth_ultimo_evento": "27/07/2020 07:51:36",
+        "ultimo_evento": "27/07/2020 07:51:36 - Encaminhamento Processual",
+        "id_orgao_juizo": "271000394",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Inclusão Indevida em Cadastro de Inadimplentes, Indenização por Dano Moral, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "87667223149",
+        "ident_reu": "11917132000107",
+        "endereco_autor": "TO, Palmas, Whatsapp, Atos Whatsapp Palmas, sn, (63)99283-6172, 77000000",
+        "endereco_reu": "TO, Porto Nacional, Atos WhatsApp, Atos Whatsapp - Porto Nacional, sn, (63) 98118-8609, 77500000",
+        "juizo": "Juízo do 4º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "JAIR DA SILVA",
+          "doc": "876.672.231-49",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 6.000,00"
+      }
+    },
+    "00479674820188272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00479674820188272729",
+        "autuacao": "27/12/2018 11:56:04",
+        "str_sig_orgao_juizo": "TOPAL3FAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00479674820188272729&hash=f780eaaa936559e20189c4c4a2f5c487",
+        "autor": "ESTADO DO TOCANTINS<br>",
+        "reu": "JULIANA CAROLINE CARVALHO MAFIOLETTI<br>",
+        "classe": "Execução Fiscal",
+        "cod_classe": "662",
+        "cod_competencia": "35",
+        "dth_ultimo_evento": "18/11/2022 15:08:18",
+        "ultimo_evento": "18/11/2022 15:08:18 - Juntado - Alvará Pago",
+        "id_orgao_juizo": "270000192",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "ICMS/Importação, ICMS/ Imposto sobre Circulação de Mercadorias, Impostos, DIREITO TRIBUTÁRIO",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "01786029000103",
+        "ident_reu": "17470565000135",
+        "endereco_autor": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "endereco_reu": "RS, Viamão, JARDIM KRAHE, R. ALVARES DE AZEVEDO, 110, 94440360",
+        "juizo": "Juizo da Vara de Execuções Fiscais e Saúde de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "ESTADO DO TOCANTINS",
+          "doc": "01.786.029/0001-03",
+          "tipo": "Entidade",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 28.176,75"
+      }
+    },
+    "00479484220188272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00479484220188272729",
+        "autuacao": "27/12/2018 10:12:28",
+        "str_sig_orgao_juizo": "TOPAL3FAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00479484220188272729&hash=b8451bdc39e81bd55498169167f1fc6d",
+        "autor": "ESTADO DO TOCANTINS<br>",
+        "reu": "JULIANA CAROLINE CARVALHO MAFIOLETTI<br>",
+        "classe": "Execução Fiscal",
+        "cod_classe": "662",
+        "cod_competencia": "35",
+        "dth_ultimo_evento": "16/07/2020 10:33:17",
+        "ultimo_evento": "16/07/2020 10:33:17 - Baixa Definitiva",
+        "id_orgao_juizo": "270000192",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "ICMS/Importação, ICMS/ Imposto sobre Circulação de Mercadorias, Impostos, DIREITO TRIBUTÁRIO",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "01786029000103",
+        "ident_reu": "17470565000135",
+        "endereco_autor": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "endereco_reu": "RS, Viamão, JARDIM KRAHE, R. ALVARES DE AZEVEDO, 110, 94440360",
+        "juizo": "Juizo da Vara de Execuções Fiscais e Saúde de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "REGINA CARVALHO DE MELLO SILVA",
+          "oab": "TO006112"
+        },
+        "requerente": {
+          "nome": "ESTADO DO TOCANTINS",
+          "doc": "01.786.029/0001-03",
+          "tipo": "Entidade",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 100.220,57"
+      }
+    },
+    "00342532120188272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00342532120188272729",
+        "autuacao": "18/09/2018 11:28:54",
+        "str_sig_orgao_juizo": "TOPAL3FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00342532120188272729&hash=b2d495fe1778d5e1c01b886a8b1c0ad1",
+        "autor": "A. R. D. S. o. ",
+        "reu": "P. S. P. R. ",
+        "classe": "Inventário",
+        "cod_classe": "673",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000018",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Inventário e Partilha, Sucessões, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "51095394134",
+        "ident_reu": "",
+        "endereco_autor": "TO, Palmas, SANTA FÉ, RUA T-14, QD 27 LT 07, 77270000",
+        "endereco_reu": "TO, São Miguel do Tocantins, Zona Rural, Fazenda Lagoa Azul, sn, 77925000",
+        "juizo": "Juízo da 3ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00187323620188272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00187323620188272729",
+        "autuacao": "04/06/2018 15:49:24",
+        "str_sig_orgao_juizo": "TOPAL3CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00187323620188272729&hash=d8443192503b12cc0b4e03370fd965a6",
+        "autor": "JOSIMAR ALVES DE CARVALHO<br>e outros",
+        "reu": "VALERIA RODRIGUES GUIMARAES<br>e outros",
+        "classe": "Cumprimento de sentença",
+        "cod_classe": "2366",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "12/01/2023 18:02:11",
+        "ultimo_evento": "12/01/2023 18:02:11 - Baixa Definitiva",
+        "id_orgao_juizo": "270000009",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Acessão, Aquisição, Propriedade, Coisas, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "38299593115",
+        "ident_reu": "00371899133",
+        "endereco_autor": "TO, Palmas, SETOR SANTA BARBARA, RUA 08, QUADRA 37, LOTE 04,, 04, 77000000",
+        "endereco_reu": "GO, Goiânia, JD NOVO MUNDO, QUADRA 806 SUL, ALAMEDA 09, LOTE 16, 16, 77023068",
+        "juizo": "Juízo da 3ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00038713220188279200": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00038713220188279200",
+        "autuacao": "28/02/2018 11:46:10",
+        "str_sig_orgao_juizo": "2JTUR1",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00038713220188279200&hash=3916894e0533136324e7685e6dd077ec",
+        "autor": "ITAU UNIBANCO S.A.<br>",
+        "reu": "LEANDRO FERREIRA MARTINS<br>",
+        "classe": "Recurso Inominado Cível (DISTRIBUIÇÃO INTERNA)",
+        "cod_classe": "2960",
+        "cod_competencia": "38",
+        "dth_ultimo_evento": "27/09/2018 10:28:25",
+        "ultimo_evento": "27/09/2018 10:28:25 - Baixa Definitiva",
+        "id_orgao_juizo": "271000336",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Empréstimo consignado, Bancários, Contratos de Consumo, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "60701190451882",
+        "ident_reu": "",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ACSE 1 (104 Sul) Avenida Juscelino Kubitschek Conjunto 02, S/N, 77020012",
+        "endereco_reu": "",
+        "juizo": "PRIMEIRO GABINETE DA 2ª TURMA RECURSAL",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00001940720188272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00001940720188272729",
+        "autuacao": "05/01/2018 17:03:19",
+        "str_sig_orgao_juizo": "TOPAL2JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00001940720188272729&hash=f2d79ea21346b01e157f03c44f97350e",
+        "autor": "CLEUDIVÂNIA RODRIGUES DO NASCIMENTO<br>",
+        "reu": "ZURICH MINAS BRASIL SEGUROS S.A.<br>e outros",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "18",
+        "dth_ultimo_evento": "10/11/2020 18:34:30",
+        "ultimo_evento": "10/11/2020 18:34:30 - Protocolizada Petição",
+        "id_orgao_juizo": "271000390",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Indenização por Dano Material, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "02874972169",
+        "ident_reu": "17197385000121",
+        "endereco_autor": "",
+        "endereco_reu": "MG, Belo Horizonte, FUNCIONARIOS, AVENIDA GETULIO VARGAS, 1420, 5º e 6º Andar, 30112021",
+        "juizo": "Juízo do 2º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00410686820178272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00410686820178272729",
+        "autuacao": "01/12/2017 18:37:47",
+        "str_sig_orgao_juizo": "TOPAL2FAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00410686820178272729&hash=40464cddf47c82c38652f3e91d4461be",
+        "autor": "I. F. B. D. R. ",
+        "reu": "M. D. P. ",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "2",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000191",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Advertência, Processo Administrativo Disciplinar ou Sindicância, Servidor Público Civil, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "11948759632",
+        "ident_reu": "24851511000185",
+        "endereco_autor": "",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, 104 Norte, Avenida JK, Edifício Via Nobre, 28, A, 77006014",
+        "juizo": "Juizo da 2ª Vara da Fazenda e Reg. Públicos de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00407196520178272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00407196520178272729",
+        "autuacao": "30/11/2017 13:17:42",
+        "str_sig_orgao_juizo": "TOPAL2FAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00407196520178272729&hash=4cae7e8093e315ffbdf94de32c92f5c9",
+        "autor": "ADAO PEREIRA LIRA BARBOSA<br>e outros",
+        "reu": "SERVI SEGURANÇA E VIGILANCIA DE INSTALAÇÕES LTDA<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "2",
+        "dth_ultimo_evento": "23/03/2022 18:06:01",
+        "ultimo_evento": "23/03/2022 18:06:01 - Baixa Definitiva",
+        "id_orgao_juizo": "270000191",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Serviços de Saúde, Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "92920152149",
+        "ident_reu": "01437326000577",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ARSO 131 (AV 1303 Sul) Alameda 1, SN, Lt 70, 77000000",
+        "endereco_reu": "TO, Palmas, Buscas, Buscas Execução Fiscal 1, S/N, SRI, 77000000",
+        "juizo": "Juizo da 2ª Vara da Fazenda e Reg. Públicos de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00330358920178272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00330358920178272729",
+        "autuacao": "04/10/2017 11:10:33",
+        "str_sig_orgao_juizo": "TOPAL3JECRIJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00330358920178272729&hash=cff7d80f4f88e3d4f47087319b528c32",
+        "autor": "POLÍCIA CIVIL/TO<br>",
+        "reu": "JACYARA RODRIGUES DA SILVA<br>",
+        "classe": "Termo Circunstanciado",
+        "cod_classe": "2414",
+        "cod_competencia": "20",
+        "dth_ultimo_evento": "18/07/2020 17:43:46",
+        "ultimo_evento": "18/07/2020 17:43:46 - Encaminhamento Processual",
+        "id_orgao_juizo": "271000393",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Ameaça, Crimes contra a liberdade pessoal, DIREITO PENAL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "",
+        "ident_reu": "90743067134",
+        "endereco_autor": "TO, Santa Maria do Tocantins, Setor Central, Rua 10, 77716000",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, ARSO 102 (1005 Sul) Alameda 13, 13, QI 9, LOTE 01, 77018488",
+        "juizo": "Juízo do 3º Juizado Especial Criminal de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00271300620178272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00271300620178272729",
+        "autuacao": "14/08/2017 12:43:02",
+        "str_sig_orgao_juizo": "TOPAL3JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00271300620178272729&hash=a892faab645b538199c9d3b576ce564d",
+        "autor": "LEANDRO FERREIRA MARTINS<br>",
+        "reu": "ITAU UNIBANCO S.A.<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "17",
+        "dth_ultimo_evento": "23/07/2020 13:47:49",
+        "ultimo_evento": "23/07/2020 13:47:49 - Encaminhamento Processual",
+        "id_orgao_juizo": "271000392",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Empréstimo consignado, Bancários, Contratos de Consumo, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "02774358116",
+        "ident_reu": "60701190451882",
+        "endereco_autor": "TO, Palmas, Whatsapp, Atos Whatsapp Palmas, S/N, whatsApp: (63) 98405-3195, 77000000",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, ACSE 1 (104 Sul) Avenida Juscelino Kubitschek Conjunto 02, S/N, 77020012",
+        "juizo": "Juízo do 3º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00232223820178272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00232223820178272729",
+        "autuacao": "06/07/2017 19:40:38",
+        "str_sig_orgao_juizo": "TOPAL5CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00232223820178272729&hash=308e8afa5aee8cd1b090c7d96c26db43",
+        "autor": "GÊUSON DOS SANTOS SOUSA<br>",
+        "reu": "P. A. ORMAY VASCONCELOS<br>e outros",
+        "classe": "Cumprimento de sentença",
+        "cod_classe": "2366",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "13/12/2024 16:06:42",
+        "ultimo_evento": "13/12/2024 16:06:42 - Arquivamento Provisório",
+        "id_orgao_juizo": "270000011",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Indenização por Dano Material, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "ARQUIVO PROVISÓRIO",
+        "ident_autor": "05812554102",
+        "ident_reu": "24357750000183",
+        "endereco_autor": "TO, Palmas, Whatsapp, Atos Whatsapp Palmas, s/n, (63) 99224-4629, 77000000",
+        "endereco_reu": "SP, Sumaré, PARQUE JATOBA (NOVA VENEZA), CELESTE QUAGLIO MENUZZO , 51, 13175634",
+        "juizo": "Juízo da 5ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00014044220178272725": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00014044220178272725",
+        "autuacao": "12/06/2017 22:13:48",
+        "str_sig_orgao_juizo": "TOMIR1EFAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00014044220178272725&hash=ad8f42af0fe461c9efa769a67b64059b",
+        "autor": "J. P. D. S. F. o. ",
+        "reu": "V. C. d. M. d. T. ",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000155",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Fixação, Alimentos, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "01310435103",
+        "ident_reu": "",
+        "endereco_autor": "TO, Palmas, PLANO DIRETOR SUL, QUADRA 1503 SUL ALAMEDA 36, S N, LOTE 20 QI 43, 77025476",
+        "endereco_reu": "TO, Miracema do Tocantins, SANTA FILOMENA, Avenida Tocantins, s/n, SANTA fILOMENA, 77650000",
+        "juizo": "Juízo da Escrivania de Família, Sucessões, Inf. e Juventude de Miracema do Tocan",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00162886420178272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00162886420178272729",
+        "autuacao": "29/05/2017 18:45:38",
+        "str_sig_orgao_juizo": "TOPAL2FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00162886420178272729&hash=73f49eb86a2d98483ecb2f059f235c86",
+        "autor": "G. P. D. A. ",
+        "reu": "P. C. O. D. A. ",
+        "classe": "Divórcio Litigioso",
+        "cod_classe": "689",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000017",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Dissolução, Casamento, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "09259319692",
+        "ident_reu": "52316548253",
+        "endereco_autor": "TO, Palmas, ZONA RURAL, 22º Batalhão de infantaria, Fazenda Brejo Comprido, SN, ZONA RURAL, 77000000",
+        "endereco_reu": "AM, Manaus, CIDADE NOVA, RUA NEPAL, QD 83, 27, CONJ NOVA CIDADE, 69097315",
+        "juizo": "Juízo da 2ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00009609420178272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00009609420178272729",
+        "autuacao": "17/01/2017 09:34:51",
+        "str_sig_orgao_juizo": "TOPAL3FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00009609420178272729&hash=5c44ad3c6e2530aabf2e01b5c162b07d",
+        "autor": "J. A. D. C. ",
+        "reu": "V. R. G. o. ",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000018",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Reconhecimento / Dissolução, União Estável ou Concubinato, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "38299593115",
+        "ident_reu": "",
+        "endereco_autor": "TO, Palmas, SETOR SANTA BARBARA, RUA 08, QUADRA 37, LOTE 04,, 04, 77000000",
+        "endereco_reu": "GO, Goiânia, Residencial Morada do Bos, Rua MB2, Quadra 03 Lote 36,, sn, 77000000",
+        "juizo": "Juízo da 3ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00410343020168272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00410343020168272729",
+        "autuacao": "22/11/2016 16:21:49",
+        "str_sig_orgao_juizo": "TOPAL3CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00410343020168272729&hash=57bf7186cdfd98819716a2a3888fa598",
+        "autor": "EDERSON ANTONIO DA CRUZ<br>",
+        "reu": "RICARDO DANTAS DE MACEDO<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "22/10/2025 18:06:24",
+        "ultimo_evento": "22/10/2025 18:06:24 - Baixa Definitiva",
+        "id_orgao_juizo": "270000009",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Rescisão / Resolução, Inadimplemento, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "84590920115",
+        "ident_reu": "08837391000105",
+        "endereco_autor": "TO, Palmas, Luzimangues, Rua Interna, Quadra 2, 12, Casa 2, 77502000",
+        "endereco_reu": "TO, Palmas, Plano Diretor Norte, ACNE 1 (104 Norte) Rua NE 1, 14, 77006016",
+        "juizo": "Juízo da 3ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00382160820168272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00382160820168272729",
+        "autuacao": "31/10/2016 19:11:46",
+        "str_sig_orgao_juizo": "TOPAL3CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00382160820168272729&hash=2deb843ae697fdf7c55dc19df72015d3",
+        "autor": "PAULO JEOVANI DANDOLINI<br>",
+        "reu": "RICARDO DANTAS DE MACEDO<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "22/10/2025 16:50:11",
+        "ultimo_evento": "22/10/2025 16:50:11 - Baixa Definitiva",
+        "id_orgao_juizo": "270000009",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Rescisão / Resolução, Inadimplemento, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "64775704249",
+        "ident_reu": "08837391000105",
+        "endereco_autor": "RO, Rolim de Moura, CENTRO, AVENIDA RECIFE, 4674, 76940000",
+        "endereco_reu": "TO, Palmas, Plano Diretor Norte, ACNE 1 (104 Norte) Rua NE 1, 14, 77006016",
+        "juizo": "Juízo da 3ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00328889720168272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00328889720168272729",
+        "autuacao": "27/09/2016 16:58:52",
+        "str_sig_orgao_juizo": "TOPAL4JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00328889720168272729&hash=88f884e1f3cf1daa6d62e50607fa08b3",
+        "autor": "GÊUSON DOS SANTOS SOUSA<br>",
+        "reu": "P. A. ORMAY VASCONCELOS<br>e outros",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "19",
+        "dth_ultimo_evento": "19/07/2020 17:17:09",
+        "ultimo_evento": "19/07/2020 17:17:09 - Encaminhamento Processual",
+        "id_orgao_juizo": "271000394",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Indenização por Dano Material, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR, Produto Impróprio, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "05812554102",
+        "ident_reu": "14599931000162",
+        "endereco_autor": "TO, Palmas, Whatsapp, Atos Whatsapp Palmas, s/n, (63) 99224-4629, 77000000",
+        "endereco_reu": "SP, Sumaré, JARDIM SANTA MARIA, POLONIA, 44, 13177421",
+        "juizo": "Juízo do 4º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00273807320168272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00273807320168272729",
+        "autuacao": "19/08/2016 02:34:50",
+        "str_sig_orgao_juizo": "TOPAL2FAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00273807320168272729&hash=f9aeacea1d9e2a0b739e9b9fc500873f",
+        "autor": "SUZANE A. DE OLIVEIRA<br>e outros",
+        "reu": "PALMAS EMPREENDIMENTOS DE SERVIÇOS FUNERÁRIOS LTDA<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "2",
+        "dth_ultimo_evento": "30/11/2021 17:44:05",
+        "ultimo_evento": "30/11/2021 17:44:05 - Baixa Definitiva",
+        "id_orgao_juizo": "270000191",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Serviços de Saúde, Indenização por Dano Moral, Responsabilidade da Administração, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "05801197931",
+        "ident_reu": "03063756000178",
+        "endereco_autor": "TO, Palmas, PLANO DIRETOR SUL, 1104 SUL, ALAMEDA 4, 24, 77024032",
+        "endereco_reu": "TO, Palmas, PLANO DIRETOR SUL, QUADRA ACSV SE 24 (210 SUL) AV LO 05 LOTE 15 E 16, S/N, 77020580",
+        "juizo": "Juizo da 2ª Vara da Fazenda e Reg. Públicos de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00037672420168272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00037672420168272729",
+        "autuacao": "04/02/2016 17:43:57",
+        "str_sig_orgao_juizo": "TOPALPRECJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00037672420168272729&hash=e763072fbd7db182d2209622e93d36cc",
+        "autor": "FCAS SERVIÇOS DE ARQUIVOS INTELIGENTES LTDA<br>",
+        "reu": "TOTVS S.A.<br>",
+        "classe": "Exceção de Incompetência",
+        "cod_classe": "2271",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "01/03/2016 10:44:29",
+        "ultimo_evento": "01/03/2016 10:44:29 - Baixa Definitiva",
+        "id_orgao_juizo": "270000019",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Duplicata, Espécies de Títulos de Crédito, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "10427700000110",
+        "ident_reu": "53113791000122",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ACSU-SO 10 (101 Sul) Avenida Joaquim Teotônio Segurado, 6, QD 101 SUL, CJ 1, LT 6, SL 402 - ED. OFFICE CENTER, 77015002",
+        "endereco_reu": "SP, São Paulo, CASA VERDE, AVENIDA BRAZ LEME, 1000, 02511000",
+        "juizo": "Juízo da Vara de Precatórias Civeis e Criminais, Falências e Recuperações Judiciais de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00384935820158272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00384935820158272729",
+        "autuacao": "16/12/2015 17:53:26",
+        "str_sig_orgao_juizo": "TOPAL2FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00384935820158272729&hash=109e4f232f4dd5d6b029d4a9d52887d6",
+        "autor": "L. G. T. C. ",
+        "reu": "V. C. T. B. ",
+        "classe": "Alimentos - Lei Especial Nº 5.478/68",
+        "cod_classe": "684",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000017",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Exoneração, Alimentos, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "98501771791",
+        "ident_reu": "05080090146",
+        "endereco_autor": "RJ, Rio de Janeiro, Cordovil, Rua Dante, 236, 21941909",
+        "endereco_reu": "TO, Palmas, CENTRO, 208 SUL, ALAMEDA 17, LT 59, 77020570",
+        "juizo": "Juízo da 2ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00350258620158272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00350258620158272729",
+        "autuacao": "17/11/2015 10:31:57",
+        "str_sig_orgao_juizo": "TOPAL3JECRIJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00350258620158272729&hash=31b5204fa02647140c076b096169cb4c",
+        "autor": "POLÍCIA CIVIL/TO<br>",
+        "reu": "SONIA RAIMUNDA FRREIRA GUERREIRO<br>",
+        "classe": "Termo Circunstanciado",
+        "cod_classe": "2414",
+        "cod_competencia": "21",
+        "dth_ultimo_evento": "19/07/2020 14:36:53",
+        "ultimo_evento": "19/07/2020 14:36:53 - Encaminhamento Processual",
+        "id_orgao_juizo": "271000393",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Injúria, Crimes contra a Honra, DIREITO PENAL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "",
+        "ident_reu": "",
+        "endereco_autor": "TO, Santa Maria do Tocantins, Setor Central, Rua 10, 77716000",
+        "endereco_reu": "TO, Palmas, CENTRO, QD 308 SUL AV LO 07 ED. GREEN PARK APTO 101, SN, 77000000",
+        "juizo": "Juízo do 3º Juizado Especial Criminal de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00348006620158272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00348006620158272729",
+        "autuacao": "16/11/2015 09:00:31",
+        "str_sig_orgao_juizo": "TOPALPRECJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00348006620158272729&hash=b2b14b710dc3b02039fac46aa22799b3",
+        "autor": "JUIZO DE DIREITO DA 17ª VARA CIVEL DA COMARCA DE SÃO PAULO - SP <br>",
+        "reu": "JUIZO DA VARA DE PRECATÓRIAS CÍVEIS E CRIMINAIS, FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DA COMARCA DE PALMAS TO <br>",
+        "classe": "Carta Precatória Cível (PROCESSO ORIGINÁRIO EM MEIO FÍSICO)",
+        "cod_classe": "2268",
+        "cod_competencia": "4",
+        "dth_ultimo_evento": "09/03/2016 16:12:10",
+        "ultimo_evento": "09/03/2016 16:12:10 - Baixa Definitiva",
+        "id_orgao_juizo": "270000019",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Citação, Atos Processuais, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "",
+        "ident_reu": "",
+        "endereco_autor": "",
+        "endereco_reu": "TO, Palmas, Centro, Praça dos Girassóis, 77015007",
+        "juizo": "Juízo da Vara de Precatórias Civeis e Criminais, Falências e Recuperações Judiciais de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00297730520158272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00297730520158272729",
+        "autuacao": "01/10/2015 12:03:24",
+        "str_sig_orgao_juizo": "TOPAL3JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00297730520158272729&hash=4630cbd5321f98e470ae3ba38c176c27",
+        "autor": "ADRIANI DE SÁ<br>",
+        "reu": "CONSTRUTORA D. I. LTDA<br>",
+        "classe": "Cumprimento de sentença",
+        "cod_classe": "2366",
+        "cod_competencia": "17",
+        "dth_ultimo_evento": "25/08/2022 14:58:36",
+        "ultimo_evento": "25/08/2022 14:58:36 - Protocolizada Petição",
+        "id_orgao_juizo": "271000392",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Inclusão Indevida em Cadastro de Inadimplentes, Indenização por Dano Moral, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "56657625120",
+        "ident_reu": "07197626000189",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ARSO 32 (305 Sul) Rua 7, sn,  QD AR 5032, QI 15, LT 6, 77015414",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, ARSE 12 (106 Sul) Alameda 4, s/n,  Conjuntos lotes L, lote 30 HM, 77020072",
+        "juizo": "Juízo do 3º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00265841920158272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00265841920158272729",
+        "autuacao": "02/09/2015 15:17:13",
+        "str_sig_orgao_juizo": "TOPAL2CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00265841920158272729&hash=cc5e1f271b9a14bf12d926e78542a62e",
+        "autor": "ALINY CAVALCANTE MOREIRA<br>",
+        "reu": "ZILZA MOREIRA MOTA<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "05/11/2023 17:39:15",
+        "ultimo_evento": "05/11/2023 17:39:15 - Protocolizada Petição",
+        "id_orgao_juizo": "270000001",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Perda da Propriedade, Propriedade, Coisas, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "03480536140",
+        "ident_reu": "05308283168",
+        "endereco_autor": "TO, Palmas, AURENI 2, 7 DE SETEMBRO , QD26 LT08, 77064002",
+        "endereco_reu": "TO, Palmas, PLANO DIRETOR SUL, QUADRA 210 SUL ALAMEDA 07 LOTE 13, S/N, CASA 09, 77020592",
+        "juizo": "Juízo da 2ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00226530820158272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00226530820158272729",
+        "autuacao": "28/07/2015 20:54:10",
+        "str_sig_orgao_juizo": "TOPAL2CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00226530820158272729&hash=80aa2a7bd15f0a8a4a2f71e01f3b682a",
+        "autor": "CARLOS SANTOS MANZINI JUNIOR<br>",
+        "reu": "BANCO ITAU CONSIGNADO S.A.<br>",
+        "classe": "Cumprimento de sentença",
+        "cod_classe": "2366",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "24/12/2019 11:02:26",
+        "ultimo_evento": "24/12/2019 11:02:26 - Protocolizada Petição",
+        "id_orgao_juizo": "270000001",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Inclusão Indevida em Cadastro de Inadimplentes, Indenização por Dano Moral, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "76416003104",
+        "ident_reu": "33885724007555",
+        "endereco_autor": "DF, Brasília, ASA SUL, SQS 403 BLOCO E, APTO 1, 70237050",
+        "endereco_reu": "MG, Belo Horizonte, LOURDES, AV ALVARES CABRAL, n° 1777, LOJA: 501 A 510; LOJA: 1601 A 1610, 30170001",
+        "juizo": "Juízo da 2ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00127479120158272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00127479120158272729",
+        "autuacao": "28/04/2015 19:08:57",
+        "str_sig_orgao_juizo": "TOPAL2FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00127479120158272729&hash=ed36671501821bb188b3479bb8509faf",
+        "autor": "S. A. D. O. J. ",
+        "reu": "S. A. D. O. ",
+        "classe": "Execução de Alimentos",
+        "cod_classe": "693",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000017",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Fixação, Alimentos, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "04250384160",
+        "ident_reu": "13484575115",
+        "endereco_autor": "TO, Palmas, JARDIM LAILA, LOTEAMENTO 48, S N, RUA 18 LOTE 05, 77066414",
+        "endereco_reu": "GO, Uruana, Centro, Av. José Alves Toledo (Centro Automotivo Uruana), 177, Esquina c/Rua 21, 76335000",
+        "juizo": "Juízo da 2ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00127443920158272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00127443920158272729",
+        "autuacao": "28/04/2015 18:29:34",
+        "str_sig_orgao_juizo": "TOPAL2FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00127443920158272729&hash=206d2d31030e1d4a540fb35cedd18a1e",
+        "autor": "S. A. D. O. J. ",
+        "reu": "S. A. D. O. ",
+        "classe": "Execução de Alimentos",
+        "cod_classe": "693",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000017",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Fixação, Alimentos, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "04250384160",
+        "ident_reu": "13484575115",
+        "endereco_autor": "TO, Palmas, JARDIM LAILA, LOTEAMENTO 48, S N, RUA 18 LOTE 05, 77066414",
+        "endereco_reu": "GO, Uruana, Centro, Av. José Alves Toledo (Centro Automotivo Uruana), 177, Esquina c/Rua 21, 76335000",
+        "juizo": "Juízo da 2ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00154555120148272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "00154555120148272729",
+        "autuacao": "24/06/2014 11:22:16",
+        "str_sig_orgao_juizo": "TOPAL2JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00154555120148272729&hash=b392f50df862fba7f58bae0ae65c869a",
+        "autor": "DEUSIVETE SOUSA DOS SANTOS<br>",
+        "reu": "IUNES SOCIEDADE INDIVIDUAL DE ADVOCACIA<br>e outros",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "18",
+        "dth_ultimo_evento": "24/07/2020 16:28:50",
+        "ultimo_evento": "24/07/2020 16:28:50 - Encaminhamento Processual",
+        "id_orgao_juizo": "271000390",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Contratos Bancários, Espécies de Contratos, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "28510176833",
+        "ident_reu": "04151958000134",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ARSE 122 (1206 Sul) Alameda 8, 40, Whatsaap:  (63) 98410-1420, 77024466",
+        "endereco_reu": "GO, Goiânia, SETOR CENTRAL, DR.PEDRO LUDOVICO TEIXEIRA(PCA CIVICA) , 64, 74003010",
+        "juizo": "Juízo do 2º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "50078429420118272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "50078429420118272729",
+        "autuacao": "11/09/2011 00:00:00",
+        "str_sig_orgao_juizo": "TOPAL1CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=50078429420118272729&hash=28c1589927cb97c0946d9d19a94051d5",
+        "autor": "FCAS SERVIÇOS DE ARQUIVOS INTELIGENTES LTDA<br>",
+        "reu": "BARROS SILVA & CIA LTDA<br>",
+        "classe": "Cumprimento de sentença",
+        "cod_classe": "2366",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "24/09/2025 11:48:59",
+        "ultimo_evento": "24/09/2025 11:48:59 - Baixa Definitiva",
+        "id_orgao_juizo": "270000008",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Cheque, Espécies de Títulos de Crédito, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "10427700000110",
+        "ident_reu": "10335767000125",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ACSU-SO 10 (101 Sul) Avenida Joaquim Teotônio Segurado, 6, QD 101 SUL, CJ 1, LT 6, SL 402 - ED. OFFICE CENTER, 77015002",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, Quadra ACSU SE 10 Avenida NS 2, S/N, Lote 10, SNCJ 2 SL, 77020008",
+        "juizo": "Juízo da 1ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "50091922020118272729": {
+      "primeira_vez_visto": "2026-10-13T14:44:29.458Z",
+      "atualizado_em": "2026-10-13T14:50:29.072Z",
+      "dados": {
+        "nr_processo": "50091922020118272729",
+        "autuacao": "19/04/2011 00:00:00",
+        "str_sig_orgao_juizo": "TOPAL3FAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=50091922020118272729&hash=afa503947fc129230901573d3da5ad2c",
+        "autor": "ESTADO DO TOCANTINS<br>",
+        "reu": "FCAS SERVIÇOS DE ARQUIVOS INTELIGENTES LTDA<br>e outros",
+        "classe": "Execução Fiscal",
+        "cod_classe": "662",
+        "cod_competencia": "35",
+        "dth_ultimo_evento": "29/10/2023 13:45:17",
+        "ultimo_evento": "29/10/2023 13:45:17 - Baixa Definitiva",
+        "id_orgao_juizo": "270000192",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "ICMS / Incidência Sobre o Ativo Fixo, ICMS/ Imposto sobre Circulação de Mercadorias, Impostos, DIREITO TRIBUTÁRIO",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "01786029000103",
+        "ident_reu": "10427700000110",
+        "endereco_autor": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, ACSU-SO 10 (101 Sul) Avenida Joaquim Teotônio Segurado, 6, QD 101 SUL, CJ 1, LT 6, SL 402 - ED. OFFICE CENTER, 77015002",
+        "juizo": "Juizo da Vara de Execuções Fiscais e Saúde de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    }
+  }
+}

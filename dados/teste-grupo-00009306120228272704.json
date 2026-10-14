@@ -1,0 +1,40 @@
+{
+  "autor": {
+    "doc": "02789195102",
+    "telefones": [
+      {
+        "numero": "(63)99275-9457",
+        "operadora": "CLARO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)99216-6974",
+        "operadora": "CLARO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)99207-5678",
+        "operadora": "CLARO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)98480-5441",
+        "operadora": "TIM",
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)98429-6163",
+        "operadora": "TIM",
+        "whatsapp": false
+      }
+    ],
+    "renda": "R$ 699,77",
+    "nome": "Valdirene Pereira Costa",
+    "nascimento": "18/03/1980 | 46 Anos",
+    "formato": "whatsapp",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": false,
+    "bruto": "*☞ Resultado da sua consulta:*\n\n• DADOS PESSOAIS:\n       CPF: 027.891.951-02\n       NOME: Valdirene Pereira Costa\n       SEXO: FEMININO\n       NASCIMENTO: 18/03/1980 | 46 Anos\n       MÃE: Maria Pereira Costa\n       PAI: Basilio Sena Da Costa\n\n• RENDAS/CREDITO:\n       RENDA: R$ 699,77\n       PODER AQUISITIVO: Muito Baixo\n       PODER DE COMPRA: De R$ 112 Até R$ 630\n       PROFISSÃO: Sem informação\n\n• SCORE (0 a 1000):\n       SERASA SCORE: 792\n       SERASA SCORE ANTIGO: 706\n       SPC SCORE: 690\n       SPC SCORE ANTIGO: 690\n       BOAVISTA SCORE: 226\n       BOAVISTA SCORE ANTIGO: 226\n\n• INFORMAÇÕES DO RG/CNH:\n       RG: 458010\n       EMISSÃO: 14/08/1998\n       ORGÃO: Ssp - Secretaria De Seguranca Publica\n       UF: TO\n\n• OUTRAS INFORMAÇÕES:\n       NIS: 20661203276\n       PIS: Sem informação\n       TITULO: Sem informação\n       CONJUGE: Sem informação\n       ESCOLARIDADE: Sem informação\n       CIDADE DE NASCIMENTO: Dois Irmaos Do Tocantins/TO\n\n• ENDEREÇOS (1):\n       ASSE SAO PEDRO, , N/A - ARAGUACEMA/TO - 77690000\n\n• NÚMEROS (5):\n       (63)99275-9457 - CLARO - WhatsApp\n       (63)99216-6974 - CLARO\n       (63)99207-5678 - CLARO - WhatsApp\n       (63)98480-5441 - TIM\n       (63)98429-6163 - TIM\n\n• E-MAILS (0):\n       E-mails não encontrados\n\n• PARENTES (1):\n       MARIA PEREIRA COSTA - MAE\n\n• EMPRESAS (0):\n       Empresas não encontradas\n\n• EMPREGOS (0):\n       Empregos não encontrados"
+  }
+}

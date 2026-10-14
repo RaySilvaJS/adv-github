@@ -1,0 +1,492 @@
+{
+  "oab": "TO012082",
+  "primeira_consulta": "2026-10-06T12:41:57.572Z",
+  "ultima_consulta": "2026-10-08T15:17:31.128Z",
+  "total_na_ultima_consulta": 12,
+  "processos": {
+    "00030538820258272716": {
+      "primeira_vez_visto": "2026-10-06T12:41:57.572Z",
+      "atualizado_em": "2026-10-08T15:17:31.128Z",
+      "dados": {
+        "nr_processo": "00030538820258272716",
+        "autuacao": "16/10/2025 13:19:24",
+        "str_sig_orgao_juizo": "TOARR1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00030538820258272716&hash=caf2703f032bb4c5b3192a27484539b2",
+        "autor": "DANILO RODRIGUES DE OLIVEIRA<br>",
+        "reu": "INSS - INSTITUTO NACIONAL DO SEGURO SOCIAL<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "2",
+        "dth_ultimo_evento": "16/03/2026 23:32:49",
+        "ultimo_evento": "16/03/2026 23:32:49 - Baixa Definitiva",
+        "id_orgao_juizo": "270000084",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Incapacidade Laborativa Permanente, Auxílio-Acidente (Art. 86), Benefícios em Espécie, DIREITO PREVIDENCIÁRIO",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "03688737148",
+        "ident_reu": "29979036000140",
+        "endereco_autor": "TO, Conceição do Tocantins, CENTRO, RUA ESPIRITO SANTO, SN, 77305000",
+        "endereco_reu": "TO, Gurupi, CENTRO , Avenida Gurupi, 1719, Sala 01, n.º 1719, quadra 105, lote 01, 77402200",
+        "juizo": "Juízo da 1ª Vara Cível de Arraias",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "CINTHIA CARDOSO VIVAS",
+          "oab": "TO012082"
+        },
+        "requerente": {
+          "nome": "DANILO RODRIGUES DE OLIVEIRA",
+          "doc": "036.887.371-48",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 34.649,28"
+      }
+    },
+    "00390128120258272729": {
+      "primeira_vez_visto": "2026-10-06T12:41:57.572Z",
+      "atualizado_em": "2026-10-08T15:17:31.128Z",
+      "dados": {
+        "nr_processo": "00390128120258272729",
+        "autuacao": "31/08/2025 22:56:56",
+        "str_sig_orgao_juizo": "TOPAL2JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00390128120258272729&hash=f918e94866c42114ed22ab902282be14",
+        "autor": "CATARINA MIRANDA MARINHO<br>e outros",
+        "reu": "TAM LINHAS AEREAS S/A.<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "22/10/2025 15:58:09",
+        "ultimo_evento": "22/10/2025 15:58:09 - Baixa Definitiva",
+        "id_orgao_juizo": "271000390",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Atraso de vôo, Transporte Aéreo, Contratos de Consumo, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "04935430150",
+        "ident_reu": "02012862000160",
+        "endereco_autor": "TO, Palmas, PLANO DIRETOR SUL, ARSO 121, ALAMEDA 04, 06, QI 06, S/N, LT 04, 77145265",
+        "endereco_reu": "SP, São Paulo, Jardim Brasil (Zona Sul), Rua Ática, 673, 6º andar,  sala 62, 04634042",
+        "juizo": "Juízo do 2º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "CINTHIA CARDOSO VIVAS",
+          "oab": "TO012082"
+        },
+        "requerente": {
+          "nome": "CATARINA MIRANDA MARINHO",
+          "doc": "049.354.301-50",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 20.000,00"
+      }
+    },
+    "00189398820258272729": {
+      "primeira_vez_visto": "2026-10-06T12:41:57.572Z",
+      "atualizado_em": "2026-10-08T15:17:31.128Z",
+      "dados": {
+        "nr_processo": "00189398820258272729",
+        "autuacao": "04/05/2025 22:27:58",
+        "str_sig_orgao_juizo": "TOPAL1CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00189398820258272729&hash=22ac41cfeca273b914bbf7286351fead",
+        "autor": "RENATA SOUZA MIRANDA MARINHO<br>",
+        "reu": "TAM LINHAS AEREAS S/A.<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "22/10/2025 18:06:59",
+        "ultimo_evento": "22/10/2025 18:06:59 - Baixa Definitiva",
+        "id_orgao_juizo": "270000008",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL, Atraso de vôo, Transporte Aéreo, Contratos de Consumo, DIREITO DO CONSUMIDOR, Assistência Judiciária Gratuita, Partes e Procuradores, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Indenização por Dano Material, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "87136988187",
+        "ident_reu": "02012862000160",
+        "endereco_autor": "TO, Palmas, PLANO DIRETOR SUL, QUADRA 1203 SUL, 4, 77019436",
+        "endereco_reu": "SP, São Paulo, Jardim Brasil (Zona Sul), Rua Ática, 673, 6º andar,  sala 62, 04634042",
+        "juizo": "Juízo da 1ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "CINTHIA CARDOSO VIVAS",
+          "oab": "TO012082"
+        },
+        "requerente": {
+          "nome": "RENATA SOUZA MIRANDA MARINHO",
+          "doc": "871.369.881-87",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 11.000,00"
+      }
+    },
+    "00020235520248272715": {
+      "primeira_vez_visto": "2026-10-06T12:41:57.572Z",
+      "atualizado_em": "2026-10-08T15:17:31.128Z",
+      "dados": {
+        "nr_processo": "00020235520248272715",
+        "autuacao": "17/10/2024 16:31:11",
+        "str_sig_orgao_juizo": "TOCRI1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00020235520248272715&hash=f94e653cf303f55b8861650084b7c0de",
+        "autor": "MARIA ALICE RIBEIRO DE FARIAS<br>",
+        "reu": "CIASPREV - CENTRO DE INTEGRAÇÃO E ASSISTÊNCIA AOS SERVIDORES PÚBLICOS PREVIDÊNCIA PRIVADA<br>",
+        "classe": "Exibição de Documento ou Coisa Cível",
+        "cod_classe": "2273",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "20/08/2025 14:47:31",
+        "ultimo_evento": "20/08/2025 14:47:31 - Baixa Definitiva",
+        "id_orgao_juizo": "270000098",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Cláusulas Abusivas, DIREITO DO CONSUMIDOR, Empréstimo consignado, Bancários, Contratos de Consumo, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "18503420163",
+        "ident_reu": "08071645000127",
+        "endereco_autor": "TO, Cristalândia, Setor Central, Avenida Araguaia, 350, 77490000",
+        "endereco_reu": "SP, São Paulo, Tatuapé, Rua Francisco Marengo, 955, ANDAR 8 SALA 83, 3313000",
+        "juizo": "Juízo da 1ª Vara da Comarca de Cristalândia",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "CINTHIA CARDOSO VIVAS",
+          "oab": "TO012082"
+        },
+        "requerente": {
+          "nome": "MARIA ALICE RIBEIRO DE FARIAS",
+          "doc": "185.034.201-63",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00430784120248272729": {
+      "primeira_vez_visto": "2026-10-06T12:41:57.572Z",
+      "atualizado_em": "2026-10-08T15:17:31.128Z",
+      "dados": {
+        "nr_processo": "00430784120248272729",
+        "autuacao": "11/10/2024 16:16:33",
+        "str_sig_orgao_juizo": "TOPAL3FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00430784120248272729&hash=b4f143bae3fde30fcf109b5cecae252d",
+        "autor": "DEILANE MARQUES DE OLIVEIRA<br>",
+        "reu": "JOSUE DA SILVA GERALDO<br>",
+        "classe": "Arrolamento Comum",
+        "cod_classe": "672",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "10/03/2025 12:24:29",
+        "ultimo_evento": "10/03/2025 12:24:29 - Baixa Definitiva",
+        "id_orgao_juizo": "270000018",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Bem de Família Legal, DIREITO CIVIL, Reconhecimento / Dissolução, União Estável ou Concubinato, Família, DIREITO CIVIL, Administração de Herança, Sucessões, DIREITO CIVIL, Inventário e Partilha, Sucessões, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "97432105120",
+        "ident_reu": "22089496843",
+        "endereco_autor": "TO, Palmas, Setor Santa Fé 4 (Taquaralto), Avenida Taquarussu Quadra 01, Lote 20, Santa Fé 4ª Etap?, 77000000",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, ARSO 22 (205 Sul) Alameda 17, 8, Lt 8, QI 12, nº 4, 77015266",
+        "juizo": "Juízo da 3ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "CINTHIA CARDOSO VIVAS",
+          "oab": "TO012082"
+        },
+        "requerente": {
+          "nome": "DEILANE MARQUES DE OLIVEIRA",
+          "doc": "974.321.051-20",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 43.395,00"
+      }
+    },
+    "00008378520248272718": {
+      "primeira_vez_visto": "2026-10-06T12:41:57.572Z",
+      "atualizado_em": "2026-10-08T15:17:31.128Z",
+      "dados": {
+        "nr_processo": "00008378520248272718",
+        "autuacao": "25/09/2024 15:11:21",
+        "str_sig_orgao_juizo": "TO4.03NCIJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00008378520248272718&hash=4c2987498f66fce21365517cdf1c7d02",
+        "autor": "MARIA FRANCISCA DE SOUSA LIRA<br>",
+        "reu": "BANCO DO BRASIL SA<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "17/12/2025 13:42:45",
+        "ultimo_evento": "17/12/2025 13:42:45 - Baixa Definitiva",
+        "id_orgao_juizo": "271000441",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Seguro, Contratos de Consumo, DIREITO DO CONSUMIDOR, Práticas Abusivas, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "41281772372",
+        "ident_reu": "00000000000191",
+        "endereco_autor": "MA, Carolina, centro, Rua Dom Marcelino, 2.473, 65980000",
+        "endereco_reu": "DF, Brasília, Asa Sul, SBS QUADRA 4 BLOCO C LOTE 32 EDIFICIO SEDE III, SN, NÃO POSSUI, 70070140",
+        "juizo": "Juízo do 3° Núcleo de Justiça 4.0, Apoio Cível",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "CINTHIA CARDOSO VIVAS",
+          "oab": "TO012082"
+        },
+        "requerente": {
+          "nome": "MARIA FRANCISCA DE SOUSA LIRA",
+          "doc": "412.817.723-72",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 64.187,08"
+      }
+    },
+    "00176546620248272706": {
+      "primeira_vez_visto": "2026-10-06T12:41:57.572Z",
+      "atualizado_em": "2026-10-08T15:17:31.128Z",
+      "dados": {
+        "nr_processo": "00176546620248272706",
+        "autuacao": "02/09/2024 18:17:57",
+        "str_sig_orgao_juizo": "TOARA1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00176546620248272706&hash=13cd2efac8094b77e6aa3d2ecfdad192",
+        "autor": "JOSÉ RODOLFO DA SILVA AIRES<br>",
+        "reu": "WEBCASH CARTOES S.A<br>e outros",
+        "classe": "Procedimento de Repactuação de Dívidas (Superendividamento)",
+        "cod_classe": "14641",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "11/09/2025 12:35:19",
+        "ultimo_evento": "11/09/2025 12:35:19 - Remessa Interna - Outros Motivos",
+        "id_orgao_juizo": "270000158",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Superendividamento, DIREITO DO CONSUMIDOR, Revisão de Juros Remuneratórios, Capitalização/Anatocismo, Bancários, Contratos de Consumo, DIREITO DO CONSUMIDOR, Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Reajuste contratual, Planos de saúde, Suplementar, DIREITO DA SAÚDE",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "00214367118",
+        "ident_reu": "40083667000110",
+        "endereco_autor": "TO, Araguaína, Jardim Paulista, Rua dos Mecânicos (Jardim Paulista), 72, celular: 63.99233-1629, 77800000",
+        "endereco_reu": "TO, Abreulândia, Chácara Santo Antônio, Rua Nova Jerusalém, 1069, 03410000",
+        "juizo": "Juízo da 1ª Vara Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "CINTHIA CARDOSO VIVAS",
+          "oab": "TO012082"
+        },
+        "requerente": {
+          "nome": "JOSÉ RODOLFO DA SILVA AIRES",
+          "doc": "002.143.671-18",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 1.412,00"
+      }
+    },
+    "00027027020248272710": {
+      "primeira_vez_visto": "2026-10-06T12:41:57.572Z",
+      "atualizado_em": "2026-10-08T15:17:31.128Z",
+      "dados": {
+        "nr_processo": "00027027020248272710",
+        "autuacao": "30/07/2024 16:50:00",
+        "str_sig_orgao_juizo": "TOAUG1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00027027020248272710&hash=8591da32e3012fbc2d4cbe3396c46395",
+        "autor": "MARIA VANETE GOMES TEIXEIRA SANTANA<br>",
+        "reu": "KDB INSTITUICAO DE PAGAMENTO S.A.<br>e outros",
+        "classe": "Procedimento de Repactuação de Dívidas (Superendividamento)",
+        "cod_classe": "14641",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "16/09/2025 14:29:02",
+        "ultimo_evento": "16/09/2025 14:29:02 - Remessa Interna - Outros Motivos",
+        "id_orgao_juizo": "270000086",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Superendividamento, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "51557037191",
+        "ident_reu": "40083667000110",
+        "endereco_autor": "TO, São Sebastião do Tocantins, CENTRO, FAVELA FLORENTINA CARNEIRO, 374, 77990000",
+        "endereco_reu": "TO, Abreulândia, Chácara Santo Antônio, Rua Nova Jerusalém, 1069, 03410000",
+        "juizo": "Juízo da 1ª Vara de Augustinópolis",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "CINTHIA CARDOSO VIVAS",
+          "oab": "TO012082"
+        },
+        "requerente": {
+          "nome": "MARIA VANETE GOMES TEIXEIRA SANTANA",
+          "doc": "515.570.371-91",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00289380220248272729": {
+      "primeira_vez_visto": "2026-10-06T12:41:57.572Z",
+      "atualizado_em": "2026-10-08T15:17:31.128Z",
+      "dados": {
+        "nr_processo": "00289380220248272729",
+        "autuacao": "16/07/2024 15:21:54",
+        "str_sig_orgao_juizo": "TOPAL1JEJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00289380220248272729&hash=2bfaf488abb72a0f8c094db8a4e9cfc6",
+        "autor": "ADALBERON RODRIGUES DA SILVA<br>",
+        "reu": "ESTADO DO TOCANTINS<br>",
+        "classe": "Procedimento do Juizado Especial da Fazenda Pública",
+        "cod_classe": "14616",
+        "cod_competencia": "36",
+        "dth_ultimo_evento": "13/04/2026 15:26:55",
+        "ultimo_evento": "13/04/2026 15:26:55 - Baixa Definitiva",
+        "id_orgao_juizo": "271000388",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Gratificações e Adicionais, Sistema Remuneratório e Benefícios, Militar, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO, Gratificações de Atividade, Sistema Remuneratório e Benefícios, Servidor Público Civil, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "01909522376",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Palmas, PLANO DIRETOR SUL, QUADRA ARSO 151 QI 34, SN, LOTE 03 QI34, 77025458",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juízo do 1º Juizado Especial de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "CINTHIA CARDOSO VIVAS",
+          "oab": "TO012082"
+        },
+        "requerente": {
+          "nome": "ADALBERON RODRIGUES DA SILVA",
+          "doc": "019.095.223-76",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 49.074,50"
+      }
+    },
+    "00252729020248272729": {
+      "primeira_vez_visto": "2026-10-06T12:41:57.572Z",
+      "atualizado_em": "2026-10-08T15:17:31.128Z",
+      "dados": {
+        "nr_processo": "00252729020248272729",
+        "autuacao": "20/06/2024 18:04:32",
+        "str_sig_orgao_juizo": "TOPAL1JEJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00252729020248272729&hash=1c00a7daf8e9aa37fce49200e97de810",
+        "autor": "LEONARDO SOARES DA SILVA<br>",
+        "reu": "ESTADO DO TOCANTINS<br>",
+        "classe": "Procedimento do Juizado Especial da Fazenda Pública",
+        "cod_classe": "14616",
+        "cod_competencia": "36",
+        "dth_ultimo_evento": "11/11/2024 18:13:54",
+        "ultimo_evento": "11/11/2024 18:13:54 - Baixa Definitiva",
+        "id_orgao_juizo": "271000388",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Base de Cálculo, Adicional por Tempo de Serviço, Sistema Remuneratório e Benefícios, Servidor Público Civil, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO, Ajuda de Custo, Diárias e Outras Indenizações, Sistema Remuneratório e Benefícios, Servidor Público Civil, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "00837030390",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Palmas, LOTE 09 QI 04, QUADRA 1305 SUL, ALAMEDA 17<br>",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juízo do 1º Juizado Especial de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "CINTHIA CARDOSO VIVAS",
+          "oab": "TO012082"
+        },
+        "requerente": {
+          "nome": "LEONARDO SOARES DA SILVA",
+          "doc": "008.370.303-90",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 24.400,00"
+      }
+    },
+    "00247766120248272729": {
+      "primeira_vez_visto": "2026-10-06T12:41:57.572Z",
+      "atualizado_em": "2026-10-08T15:17:31.128Z",
+      "dados": {
+        "nr_processo": "00247766120248272729",
+        "autuacao": "18/06/2024 15:14:27",
+        "str_sig_orgao_juizo": "TOPAL1JEJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00247766120248272729&hash=d3935510eab0a7ef693ba18d3362e6ae",
+        "autor": "CLAUDIA LEILA SILVA<br>",
+        "reu": "ESTADO DO TOCANTINS<br>",
+        "classe": "Procedimento do Juizado Especial da Fazenda Pública",
+        "cod_classe": "14616",
+        "cod_competencia": "36",
+        "dth_ultimo_evento": "18/11/2024 16:51:38",
+        "ultimo_evento": "18/11/2024 16:51:38 - Baixa Definitiva",
+        "id_orgao_juizo": "271000388",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Gratificações de Atividade, Sistema Remuneratório e Benefícios, Servidor Público Civil, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "62097571549",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ARSE 62 (606 Sul) Alameda Ceschiatti, S/N, QI 15, Lote 08, 77022076",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juízo do 1º Juizado Especial de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "CINTHIA CARDOSO VIVAS",
+          "oab": "TO012082"
+        },
+        "requerente": {
+          "nome": "CLAUDIA LEILA SILVA",
+          "doc": "620.975.715-49",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 38.125,00"
+      }
+    },
+    "00066941620238272729": {
+      "primeira_vez_visto": "2026-10-06T12:41:57.572Z",
+      "atualizado_em": "2026-10-08T15:17:31.128Z",
+      "dados": {
+        "nr_processo": "00066941620238272729",
+        "autuacao": "23/02/2023 09:13:18",
+        "str_sig_orgao_juizo": "TOPAL3FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00066941620238272729&hash=5cbb28c78aa508b380496a43fc8908b7",
+        "autor": "D. N. D. S. o. ",
+        "reu": "S. P. R. ",
+        "classe": "Alimentos - Lei Especial Nº 5.478/68",
+        "cod_classe": "684",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000018",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Fixação, Alimentos, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "02132947104",
+        "ident_reu": "",
+        "endereco_autor": "TO, Palmas, ZONA RURAL, Rua 03, Chácara São João II, zona rural, 002, próximo a Pedreira Gran Prata, 77270000",
+        "endereco_reu": "TO, Pedro Afonso, Setor Central, Rua Benjamim Constante (Pa), 588, 77710000",
+        "juizo": "Juízo da 3ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    }
+  }
+}

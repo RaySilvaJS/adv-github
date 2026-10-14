@@ -1,0 +1,1577 @@
+{
+  "oab": "TO014165",
+  "primeira_consulta": "2026-10-13T14:53:15.130Z",
+  "ultima_consulta": "2026-10-13T17:42:49.638Z",
+  "total_na_ultima_consulta": 41,
+  "processos": {
+    "00517203220268272729": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00517203220268272729",
+        "autuacao": "10/10/2026 13:09:34",
+        "str_sig_orgao_juizo": "TOPAL3CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00517203220268272729&hash=b0f28ee2765f639d8de919262a1478e6",
+        "autor": "JEFERSON DA SILVA CARNEIRO<br>",
+        "reu": "OMNI S/A CREDITO FINANCIAMENTO E INVESTIMENTO<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "10/10/2026 13:11:44",
+        "ultimo_evento": "10/10/2026 13:11:44 - Protocolizada Petição",
+        "id_orgao_juizo": "270000009",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Cláusulas Abusivas, DIREITO DO CONSUMIDOR, Vendas casadas, DIREITO DO CONSUMIDOR, Financiamento de Produto, Contratos de Consumo, DIREITO DO CONSUMIDOR, Revisão de Juros Remuneratórios, Capitalização/Anatocismo, Bancários, Contratos de Consumo, DIREITO DO CONSUMIDOR, Tarifas, Bancários, Contratos de Consumo, DIREITO DO CONSUMIDOR",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "06247759177",
+        "ident_reu": "92228410000102",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ARSE 111 (1104 Sul) Alameda 14, 14, Al 14, 77024010",
+        "endereco_reu": "TO, Goiatins, Atos Whatsapp, Atos Whatsapp - Goiatins 11-93365-3500, sn, 77770000",
+        "juizo": "Juízo da 3ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "JEFERSON DA SILVA CARNEIRO",
+          "doc": "062.477.591-77",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 29.122,64"
+      }
+    },
+    "00084373220268272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00084373220268272737",
+        "autuacao": "10/10/2026 08:58:28",
+        "str_sig_orgao_juizo": "TOPORJECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00084373220268272737&hash=3b4c380e07a01630fbbd53e8729ebd8a",
+        "autor": "EMPRESA TOCANTINENSE DE SERVICOS CONTABEIS LTDA<br>",
+        "reu": "TORRES DISTRIBUICAO DESCARTAVEIS LTDA<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "13/10/2026 09:03:00",
+        "ultimo_evento": "13/10/2026 09:03:00 - Remessa para o CEJUSC",
+        "id_orgao_juizo": "270000060",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Perdas e Danos, Inadimplemento, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "43952978000166",
+        "ident_reu": "54744932000178",
+        "endereco_autor": "TO, Porto Nacional, Aeroporto, Avenida Luís Leite Ribeiro, 1331, sala 01, 77500000",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, Quadra ARSO 151 QI 45, 14, Alameda 14, 77025482",
+        "juizo": "Juizo do Juizado Especial Cível de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "EMPRESA TOCANTINENSE DE SERVICOS CONTABEIS LTDA",
+          "doc": "43.952.978/0001-66",
+          "tipo": "Pessoa Jurídica",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 4.254,70"
+      }
+    },
+    "00084243320268272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00084243320268272737",
+        "autuacao": "09/10/2026 18:37:46",
+        "str_sig_orgao_juizo": "TOPOR2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00084243320268272737&hash=568a4fe50d832dd547ba51419ea27eb7",
+        "autor": "LUANA GONCALVES SILVA<br>e outros",
+        "reu": "NU PAGAMENTOS S.A. - INSTITUICAO DE PAGAMENTO<br>e outros",
+        "classe": "Petição Cível",
+        "cod_classe": "2266",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "10/10/2026 09:00:23",
+        "ultimo_evento": "10/10/2026 09:00:23 - Protocolizada Petição",
+        "id_orgao_juizo": "270000156",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Indenização por Dano Material, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "04702717103",
+        "ident_reu": "18236120000158",
+        "endereco_autor": "TO, Brejinho de Nazaré, Setor Central, Avenida Umbelino Cesar Nogueira, centro, 77560000",
+        "endereco_reu": "SP, São Paulo, Pinheiros, Rua Capote Valente, n° 120, 05409000",
+        "juizo": "Juízo da 2ª Vara Cível de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "LUANA GONCALVES SILVA",
+          "doc": "047.027.171-03",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 78.975,90"
+      }
+    },
+    "00083914320268272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00083914320268272737",
+        "autuacao": "09/10/2026 12:28:09",
+        "str_sig_orgao_juizo": "TOPORJECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00083914320268272737&hash=e1ad26401ca282b6d8a6207dbe438f0e",
+        "autor": "PONTO CERTO COMERCIO DE MATERIAL DE CONSTRUCAO LTDA<br>",
+        "reu": "CONSULT CENTER DO BRASIL LTDA<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "10/10/2026 09:01:19",
+        "ultimo_evento": "10/10/2026 09:01:19 - Protocolizada Petição",
+        "id_orgao_juizo": "270000060",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Direito de Imagem, Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "04197402000189",
+        "ident_reu": "05795928000123",
+        "endereco_autor": "TO, Brejinho de Nazaré, Setor Central, Rua Pedro Ludovico, 77560000",
+        "endereco_reu": "PE, Olinda, JARDIM ATLÂNTICO, AV. MARIA DA CONCEIÇÃO VIANA, 1321, 53050110",
+        "juizo": "Juizo do Juizado Especial Cível de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "PONTO CERTO COMERCIO DE MATERIAL DE CONSTRUCAO LTDA",
+          "doc": "04.197.402/0001-89",
+          "tipo": "Pessoa Jurídica",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 15.392,88"
+      }
+    },
+    "00511010520268272729": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00511010520268272729",
+        "autuacao": "07/10/2026 17:10:15",
+        "str_sig_orgao_juizo": "TOPAL3FAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00511010520268272729&hash=24e7fdd6c58e293999678d9d1a0f028b",
+        "autor": "FRANCIELLEN PARLANDRINO PEREIRA<br>",
+        "reu": "ESTADO DO TOCANTINS<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "35",
+        "dth_ultimo_evento": "08/10/2026 13:35:06",
+        "ultimo_evento": "08/10/2026 13:35:06 - Conclusão para despacho",
+        "id_orgao_juizo": "270000192",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Exclusão - ICMS, Base de Cálculo, Crédito Tributário, DIREITO TRIBUTÁRIO, Repetição de indébito, Crédito Tributário, DIREITO TRIBUTÁRIO, Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "06311925141",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Palmas, SETOR UNIAO SUL, N/A 12, S N, 77062094",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juizo da Vara de Execuções Fiscais e Saúde de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "FRANCIELLEN PARLANDRINO PEREIRA",
+          "doc": "063.119.251-41",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 1.710,73"
+      }
+    },
+    "00012280920268272738": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00012280920268272738",
+        "autuacao": "24/09/2026 15:28:33",
+        "str_sig_orgao_juizo": "TOTAG1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00012280920268272738&hash=f250e6045d36fb8828dd1801708c8a95",
+        "autor": "ROSINEIDE AIRES DE ALBUQUERQUE RODRIGUES<br>",
+        "reu": "MAPFRE SEGUROS GERAIS S.A.<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "26/09/2026 04:01:18",
+        "ultimo_evento": "26/09/2026 04:01:18 - Juntada - Registro de pagamento",
+        "id_orgao_juizo": "270000136",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Acidente de Trânsito, Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL, Indenização por Dano Material, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "87402289168",
+        "ident_reu": "61074175000138",
+        "endereco_autor": "TO, Ponte Alta do Bom Jesus, ZONA RURAL, RUA POVOADO BOA VISTA DE BELEM, 1, 77315000",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, ARSE 132 (1306 Sul) Alameda 7, LT 05, 77024564",
+        "juizo": "Juízo da 1ª Vara Cível de Taguatinga",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "ROSINEIDE AIRES DE ALBUQUERQUE RODRIGUES",
+          "doc": "874.022.891-68",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 63.285,00"
+      }
+    },
+    "00077392620268272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00077392620268272737",
+        "autuacao": "21/09/2026 14:47:55",
+        "str_sig_orgao_juizo": "TOPORJECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00077392620268272737&hash=06eea3bcec4e4dc1b5d4365a8bb9fcbf",
+        "autor": "DELANO AGUIAR FONSECA<br>",
+        "reu": "ITAU UNIBANCO HOLDING S.A.<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "06/10/2026 08:37:12",
+        "ultimo_evento": "06/10/2026 08:37:12 - Protocolizada Petição",
+        "id_orgao_juizo": "270000060",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Repetição do Indébito, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "00366783173",
+        "ident_reu": "60872504000123",
+        "endereco_autor": "TO, Porto Nacional, Setor Central, Rua Dom Domingos Carrerot, 1111, 77500000",
+        "endereco_reu": "SP, São Paulo, Parque Jabaquara, Praça Alfredo Egydio de Souza Aranha, 100, 04344902",
+        "juizo": "Juizo do Juizado Especial Cível de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "DELANO AGUIAR FONSECA",
+          "doc": "003.667.831-73",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 22.266,94"
+      }
+    },
+    "00027443320268272716": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00027443320268272716",
+        "autuacao": "02/09/2026 16:54:37",
+        "str_sig_orgao_juizo": "TODIA1ECRIJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00027443320268272716&hash=75f972d33e2ef47c95358c4b7a398c84",
+        "autor": "SÚSLEY ALBUQUERQUE CERQUEIRA<br>",
+        "reu": "EDIMAILTON DE CASTRO LIMA<br>e outros",
+        "classe": "Crimes de Calúnia, Injúria e Difamação de Competência do Juiz Singular",
+        "cod_classe": "757",
+        "cod_competencia": "25",
+        "dth_ultimo_evento": "13/10/2026 02:52:50",
+        "ultimo_evento": "13/10/2026 02:52:50 - Publicado no DJEN",
+        "id_orgao_juizo": "270000101",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Calúnia, Crimes contra a Honra, DIREITO PENAL, Difamação, Contra a Honra, Ato Infracional, DIREITO DA CRIANÇA E DO ADOLESCENTE",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "44378742187",
+        "ident_reu": "90969847149",
+        "endereco_autor": "DF, Brasília, TAGUATINGA NORTE, QNA 07 CASA , 21, 72110070",
+        "endereco_reu": "TO, Peixe, Atos Whatsapp, (Atos Whatsapp Rural), sn, 77460000",
+        "juizo": "Juízo da Vara Criminal, de Violência Doméstica e Juizado Especial Criminal de Dianópolis",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "SÚSLEY ALBUQUERQUE CERQUEIRA",
+          "doc": "443.787.421-87",
+          "tipo": "Pessoa Física",
+          "papel": "QUERELANTE"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00070836920268272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00070836920268272737",
+        "autuacao": "28/08/2026 15:27:52",
+        "str_sig_orgao_juizo": "TOPOR1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00070836920268272737&hash=6d779ed6eb089adad4caa00ba6a1536d",
+        "autor": "FELIPE DARTANHAN PEREIRA DE SALES DIAS<br>",
+        "reu": "TEQ MOTORS COMERCIO E DISTRIBUIDORA DE VEICULOS LTDA<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "29/09/2026 12:28:51",
+        "ultimo_evento": "29/09/2026 12:28:51 - Conclusão para despacho",
+        "id_orgao_juizo": "270000055",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Rescisão do contrato e devolução do dinheiro, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "08061760169",
+        "ident_reu": "11362836000152",
+        "endereco_autor": "TO, Brejinho de Nazaré, Setor Central, Avenida Jonas Pereira Lima, Casa 01, 77560000",
+        "endereco_reu": "TO, Araguaína, Vila Cearense, Avenida Bernardo Sayão (Vila Cearense), 564, Quadra 01, Lote 01-A, 77818340",
+        "juizo": "Juízo da 1ª Vara Cível de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "FELIPE DARTANHAN PEREIRA DE SALES DIAS",
+          "doc": "080.617.601-69",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 32.388,00"
+      }
+    },
+    "00066705620268272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00066705620268272737",
+        "autuacao": "18/08/2026 08:57:32",
+        "str_sig_orgao_juizo": "TOPOR2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00066705620268272737&hash=da8f8165af8516587fc0a5b352f562d4",
+        "autor": "HENRIQUE LEITE SECCHI<br>",
+        "reu": "STELLANTIS AUTOMOVEIS BRASIL LTDA.<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "12/10/2026 20:06:45",
+        "ultimo_evento": "12/10/2026 20:06:45 - Juntada - Carta pelo Correio Comprovante de entrega",
+        "id_orgao_juizo": "270000156",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Obrigação de Fazer / Não Fazer, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Indenização do Prejuízo, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "01892726009",
+        "ident_reu": "16701716000156",
+        "endereco_autor": "RS, Carazinho, CENTRO, RUA BERNARDO PAZ, 140, APTO 1203, 99500000",
+        "endereco_reu": "MG, Betim, Distrito Industrial Paulo Camilo, Rodovia Fernão Dias, s/n, Km 429, 32530490",
+        "juizo": "Juízo da 2ª Vara Cível de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "HENRIQUE LEITE SECCHI",
+          "doc": "018.927.260-09",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 20.000,00"
+      }
+    },
+    "00064246020268272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00064246020268272737",
+        "autuacao": "07/08/2026 12:47:43",
+        "str_sig_orgao_juizo": "TOPORJECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00064246020268272737&hash=896785f4be5004716cea744770f23491",
+        "autor": "LEOILSON AIRES LOPES<br>",
+        "reu": "VALDEREI MALHEIRO DA SILVA<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "01/09/2026 20:54:07",
+        "ultimo_evento": "01/09/2026 20:54:07 - Mandado devolvido - entregue ao destinatário",
+        "id_orgao_juizo": "270000060",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Rescisão / Resolução, Inadimplemento, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "55729142153",
+        "ident_reu": "03771177146",
+        "endereco_autor": "TO, Brejinho de Nazaré, CENTRO, RUA JOSUE AIRES NEGRE, 380, SC, 77560000",
+        "endereco_reu": "TO, Gurupi, Atos Whatsapp Gurupi, Atos Whatsapp Gurupi, s/n, 77400000",
+        "juizo": "Juizo do Juizado Especial Cível de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "LEOILSON AIRES LOPES",
+          "doc": "557.291.421-53",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 7.880,85"
+      }
+    },
+    "00362428120268272729": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00362428120268272729",
+        "autuacao": "28/07/2026 08:34:41",
+        "str_sig_orgao_juizo": "TOPAL3JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00362428120268272729&hash=c4a1adb979387209774bd023e89c78c0",
+        "autor": "LYON CARDOSO DE SOUSA<br>",
+        "reu": "PETRO EMPREENDIMENTOS IMOBILIARIOS LTDA<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "28/07/2026 13:26:53",
+        "ultimo_evento": "28/07/2026 13:26:53 - Conclusão para despacho",
+        "id_orgao_juizo": "271000392",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Rescisão do contrato e devolução do dinheiro, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR, Atraso na Entrega do Imóvel, Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "01822413354",
+        "ident_reu": "11497653000144",
+        "endereco_autor": "TO, Palmas, Plano Diretor Norte, ACSU-NE 50 (402 Norte) Rua 2 B, 104, Rua 2B, Residencial Palmeira Imperial, Bloco 9, 77006388",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, ASR-SE 75 (712 Sul) Rodovia 050, Sn, 77022420",
+        "juizo": "Juízo do 3º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "LYON CARDOSO DE SOUSA",
+          "doc": "018.224.133-54",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 49.524,23"
+      }
+    },
+    "00055091120268272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00055091120268272737",
+        "autuacao": "03/07/2026 22:28:11",
+        "str_sig_orgao_juizo": "TOPOR3ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00055091120268272737&hash=b18ceec86f41b0162a702942cb821d85",
+        "autor": "H. F. O. o. ",
+        "reu": "V. A. L. ",
+        "classe": "Alimentos - Lei Especial Nº 5.478/68",
+        "cod_classe": "684",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000057",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Fixação, Alimentos, Família, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "01901579174",
+        "ident_reu": "26914433100",
+        "endereco_autor": "TO, Brejinho de Nazaré, CENTRO, N/A JOSUE AIRES NEGRE, 77560000",
+        "endereco_reu": "TO, Porto Nacional, Atos WhatsApp, Atos Whatsapp - Porto Nacional, S/N, 77500000",
+        "juizo": "Juizo da 3ª Vara Cível, Família, Sucessões, Infância e Juventude de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00320370920268272729": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00320370920268272729",
+        "autuacao": "03/07/2026 11:17:18",
+        "str_sig_orgao_juizo": "TOPAL4CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00320370920268272729&hash=67138c8e3f39ac87e8e462f557a297be",
+        "autor": "ROGERIO HONORIO OLIVEIRA<br>e outros",
+        "reu": "ZILMARA SANTOS LTDA<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "08/10/2026 17:04:24",
+        "ultimo_evento": "08/10/2026 17:04:24 - Remessa para o CEJUSC",
+        "id_orgao_juizo": "270000010",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Compra e Venda, Espécies de Contratos, Obrigações, DIREITO CIVIL, Rescisão / Resolução, Inadimplemento, Obrigações, DIREITO CIVIL, Indenização por Dano Material, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR, Indenização do Prejuízo, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Indenização por Dano Moral, Responsabilidade da Administração, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO, Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "60154489115",
+        "ident_reu": "00117086118",
+        "endereco_autor": "TO, Palmas, SETOR NORTE, QUADRA ARNE 54 ALAMEDA 4, 8, QI 02, 77006502",
+        "endereco_reu": "TO, Palmas, Whatsapp, Atos Whatsapp Palmas, S/N, 63) 98401-0007, 77000000",
+        "juizo": "Juízo da 4ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "KÁTIA SOARES COELHO HONÓRIO",
+          "doc": "601.544.891-15",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 208.201,28"
+      }
+    },
+    "00050917320268272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00050917320268272737",
+        "autuacao": "22/06/2026 09:42:20",
+        "str_sig_orgao_juizo": "2JTUR3",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00050917320268272737&hash=2b47433a056c21a49a4a25675436bbe3",
+        "autor": "W N AMORIM<br>",
+        "reu": "BENU PEREIRA DA SILVA<br>",
+        "classe": "Recurso Inominado Cível",
+        "cod_classe": "000184",
+        "cod_competencia": "38",
+        "dth_ultimo_evento": "09/10/2026 12:20:34",
+        "ultimo_evento": "09/10/2026 12:20:34 - Remessa à TR",
+        "id_orgao_juizo": "271000336",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Direito de Imagem, Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "36998156000150",
+        "ident_reu": "80222641134",
+        "endereco_autor": "TO, Brejinho de Nazaré, Setor Central, Rua APOLONIO, 00, 77560000",
+        "endereco_reu": "",
+        "juizo": "TERCEIRO GABINETE DA 2ª TURMA RECURSAL",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "W N AMORIM",
+          "doc": "36.998.156/0001-50",
+          "tipo": "Pessoa Jurídica",
+          "papel": "RECORRENTE"
+        },
+        "valorCausa": "R$ 20.000,00"
+      }
+    },
+    "00265947720268272729": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00265947720268272729",
+        "autuacao": "03/06/2026 15:28:28",
+        "str_sig_orgao_juizo": "1JTUR1",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00265947720268272729&hash=0a66d5930c62684390e3e15bb65f5d68",
+        "autor": "JEFERSON DA SILVA CARNEIRO<br>",
+        "reu": "DETRAN DO ESTADO DO TOCANTINS<br>e outros",
+        "classe": "Agravo de Instrumento",
+        "cod_classe": "2957",
+        "cod_competencia": "38",
+        "dth_ultimo_evento": "02/07/2026 15:13:26",
+        "ultimo_evento": "02/07/2026 15:13:26 - Baixa Definitiva",
+        "id_orgao_juizo": "271000335",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Obrigação de Fazer / Não Fazer, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, CNH - Carteira Nacional de Habilitação, Sistema Nacional de Trânsito, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO, Multas e demais Sanções, Infração Administrativa, Atos Administrativos, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "06247759177",
+        "ident_reu": "26752857000151",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ARSE 111 (1104 Sul) Alameda 14, 14, Al 14, 77024010",
+        "endereco_reu": "TO, Palmas, Plano Diretor Norte, ACSU-NO 50 (401 Norte) Rua 1 A, 77001670",
+        "juizo": "PRIMEIRO GABINETE DA 1ª TURMA RECURSAL",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "JEFERSON DA SILVA CARNEIRO",
+          "doc": "062.477.591-77",
+          "tipo": "Pessoa Física",
+          "papel": "AGRAVANTE"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00257381620268272729": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00257381620268272729",
+        "autuacao": "29/05/2026 17:18:05",
+        "str_sig_orgao_juizo": "TOPAL4JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00257381620268272729&hash=1533053ff5cef657b84fa1064586debb",
+        "autor": "LEO NETTO AIRES ALVES<br>",
+        "reu": "DEYVISON HUGO SANTOS DOS SANTOS<br>e outros",
+        "classe": "Execução de Título Extrajudicial",
+        "cod_classe": "644",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "12/10/2026 00:29:16",
+        "ultimo_evento": "12/10/2026 00:29:16 - Juntada de certidão - suspensão do prazo",
+        "id_orgao_juizo": "271000394",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Contratuais, Honorários Advocatícios, Sucumbência, Partes e Procuradores, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "06606974160",
+        "ident_reu": "00925849260",
+        "endereco_autor": "TO, Palmas, Plano Diretor Norte, ARNO 42 (405 Norte) Alameda 6, Res Flamboyant Ville Apt 103 C, 77002026",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, ASR-SE 75 (712 Sul) Alameda 7 esquina com a alameda 01, 01, 77022436",
+        "juizo": "Juízo do 4º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "doc": "066.069.741-60",
+          "tipo": "Pessoa Física",
+          "papel": "EXEQUENTE"
+        },
+        "valorCausa": "R$ 4.050,90"
+      }
+    },
+    "00042923020268272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00042923020268272737",
+        "autuacao": "25/05/2026 16:06:53",
+        "str_sig_orgao_juizo": "TOPOR2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00042923020268272737&hash=9a46ecd431a7cd7b2cf95752952885d3",
+        "autor": "HENRIQUE LEITE SECCHI<br>",
+        "reu": "RUDINEI DOERNER<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "01/09/2026 14:12:15",
+        "ultimo_evento": "01/09/2026 14:12:15 - Protocolizada Petição",
+        "id_orgao_juizo": "270000156",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Cheque, Espécies de Títulos de Crédito, Obrigações, DIREITO CIVIL, Cobrança de Aluguéis - Sem despejo, Locação de Imóvel, Espécies de Contratos, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "01892726009",
+        "ident_reu": "05883153976",
+        "endereco_autor": "RS, Carazinho, CENTRO, RUA BERNARDO PAZ, 140, APTO 1203, 99500000",
+        "endereco_reu": "TO, Cristalândia, Zona Rural, FAZENDAS, s/n, Rodovia TO-354, Km 12, à direita + 2 km, 77490000",
+        "juizo": "Juízo da 2ª Vara Cível de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "HENRIQUE LEITE SECCHI",
+          "doc": "018.927.260-09",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 27.242,84"
+      }
+    },
+    "00246478520268272729": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00246478520268272729",
+        "autuacao": "25/05/2026 15:52:05",
+        "str_sig_orgao_juizo": "TOPAL1JEJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00246478520268272729&hash=90d2a01b123b7002837a7d46a5adba55",
+        "autor": "JEFERSON DA SILVA CARNEIRO<br>",
+        "reu": "DETRAN DO ESTADO DO TOCANTINS<br>",
+        "classe": "Procedimento do Juizado Especial da Fazenda Pública",
+        "cod_classe": "14616",
+        "cod_competencia": "36",
+        "dth_ultimo_evento": "14/09/2026 08:29:38",
+        "ultimo_evento": "14/09/2026 08:29:38 - Protocolizada Petição",
+        "id_orgao_juizo": "271000388",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Obrigação de Fazer / Não Fazer, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, CNH - Carteira Nacional de Habilitação, Sistema Nacional de Trânsito, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "06247759177",
+        "ident_reu": "26752857000151",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ARSE 111 (1104 Sul) Alameda 14, 14, Al 14, 77024010",
+        "endereco_reu": "TO, Palmas, Plano Diretor Norte, ACSU-NO 50 (401 Norte) Rua 1 A, 77001670",
+        "juizo": "Juízo do 1º Juizado Especial de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "JEFERSON DA SILVA CARNEIRO",
+          "doc": "062.477.591-77",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 1.620,00"
+      }
+    },
+    "00195102520268272729": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00195102520268272729",
+        "autuacao": "28/04/2026 19:37:16",
+        "str_sig_orgao_juizo": "TOPAL3JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00195102520268272729&hash=64b2178924844b7a4b41618a760c7bae",
+        "autor": "TELMA MARINHO SOBRINHO<br>",
+        "reu": "NOLETO & BONFIM LTDA<br>",
+        "classe": "Embargos à Execução",
+        "cod_classe": "2378",
+        "cod_competencia": "36",
+        "dth_ultimo_evento": "04/09/2026 13:36:18",
+        "ultimo_evento": "04/09/2026 13:36:18 - Despacho - Mero expediente",
+        "id_orgao_juizo": "271000392",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Efeito Suspensivo / Impugnação / Embargos à Execução, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "12609715897",
+        "ident_reu": "31876186000170",
+        "endereco_autor": "TO, Palmas, Whatsapp, Atos Whatsapp Palmas, sn, 63 9 8433-2328, 77000000",
+        "endereco_reu": "TO, Palmas, PLANO DIRETOR NORTE, ACNE 1 RUA NE 1 , 30, SALA 08, 77006016",
+        "juizo": "Juízo do 3º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "TELMA MARINHO SOBRINHO",
+          "doc": "126.097.158-97",
+          "tipo": "Pessoa Física",
+          "papel": "EMBARGANTE"
+        },
+        "valorCausa": "R$ 5.563,44"
+      }
+    },
+    "00028823420268272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00028823420268272737",
+        "autuacao": "07/04/2026 23:24:27",
+        "str_sig_orgao_juizo": "TOPOR3ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00028823420268272737&hash=851c1f5e38b26af25867e5ca6ce9afd4",
+        "autor": "M. P. ",
+        "reu": "J. D. S. R. ",
+        "classe": "Interdição/Curatela",
+        "cod_classe": "681",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000057",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Nomeação, Curatela, Família, DIREITO CIVIL, Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO-AGUARDA PROVIDÊNCIA UNIDADE",
+        "ident_autor": "01786078000146",
+        "ident_reu": "50806777168",
+        "endereco_autor": "SP, São Paulo, Jardim Macedônia, Rua Serra do Pilar, Nº 5, Bloco AP 81, 5, Bloco AP 81, 08330420",
+        "endereco_reu": "",
+        "juizo": "Juizo da 3ª Vara Cível, Família, Sucessões, Infância e Juventude de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00083344920268272729": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00083344920268272729",
+        "autuacao": "23/02/2026 20:37:00",
+        "str_sig_orgao_juizo": "TOPALJUICJSC",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00083344920268272729&hash=90d6fb3026406f17c5a4a103f66c2587",
+        "autor": "GABRIEL DE SOUSA SILVA<br>e outros",
+        "reu": "JURISDIÇÃO VOLUNTÁRIA<br>",
+        "classe": "Homologação da Transação Extrajudicial",
+        "cod_classe": "2510",
+        "cod_competencia": "32",
+        "dth_ultimo_evento": "03/07/2026 14:22:07",
+        "ultimo_evento": "03/07/2026 14:22:07 - Baixa Definitiva",
+        "id_orgao_juizo": "270000173",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Fixação, Alimentos, Família, DIREITO CIVIL, Reconhecimento / Dissolução, União Estável ou Concubinato, Família, DIREITO CIVIL, Partilha, União Estável ou Concubinato, Família, DIREITO CIVIL, Guarda, Relações de Parentesco, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "06311925141",
+        "ident_reu": "",
+        "endereco_autor": "TO, Palmas, SETOR UNIAO SUL, N/A 12, S N, 77062094",
+        "endereco_reu": "TO, Paranã, Atos Whatsapp, Atos Whatsapp - Paranã, s/n, 77360000",
+        "juizo": "JUIZO DO CENTRO JUDICIÁRIO DE SOLUÇÃO DE CONFLITOS E CIDADANIA (CEJUSC) - PALMAS",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "FRANCIELLEN PARLANDRINO PEREIRA",
+          "doc": "063.119.251-41",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 345.140,39"
+      }
+    },
+    "00080608520268272729": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00080608520268272729",
+        "autuacao": "21/02/2026 14:43:50",
+        "str_sig_orgao_juizo": "TOPAL4CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00080608520268272729&hash=762eed315dc833483c747149fff8b1da",
+        "autor": "JEFERSON DA SILVA CARNEIRO<br>",
+        "reu": "JOHNNY DA SILVA OLIVEIRA LIMA<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "05/10/2026 11:11:35",
+        "ultimo_evento": "05/10/2026 11:11:35 - Mandado devolvido - entregue ao destinatário",
+        "id_orgao_juizo": "270000010",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Práticas Abusivas, DIREITO DO CONSUMIDOR, Cláusulas Abusivas, DIREITO DO CONSUMIDOR, Indenização por Dano Material, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR, Rescisão do contrato e devolução do dinheiro, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR, Perdas e Danos, Inadimplemento, Obrigações, DIREITO CIVIL, Direito de Imagem, Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL, Assistência Judiciária Gratuita, Partes e Procuradores, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "06247759177",
+        "ident_reu": "41723445000187",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ARSE 111 (1104 Sul) Alameda 14, 14, Al 14, 77024010",
+        "endereco_reu": "TO, Palmas, Plano Diretor Norte, ACSU-NO 50 (401 Norte) Avenida Joaquim Teotônio Segurado, s/n, conjunto 01, Lote 07, Sala 102,, 77001676",
+        "juizo": "Juízo da 4ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "JEFERSON DA SILVA CARNEIRO",
+          "doc": "062.477.591-77",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 24.500,00"
+      }
+    },
+    "00011371920268272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00011371920268272737",
+        "autuacao": "14/02/2026 15:05:36",
+        "str_sig_orgao_juizo": "TOPOR3ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00011371920268272737&hash=7fab2ce86e43cdb5a725d6975c537e37",
+        "autor": "L. A. L. o. ",
+        "reu": "D. B. D. S. ",
+        "classe": "Alimentos - Lei Especial Nº 5.478/68",
+        "cod_classe": "684",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000057",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Revisão, Alimentos, Família, DIREITO CIVIL, Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "08265785194",
+        "ident_reu": "81902522168",
+        "endereco_autor": "TO, Brejinho de Nazaré, Setor Central, Avenida Josué Aires Negre, 380, 77560000",
+        "endereco_reu": "TO, Porto Nacional, Atos WhatsApp, Atos Whatsapp - Porto Nacional, sn, (62) 98104-9928, 77500000",
+        "juizo": "Juizo da 3ª Vara Cível, Família, Sucessões, Infância e Juventude de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00059042720268272729": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00059042720268272729",
+        "autuacao": "08/02/2026 10:08:06",
+        "str_sig_orgao_juizo": "TOPAL2CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00059042720268272729&hash=d12193e8e95519435b0036b3540b89f8",
+        "autor": "JEFERSON DA SILVA CARNEIRO<br>",
+        "reu": "MATHEUS FERREIRA CUNHA<br>",
+        "classe": "Requerimento de Reintegração de Posse",
+        "cod_classe": "2481",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "08/10/2026 16:02:22",
+        "ultimo_evento": "08/10/2026 16:02:22 - Remessa para o CEJUSC",
+        "id_orgao_juizo": "270000001",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Compra e Venda, Espécies de Contratos, Obrigações, DIREITO CIVIL, Rescisão / Resolução, Inadimplemento, Obrigações, DIREITO CIVIL, Esbulho / Turbação / Ameaça, Posse, Coisas, DIREITO CIVIL, Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Requerimento de Reintegração de Posse, Obrigação de Entregar, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Busca e Apreensão de Bens, Medidas Assecuratórias, DIREITO PROCESSUAL PENAL, Assistência Judiciária Gratuita, Partes e Procuradores, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Indenização por Dano Material, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR, Indenização por Dano Moral, Responsabilidade da Administração, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "06247759177",
+        "ident_reu": "61952137306",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ARSE 111 (1104 Sul) Alameda 14, 14, Al 14, 77024010",
+        "endereco_reu": "TO, Palmas, Setor Santo Amaro, Área Rural de Palmas, sn, Chácara Orvalho, 77249899",
+        "juizo": "Juízo da 2ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "JEFERSON DA SILVA CARNEIRO",
+          "doc": "062.477.591-77",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 76.584,00"
+      }
+    },
+    "00009209720268272729": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00009209720268272729",
+        "autuacao": "10/01/2026 12:47:20",
+        "str_sig_orgao_juizo": "TOPAL2JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00009209720268272729&hash=60cac2bdbf98d845a30325fb0dcbd62b",
+        "autor": "LEO NETTO AIRES ALVES<br>",
+        "reu": "SAMSUNG ELETRONICA DA AMAZONIA LTDA<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "01/10/2026 16:23:48",
+        "ultimo_evento": "01/10/2026 16:23:48 - Conclusão para julgamento",
+        "id_orgao_juizo": "271000390",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Evicção ou Vicio Redibitório, Ato / Negócio Jurídico, Fatos Jurídicos, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA JULGAMENTO",
+        "ident_autor": "06606974160",
+        "ident_reu": "00280273000137",
+        "endereco_autor": "TO, Palmas, Plano Diretor Norte, ARNO 42 (405 Norte) Alameda 6, Res Flamboyant Ville Apt 103 C, 77002026",
+        "endereco_reu": "SP, Cajamar, Jordanésia, Avenida Antônio Cândido Machado, 315, 07776415",
+        "juizo": "Juízo do 2º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "doc": "066.069.741-60",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 13.568,90"
+      }
+    },
+    "00562675220258272729": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00562675220258272729",
+        "autuacao": "04/12/2025 09:14:16",
+        "str_sig_orgao_juizo": "TOPAL2FAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00562675220258272729&hash=afca269bc381e75b59a38802bd3d9aff",
+        "autor": "GEOVA FERREIRA FEITOSA JUNIOR<br>",
+        "reu": "MUNICIPIO DE PALMAS<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "2",
+        "dth_ultimo_evento": "09/10/2026 18:54:00",
+        "ultimo_evento": "09/10/2026 18:54:00 - Protocolizada Petição",
+        "id_orgao_juizo": "270000191",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Indenização por Dano Moral, Responsabilidade da Administração, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO, Indenização por Dano Material, Responsabilidade da Administração, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO, Acidente de Trânsito, Indenização por Dano Material, Responsabilidade da Administração, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO, Acidente de Trânsito, Indenização por Dano Moral, Responsabilidade da Administração, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "03435082143",
+        "ident_reu": "24851511000185",
+        "endereco_autor": "TO, Divinópolis do Tocantins, ST SOL NASCENTE, RUA L 14, 77670000",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, 104 Norte, Avenida JK, Edifício Via Nobre, 28, A, 77006014",
+        "juizo": "Juizo da 2ª Vara da Fazenda e Reg. Públicos de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "GEOVA FERREIRA FEITOSA JUNIOR",
+          "doc": "034.350.821-43",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 70.000,00"
+      }
+    },
+    "00507402220258272729": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00507402220258272729",
+        "autuacao": "03/11/2025 21:53:49",
+        "str_sig_orgao_juizo": "TOPAL3FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00507402220258272729&hash=23019733b6fdcc3ba5911278fd57192e",
+        "autor": "W. D. R. B. ",
+        "reu": "C. R. C. R. ",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000018",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Guarda, Relações de Parentesco, Família, DIREITO CIVIL, Revisão, Alimentos, Família, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "02339708192",
+        "ident_reu": "02287291148",
+        "endereco_autor": "TO, Palmas, TAQUARUSSU, AVENIDA SUMIDOURO, 1, 77080008",
+        "endereco_reu": "TO, Palmas, TAQUARUCU, RUA 15, S N, QUADRA 60 LOTE 05, 77260000",
+        "juizo": "Juízo da 3ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00089953820258272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00089953820258272737",
+        "autuacao": "29/10/2025 17:05:38",
+        "str_sig_orgao_juizo": "TOPOR3ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00089953820258272737&hash=0acd796ed2f09837dc95d8db42a2d9de",
+        "autor": "D. B. D. S. ",
+        "reu": "H. H. L. S. ",
+        "classe": "Embargos à Execução",
+        "cod_classe": "2378",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000057",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Alimentos, Prisão Civil, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "81902522168",
+        "ident_reu": "08265785194",
+        "endereco_autor": "TO, Porto Nacional, Atos WhatsApp, Atos Whatsapp - Porto Nacional, sn, (62) 98104-9928, 77500000",
+        "endereco_reu": "TO, Brejinho de Nazaré, Setor Central, Avenida Josué Aires Negre, 380, 77560000",
+        "juizo": "Juizo da 3ª Vara Cível, Família, Sucessões, Infância e Juventude de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00143645820258272722": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00143645820258272722",
+        "autuacao": "15/10/2025 20:40:12",
+        "str_sig_orgao_juizo": "TOGUR1EFAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00143645820258272722&hash=2b711b03de05e3e685231780bb31c83e",
+        "autor": "S. V. D. A. S. ",
+        "reu": "R. D. S. A. ",
+        "classe": "Cumprimento Provisório de Decisão",
+        "cod_classe": "2367",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000046",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Fixação, Alimentos, Família, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "01585683116",
+        "ident_reu": "02576909132",
+        "endereco_autor": "TO, Gurupi, Residencial Jardim América, Avenida B, sn, Lote 017, Quadra 136, 77427000",
+        "endereco_reu": "TO, Gurupi, Atos Whatsapp Gurupi, Atos Whatsapp Gurupi, sn, (63) 9851-54252, (63) 98442-7200, 77400000",
+        "juizo": "Juizo da 1ª Vara de Família e Sucessões de Gurupi",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00387218120258272729": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00387218120258272729",
+        "autuacao": "29/08/2025 11:31:47",
+        "str_sig_orgao_juizo": "TOPAL3JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00387218120258272729&hash=3bca91d263ff11caa3fe956d151e29e2",
+        "autor": "NOLETO & BONFIM LTDA<br>",
+        "reu": "TELMA MARINHO SOBRINHO<br>",
+        "classe": "Execução de Título Extrajudicial",
+        "cod_classe": "644",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "25/09/2026 14:54:13",
+        "ultimo_evento": "25/09/2026 14:54:13 - Conclusão para decisão",
+        "id_orgao_juizo": "271000392",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Nota Promissória, Espécies de Títulos de Crédito, Obrigações, DIREITO CIVIL, Correção Monetária, Inadimplemento, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "31876186000170",
+        "ident_reu": "12609715897",
+        "endereco_autor": "TO, Palmas, PLANO DIRETOR NORTE, ACNE 1 RUA NE 1 , 30, SALA 08, 77006016",
+        "endereco_reu": "TO, Palmas, Whatsapp, Atos Whatsapp Palmas, sn, 63 9 8433-2328, 77000000",
+        "juizo": "Juízo do 3º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "NOLETO & BONFIM LTDA",
+          "doc": "31.876.186/0001-70",
+          "tipo": "Pessoa Jurídica",
+          "papel": "EXEQUENTE"
+        },
+        "valorCausa": "R$ 5.563,44"
+      }
+    },
+    "00071688920258272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00071688920258272737",
+        "autuacao": "28/08/2025 14:54:42",
+        "str_sig_orgao_juizo": "TOPOR3ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00071688920258272737&hash=452f87fb4d1c21455072ef9a33970758",
+        "autor": "L. A. L. ",
+        "reu": "D. B. D. S. ",
+        "classe": "Cumprimento de Sentença de Obrigação de Prestar Alimentos",
+        "cod_classe": "2502",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000057",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Alimentos, Prisão Civil, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "01159116180",
+        "ident_reu": "81902522168",
+        "endereco_autor": "TO, Brejinho de Nazaré, CENTRO, RUA JOSUE AIRES NEGRE, 380, 77560000",
+        "endereco_reu": "TO, Porto Nacional, Atos WhatsApp, Atos Whatsapp - Porto Nacional, sn, (62) 98104-9928, 77500000",
+        "juizo": "Juizo da 3ª Vara Cível, Família, Sucessões, Infância e Juventude de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00027156920258272731": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00027156920258272731",
+        "autuacao": "01/05/2025 11:22:50",
+        "str_sig_orgao_juizo": "TOPAI2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00027156920258272731&hash=9142e803643301dfb5b2b7bcb53f9f59",
+        "autor": "M. C. P. o. ",
+        "reu": "P. S. R. ",
+        "classe": "Arrolamento Comum",
+        "cod_classe": "672",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000068",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Inventário e Partilha, Sucessões, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "07622448109",
+        "ident_reu": "93440663027",
+        "endereco_autor": "MG, Paineiras, CENTRO, CASA, 100, 35622000",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, ARSO 41 (403 Sul) Alameda 19, 00, 77015581",
+        "juizo": "Juizo da Vara de Família, Sucessões, Infância e Juventude de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00023717020258272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00023717020258272737",
+        "autuacao": "31/03/2025 13:31:27",
+        "str_sig_orgao_juizo": "TOPOR1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00023717020258272737&hash=c70668e569d456a43297981e582445d6",
+        "autor": "I. U. H. S. ",
+        "reu": "D. A. F. ",
+        "classe": "Busca e Apreensão em Alienação Fiduciária",
+        "cod_classe": "2330",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000055",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Alienação Fiduciária, Espécies de Contratos, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-REMETIDO AO TJTO",
+        "ident_autor": "60872504000123",
+        "ident_reu": "00366783173",
+        "endereco_autor": "SP, São Paulo, Parque Jabaquara, Praça Alfredo Egydio de Souza Aranha, 100, 04344902",
+        "endereco_reu": "TO, Porto Nacional, Setor Central, Rua Dom Domingos Carrerot, 1111, 77500000",
+        "juizo": "Juízo da 1ª Vara Cível de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00005420220258272722": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00005420220258272722",
+        "autuacao": "15/01/2025 11:00:26",
+        "str_sig_orgao_juizo": "TOGUR1EFAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00005420220258272722&hash=7d1788583f92443d4ff89d7ccc3adbf1",
+        "autor": "S. V. D. A. S. ",
+        "reu": "R. D. S. A. ",
+        "classe": "Cumprimento de Sentença de Obrigação de Prestar Alimentos",
+        "cod_classe": "2502",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000046",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Fixação, Alimentos, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "01585683116",
+        "ident_reu": "02576909132",
+        "endereco_autor": "TO, Gurupi, Residencial Jardim América, Avenida B, sn, Lote 017, Quadra 136, 77427000",
+        "endereco_reu": "TO, Gurupi, Atos Whatsapp Gurupi, Atos Whatsapp Gurupi, sn, (63) 9851-54252, (63) 98442-7200, 77400000",
+        "juizo": "Juizo da 1ª Vara de Família e Sucessões de Gurupi",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00111292020248272722": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00111292020248272722",
+        "autuacao": "29/08/2024 19:25:28",
+        "str_sig_orgao_juizo": "TOGUR1EFAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00111292020248272722&hash=1327dc036afe733fefceab08a83dae7f",
+        "autor": "S. V. D. A. S. ",
+        "reu": "R. D. S. A. ",
+        "classe": "Divórcio Litigioso",
+        "cod_classe": "982",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000046",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Fixação, Alimentos, Família, DIREITO CIVIL, Partilha, Dissolução, Casamento, Família, DIREITO CIVIL, Guarda, Relações de Parentesco, Família, DIREITO CIVIL, Regulamentação de Visitas, Relações de Parentesco, Família, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "01585683116",
+        "ident_reu": "02576909132",
+        "endereco_autor": "TO, Gurupi, Residencial Jardim América, Avenida B, sn, Lote 017, Quadra 136, 77427000",
+        "endereco_reu": "TO, Gurupi, Atos Whatsapp Gurupi, Atos Whatsapp Gurupi, sn, (63) 9851-54252, (63) 98442-7200, 77400000",
+        "juizo": "Juizo da 1ª Vara de Família e Sucessões de Gurupi",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00326873220218272729": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00326873220218272729",
+        "autuacao": "30/08/2021 16:15:53",
+        "str_sig_orgao_juizo": "TOPAL1FAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00326873220218272729&hash=69f1871609fbed92319697b5464ae721",
+        "autor": "EDILMA AIRES LOPES<br>",
+        "reu": "ESTADO DO TOCANTINS<br>",
+        "classe": "Cumprimento de Sentença contra a Fazenda Pública",
+        "cod_classe": "2472",
+        "cod_competencia": "2",
+        "dth_ultimo_evento": "30/07/2026 17:43:55",
+        "ultimo_evento": "30/07/2026 17:43:55 - Protocolizada Petição",
+        "id_orgao_juizo": "270000190",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Data Base, Sistema Remuneratório e Benefícios, Servidor Público Civil, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO",
+        "des_situacao": "SUSPENSO / SOBRESTADO",
+        "ident_autor": "32332114149",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Brejinho de Nazaré, CENTRO, N/A JOSUE AIRES NEGRE, 380, 77560000",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juizo da 1ª Vara da Fazenda e Reg. Públicos de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "EDILMA AIRES LOPES",
+          "doc": "323.321.141-49",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 3.847,56"
+      }
+    },
+    "00062831720218272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00062831720218272737",
+        "autuacao": "22/07/2021 14:53:28",
+        "str_sig_orgao_juizo": "TOPOR3ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00062831720218272737&hash=a0188ffa63f622833423e8459bebe5ae",
+        "autor": "L. N. A. A. ",
+        "reu": "G. A. D. S. ",
+        "classe": "Alimentos - Lei Especial Nº 5.478/68",
+        "cod_classe": "684",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000057",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Fixação, Alimentos, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "06606974160",
+        "ident_reu": "86091816187",
+        "endereco_autor": "TO, Palmas, Plano Diretor Norte, ARNO 42 (405 Norte) Alameda 6, Res Flamboyant Ville Apt 103 C, 77002026",
+        "endereco_reu": "TO, Brejinho de Nazaré, CENTRO, AVENIDA FELICISSIMO BRAGA, SN, CASA, 77560000",
+        "juizo": "Juizo da 3ª Vara Cível, Família, Sucessões, Infância e Juventude de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00060692620218272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00060692620218272737",
+        "autuacao": "21/07/2021 09:09:04",
+        "str_sig_orgao_juizo": "TOPOR3ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00060692620218272737&hash=9f0832e92ee4544a77e6a71782f22ba7",
+        "autor": "P. L. C. P. o. ",
+        "reu": "J. F. D. S. ",
+        "classe": "Cumprimento de Sentença de Obrigação de Prestar Alimentos",
+        "cod_classe": "2502",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000057",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Alimentos, Prisão Civil, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "08352325140",
+        "ident_reu": "04994861102",
+        "endereco_autor": "TO, Brejinho de Nazaré, JANUARIO DIAS DOS R, AVENIDA JK, S N, 77560000",
+        "endereco_reu": "TO, Gurupi, Setor Bela Vista, Rua de Rosa Saron, s/n, Qd 08, Lt 03, 77420858",
+        "juizo": "Juizo da 3ª Vara Cível, Família, Sucessões, Infância e Juventude de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00025508720148272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "00025508720148272737",
+        "autuacao": "23/04/2014 09:22:03",
+        "str_sig_orgao_juizo": "TOPOR3ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00025508720148272737&hash=18724ed0d29026dfe3269548846de23c",
+        "autor": "NEUSIANE TEIXEIRA DAS NEVES<br>e outros",
+        "reu": "PROCESSO SEM PARTE RE<br>",
+        "classe": "Homologação de Transação Extrajudicial",
+        "cod_classe": "614",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "24/07/2026 15:25:28",
+        "ultimo_evento": "24/07/2026 15:25:28 - Baixa Definitiva",
+        "id_orgao_juizo": "270000057",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Investigação de Paternidade, Relações de Parentesco, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "04458401106",
+        "ident_reu": "",
+        "endereco_autor": "TO, Brejinho de Nazaré, CENTRO, N/A JANUARIO DIAS DOS REIS, 14, QD 16 LT14, 77560000",
+        "endereco_reu": "TO, São Miguel do Tocantins, Zona Rural, Fazenda Lagoa Azul, sn, 77925000",
+        "juizo": "Juizo da 3ª Vara Cível, Família, Sucessões, Infância e Juventude de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "LEO NETTO AIRES ALVES",
+          "oab": "TO014165"
+        },
+        "requerente": {
+          "nome": "LENIVALDO AIRES LOPES",
+          "doc": "869.169.801-25",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 724,00"
+      }
+    },
+    "50039395620138272737": {
+      "primeira_vez_visto": "2026-10-13T14:53:15.130Z",
+      "atualizado_em": "2026-10-13T17:42:49.638Z",
+      "dados": {
+        "nr_processo": "50039395620138272737",
+        "autuacao": "28/06/2013 09:32:45",
+        "str_sig_orgao_juizo": "TOPOR3ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=50039395620138272737&hash=d1ae041e68a5c126b3e3a17891967111",
+        "autor": "L. A. L. o. ",
+        "reu": "D. B. D. S. ",
+        "classe": "Ação de Alimentos",
+        "cod_classe": "692",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000057",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Fixação, Alimentos, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "",
+        "ident_reu": "85127612100",
+        "endereco_autor": "TO, Brejinho de Nazaré, CENTRO, RUA JOSUE AIRES NEGRE, 380, 77600000",
+        "endereco_reu": "TO, Itaporã do Tocantins, Setor Aeroporto, Rua Adão Vieira de Abreu, s/nº, 77740000",
+        "juizo": "Juizo da 3ª Vara Cível, Família, Sucessões, Infância e Juventude de Porto Nacional",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    }
+  }
+}

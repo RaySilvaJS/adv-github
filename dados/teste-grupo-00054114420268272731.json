@@ -1,0 +1,40 @@
+{
+  "autor": {
+    "doc": "00638335221",
+    "telefones": [
+      {
+        "numero": "(94)3322-2440",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)99266-6186",
+        "operadora": "CLARO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)98420-1309",
+        "operadora": "TIM",
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)98138-1811",
+        "operadora": "TIM",
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3223-1115",
+        "operadora": null,
+        "whatsapp": false
+      }
+    ],
+    "renda": "R$ 1.327,22",
+    "nome": "Maria Domingas Araujo Silva Souza",
+    "nascimento": "24/09/1989 | 37 Anos",
+    "formato": "whatsapp",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": false,
+    "bruto": "*☞ Resultado da sua consulta:*\n\n• DADOS PESSOAIS:\n       CPF: 006.383.352-21\n       NOME: Maria Domingas Araujo Silva Souza\n       SEXO: FEMININO\n       NASCIMENTO: 24/09/1989 | 37 Anos\n       MÃE: Sebastiana Nonata De Araujo Silva\n       PAI: Sem informação\n\n• RENDAS/CREDITO:\n       RENDA: R$ 1.327,22\n       PODER AQUISITIVO: Baixo\n       PODER DE COMPRA: De R$ 630 Até R$ 1018\n       PROFISSÃO: Sem informação\n\n• SCORE (0 a 1000):\n       SERASA SCORE: 577\n       SERASA SCORE ANTIGO: 550\n       SPC SCORE: 575\n       SPC SCORE ANTIGO: 575\n       BOAVISTA SCORE: 442\n       BOAVISTA SCORE ANTIGO: 442\n\n• INFORMAÇÕES DO RG/CNH:\n       RG: Sem informação\n       EMISSÃO: Sem informação\n       ORGÃO: Sem informação\n       UF: Sem informação\n\n• OUTRAS INFORMAÇÕES:\n       NIS: 20917951187\n       PIS: 20917951187\n       TITULO: Sem informação\n       CONJUGE: Sem informação\n       ESCOLARIDADE: Fundamental Completo\n       CIDADE DE NASCIMENTO: Sem informação\n\n• ENDEREÇOS (5):\n       ★ R ESTADOS UNIDOS 1810, CENTRO, PARAISO DO TOCANTINS/TO - 77600000\n       ★ R ESTADOS UNIDOS 1810, 1810 - PARAISO DO TOCANTINS/TO - 77600000\n       R ESTADOS UNIDOS 4, VL REGINA, PALMEIRAS DO TOCANTINS/TO - 77913000\n       R ESTADOS UNIDOS 4, 4 - PALMEIRAS DO TOCANTINS/TO - 77913000\n       ESTADOS UNIDOS, 1810, N/A - PARAISO DO TOCANTINS/TO - 77600000\n\n• NÚMEROS (5):\n       (94)3322-2440\n       (63)99266-6186 - CLARO - WhatsApp\n       (63)98420-1309 - TIM\n       (63)98138-1811 - TIM\n       (63)3223-1115\n\n• E-MAILS (1):\n       ★ fccoassis@yahoo.com.br - RUIM\n\n• PARENTES (3):\n       EDICARLA CRUZ DA SILVA ALVES - IRMA(O) - 683.524.842-49\n       SEBASTIANA NONATA DE ARAUJO SILVA - MAE - 766.919.262-34\n       MARIA ANTONIA DE ARAUJO SILVA SOUSA - IRMA(O) - 957.463.232-68\n\n• EMPRESAS (0):\n       Empresas não encontradas\n\n• EMPREGOS (2):\n       00.299.180/0001-54 | MUNIC DE PARAISO DO TOCANTINS | 08/02/2021 até n/a\n       19.972.394/0003-30 | DISTRIB DE GAS CORREA LTDA | R$ 1.268,72 | 29/05/2019 até 13/09/2019"
+  }
+}

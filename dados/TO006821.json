@@ -1,0 +1,350 @@
+{
+  "oab": "TO006821",
+  "primeira_consulta": "2026-10-10T17:42:21.479Z",
+  "ultima_consulta": "2026-10-10T17:44:04.077Z",
+  "total_na_ultima_consulta": 9,
+  "processos": {
+    "00034039420268272731": {
+      "primeira_vez_visto": "2026-10-10T17:42:21.479Z",
+      "atualizado_em": "2026-10-10T17:44:04.077Z",
+      "dados": {
+        "nr_processo": "00034039420268272731",
+        "autuacao": "05/06/2026 12:23:02",
+        "str_sig_orgao_juizo": "TOPAI1FAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00034039420268272731&hash=8a366560936f707b16891091a82ea721",
+        "autor": "CLEONICE MEDEIROS DA SILVA<br>e outros",
+        "reu": "DANILO ALENCAR DE ANDRADE<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "2",
+        "dth_ultimo_evento": "08/10/2026 14:36:04",
+        "ultimo_evento": "08/10/2026 14:36:04 - Protocolizada Petição",
+        "id_orgao_juizo": "270000232",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Serviços de Saúde, Indenização por Dano Material, Responsabilidade da Administração, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO, Serviços de Saúde, Indenização por Dano Moral, Responsabilidade da Administração, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO, Serviços de Saúde, Indenização por Dano Material, Responsabilidade Civil, DIREITO CIVIL, Serviços de Saúde, Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "01150153105",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Paraíso do Tocantins, JARDIM PAULISTA, AVENIDA ARARAQUARA, 453, 77600000",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juizo da 1ª Vara dos Feitos das Fazendas e Reg. Públicos e Prec. Cíveis de Paraíso do Tocantins",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": {
+          "nome": "CLEONICE MEDEIROS DA SILVA",
+          "doc": "011.501.531-05",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 1.783.100,00"
+      }
+    },
+    "00473391520258272729": {
+      "primeira_vez_visto": "2026-10-10T17:42:21.479Z",
+      "atualizado_em": "2026-10-10T17:44:04.077Z",
+      "dados": {
+        "nr_processo": "00473391520258272729",
+        "autuacao": "15/10/2025 15:43:38",
+        "str_sig_orgao_juizo": "TOPAL5CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00473391520258272729&hash=9456f4e5b92faf98b0d52415f8aa4dbb",
+        "autor": "EDILTON FERREIRA DE MIRANDA<br>",
+        "reu": "THYAGO ANDRADE MIRANDA COSTA<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "24/09/2026 14:14:59",
+        "ultimo_evento": "24/09/2026 14:14:59 - Despacho - Mero expediente",
+        "id_orgao_juizo": "270000011",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Promessa de Compra e Venda, Coisas, DIREITO CIVIL, Defeito, nulidade ou anulação, Ato / Negócio Jurídico, Fatos Jurídicos, DIREITO CIVIL, Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Assistência Judiciária Gratuita, Partes e Procuradores, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "12853623300",
+        "ident_reu": "02247085113",
+        "endereco_autor": "TO, Palmas, Zona Rural, Rodovia TO 020, Km 15, Chácara Irecê, 77249899",
+        "endereco_reu": "TO, Palmas, Plano Diretor Sul, ACSO 1 (103 Sul) Avenida Juscelino Kubitschek-JK, 40, quadra 103 sul, Edifício JK Business Center, 77015012",
+        "juizo": "Juízo da 5ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "ÉRICA SAMARA COELHO DE MIRANDA",
+          "oab": "TO006821"
+        },
+        "requerente": {
+          "nome": "EDILTON FERREIRA DE MIRANDA",
+          "doc": "128.536.233-00",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 300.000,00"
+      }
+    },
+    "00461102020258272729": {
+      "primeira_vez_visto": "2026-10-10T17:42:21.479Z",
+      "atualizado_em": "2026-10-10T17:44:04.077Z",
+      "dados": {
+        "nr_processo": "00461102020258272729",
+        "autuacao": "08/10/2025 15:01:21",
+        "str_sig_orgao_juizo": "TOPAL3FAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00461102020258272729&hash=f351804ba2aa562d42700236135a8e6b",
+        "autor": "E. F. D. M. ",
+        "reu": "J. V. ",
+        "classe": "Tomada de Decisão Apoiada",
+        "cod_classe": "2512",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000018",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Direitos da Personalidade, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "12853623300",
+        "ident_reu": "",
+        "endereco_autor": "TO, Palmas, Zona Rural, Rodovia TO 020, Km 15, Chácara Irecê, 77249899",
+        "endereco_reu": "TO, Paranã, Atos Whatsapp, Atos Whatsapp - Paranã, s/n, 77360000",
+        "juizo": "Juízo da 3ª Vara da Família e Sucessões de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00235351820258272729": {
+      "primeira_vez_visto": "2026-10-10T17:42:21.479Z",
+      "atualizado_em": "2026-10-10T17:44:04.077Z",
+      "dados": {
+        "nr_processo": "00235351820258272729",
+        "autuacao": "29/05/2025 13:19:01",
+        "str_sig_orgao_juizo": "TOPAL3CRIJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00235351820258272729&hash=03f878928873be4f6e2a2c09742ca3d5",
+        "autor": "P. C. ",
+        "reu": "E. F. D. M. ",
+        "classe": "Inquérito Policial",
+        "cod_classe": "2411",
+        "cod_competencia": "5",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000023",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Estupro, Crimes contra a Dignidade Sexual, DIREITO PENAL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "",
+        "ident_reu": "12853623300",
+        "endereco_autor": "TO, Santa Maria do Tocantins, Setor Central, Rua 10, 77716000",
+        "endereco_reu": "TO, Palmas, Zona Rural, Rodovia TO 020, Km 15, Chácara Irecê, 77249899",
+        "juizo": "Juizo da 3ª Vara Criminal de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00388522720238272729": {
+      "primeira_vez_visto": "2026-10-10T17:42:21.479Z",
+      "atualizado_em": "2026-10-10T17:44:04.077Z",
+      "dados": {
+        "nr_processo": "00388522720238272729",
+        "autuacao": "04/10/2023 12:08:02",
+        "str_sig_orgao_juizo": "TOPAL2CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00388522720238272729&hash=fb1c94f6f3b6fcd8043e7f38893110dd",
+        "autor": "INEZ PEREIRA COELHO<br>",
+        "reu": "NAC COMERCIO DE ELETRODOMESTICOS LTDA FALIDA<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "06/08/2026 18:26:29",
+        "ultimo_evento": "06/08/2026 18:26:29 - Protocolizada Petição",
+        "id_orgao_juizo": "270000001",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Obrigação de Fazer / Não Fazer, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Assistência Judiciária Gratuita, Partes e Procuradores, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "40268128391",
+        "ident_reu": "85386910159",
+        "endereco_autor": "TO, Palmas, Plano Diretor Sul, ARSO 63 (607 Sul) Alameda 2, Lote 13, QI 10, 77016512",
+        "endereco_reu": "TO, Palmas, PLANO DIRETOR SUL, N/A 108 SUL ALAMEDA 14 LOTE 49, 49, 77020118",
+        "juizo": "Juízo da 2ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "ÉRICA SAMARA COELHO DE MIRANDA",
+          "oab": "TO006821"
+        },
+        "requerente": {
+          "nome": "INEZ PEREIRA COELHO",
+          "doc": "402.681.283-91",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 185.315,00"
+      }
+    },
+    "00121367020178272729": {
+      "primeira_vez_visto": "2026-10-10T17:42:21.479Z",
+      "atualizado_em": "2026-10-10T17:44:04.077Z",
+      "dados": {
+        "nr_processo": "00121367020178272729",
+        "autuacao": "27/04/2017 10:55:11",
+        "str_sig_orgao_juizo": "TOPAL4CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00121367020178272729&hash=419050d560b81e9feace65877f939a6e",
+        "autor": "L. O. C. o. ",
+        "reu": "U. G. C. D. T. M. ",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000010",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Fornecimento de medicamentos, Planos de Saúde, Contratos de Consumo, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "06423826110",
+        "ident_reu": "01476619000130",
+        "endereco_autor": "TO, Palmas, Plano Diretor Norte,  QUADRA ARSO 44 ALAMEDA 02 08 QI 9A LT 08 <br>, 08, 77000000",
+        "endereco_reu": "TO, Gurupi, LOTEAMENTO DOM PEDRO I, AVENIDA ALAGOAS, 2125, QUADRAA                   LOTE  01, 77410070",
+        "juizo": "Juízo da 4ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00361029620168272729": {
+      "primeira_vez_visto": "2026-10-10T17:42:21.479Z",
+      "atualizado_em": "2026-10-10T17:44:04.077Z",
+      "dados": {
+        "nr_processo": "00361029620168272729",
+        "autuacao": "16/10/2016 06:55:00",
+        "str_sig_orgao_juizo": "TOPAL2CRIJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00361029620168272729&hash=2ed23a617ae4f22c49d4e73df8d15341",
+        "autor": "POLÍCIA CIVIL/TO<br>",
+        "reu": "JOABE ALVES DE SOUZA<br>",
+        "classe": "Inquérito Policial",
+        "cod_classe": "2411",
+        "cod_competencia": "5",
+        "dth_ultimo_evento": "13/03/2017 17:08:28",
+        "ultimo_evento": "13/03/2017 17:08:28 - Baixa Definitiva",
+        "id_orgao_juizo": "270000021",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Crimes de Trânsito, Crimes Previstos na Legislação Extravagante, DIREITO PENAL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "",
+        "ident_reu": "99889722100",
+        "endereco_autor": "TO, Santa Maria do Tocantins, Setor Central, Rua 10, 77716000",
+        "endereco_reu": "TO, Palmas, JD AURENY 4, A QD 03 LT 16 , 77270000",
+        "juizo": "Juizo da 2ª Vara Criminal de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "ÉRICA SAMARA COELHO DE MIRANDA",
+          "oab": "TO006821"
+        },
+        "requerente": {
+          "nome": "POLÍCIA CIVIL/TO",
+          "doc": null,
+          "tipo": null,
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00143437620168272729": {
+      "primeira_vez_visto": "2026-10-10T17:42:21.479Z",
+      "atualizado_em": "2026-10-10T17:44:04.077Z",
+      "dados": {
+        "nr_processo": "00143437620168272729",
+        "autuacao": "04/05/2016 16:59:06",
+        "str_sig_orgao_juizo": "TOPAL3JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00143437620168272729&hash=49561f8bde24161aec05f78ffd8aa9d8",
+        "autor": "FÁBIO HUGO MEDEIROS DE FREITAS CORREIA<br>",
+        "reu": "COND. PARQUE RESIDENCIAL CAMARAGIBE I,II E III.<br>",
+        "classe": "Cumprimento de sentença",
+        "cod_classe": "2366",
+        "cod_competencia": "16",
+        "dth_ultimo_evento": "23/07/2020 09:04:20",
+        "ultimo_evento": "23/07/2020 09:04:20 - Encaminhamento Processual",
+        "id_orgao_juizo": "271000392",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Pagamento Indevido, Atos Unilaterais, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "02919224492",
+        "ident_reu": "08057806000128",
+        "endereco_autor": "TO, Palmas, Whatsapp, Atos Whatsapp Palmas, s/n, (63) 99999-1220, 77000000",
+        "endereco_reu": "PE, Recife, SETOR RUI BARBOSA, JARDIM PRIMAVERA, 66, 52050000",
+        "juizo": "Juízo do 3º Juizado Especial Cível de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "ÉRICA SAMARA COELHO DE MIRANDA",
+          "oab": "TO006821"
+        },
+        "requerente": {
+          "nome": "FÁBIO HUGO MEDEIROS DE FREITAS CORREIA",
+          "doc": "029.192.244-92",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 30.846,00"
+      }
+    },
+    "50006196620068272729": {
+      "primeira_vez_visto": "2026-10-10T17:42:21.479Z",
+      "atualizado_em": "2026-10-10T17:44:04.077Z",
+      "dados": {
+        "nr_processo": "50006196620068272729",
+        "autuacao": "22/08/2006 00:00:00",
+        "str_sig_orgao_juizo": "TOPAL3CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=50006196620068272729&hash=7c8836a081ea16ccbdc0520f12b84394",
+        "autor": "SILVIA MARIA COSTA<br>",
+        "reu": "MARIA DE FÁTIMA LIMA CARDOSO RODRIGUES<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "05/08/2019 15:22:38",
+        "ultimo_evento": "05/08/2019 15:22:38 - Baixa Definitiva",
+        "id_orgao_juizo": "270000009",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Perdas e Danos, Inadimplemento, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "07481965870",
+        "ident_reu": "",
+        "endereco_autor": "TO, Palmas, CENTRO, 103 NORTE RUA NO 11 , 15, 77001058",
+        "endereco_reu": "TO, Palmas, CENTRO, 308 SUL, AL 07, LOTE 11, 11, 77700000",
+        "juizo": "Juízo da 3ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "ÉRICA SAMARA COELHO DE MIRANDA",
+          "oab": "TO006821"
+        },
+        "requerente": {
+          "nome": "SILVIA MARIA COSTA",
+          "doc": "074.819.658-70",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 70.000,00"
+      }
+    }
+  }
+}

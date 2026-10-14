@@ -1,0 +1,35 @@
+{
+  "autor": {
+    "doc": "62905732920",
+    "telefones": [
+      {
+        "numero": "(63)98448-3564",
+        "operadora": "TIM",
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)99211-5618",
+        "operadora": "CLARO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)98454-9039",
+        "operadora": "TIM",
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)98422-6046",
+        "operadora": "TIM",
+        "whatsapp": false
+      }
+    ],
+    "renda": "R$ 1.130,48",
+    "nome": "Gelson Luiz Watte",
+    "nascimento": "20/09/1967 | 59 Anos",
+    "formato": "whatsapp",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": false,
+    "bruto": "*☞ Resultado da sua consulta:*\n\n• DADOS PESSOAIS:\n       CPF: 629.057.329-20\n       NOME: Gelson Luiz Watte\n       SEXO: MASCULINO\n       NASCIMENTO: 20/09/1967 | 59 Anos\n       MÃE: Natalina Watte\n       PAI: Arnaldo Watte\n\n• RENDAS/CREDITO:\n       RENDA: R$ 1.130,48\n       PODER AQUISITIVO: Baixo\n       PODER DE COMPRA: De R$ 630 Até R$ 1018\n       PROFISSÃO: Sem informação\n\n• SCORE (0 a 1000):\n       SERASA SCORE: 611\n       SERASA SCORE ANTIGO: 845\n       SPC SCORE: 481\n       SPC SCORE ANTIGO: 481\n       BOAVISTA SCORE: 226\n       BOAVISTA SCORE ANTIGO: 442\n\n• INFORMAÇÕES DO RG/CNH:\n       RG: 122160071\n       EMISSÃO: 08/07/1985\n       ORGÃO: Ssp - Secretaria De Seguranca Publica\n       UF: SC\n\n• OUTRAS INFORMAÇÕES:\n       NIS: Sem informação\n       PIS: Sem informação\n       TITULO: Sem informação\n       CONJUGE: Sem informação\n       ESCOLARIDADE: Medio Completo\n       CIDADE DE NASCIMENTO: Palmitos/SC\n\n• ENDEREÇOS (7):\n       ★ R GOIAS 668 BL AP, AEROPORTO, PEDRO AFONSO/TO - 77710000\n       ★ R GOIAS 668 BL AP, 668 - PEDRO AFONSO/TO - 77710000\n       R LOC 5, null, BOM JESUS DO TOCANTINS/TO - 77714000\n       R LOC 5, 5 - BOM JESUS DO TOCANTINS/TO - 77714000\n       R GOIAS 5, ST CENTRAL, BOM JESUS DO TOCANTINS/TO - 77714000\n       R GOIAS 5, 5 - BOM JESUS DO TOCANTINS/TO - 77714000\n       N/A, 5, N/A - BOM JESUS DO TOCANTINS/TO - 77714000\n\n• NÚMEROS (4):\n       ★ (63)98448-3564 - TIM\n       (63)99211-5618 - CLARO - WhatsApp\n       (63)98454-9039 - TIM - WhatsApp\n       (63)98422-6046 - TIM\n\n• E-MAILS (0):\n       E-mails não encontrados\n\n• PARENTES (1):\n       NATALINA WATTE - MAE\n\n• EMPRESAS (0):\n       Empresas não encontradas\n\n• EMPREGOS (0):\n       Empregos não encontrados"
+  }
+}

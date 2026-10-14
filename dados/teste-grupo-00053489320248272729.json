@@ -1,0 +1,265 @@
+{
+  "autor": {
+    "doc": "07207996000150",
+    "telefones": [
+      {
+        "numero": "(11)95502-7719",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(11)95502-7727",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95502-7735",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95502-7743",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(11)95502-7751",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95502-7759",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7559",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7563",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7567",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(11)95502-7695",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95502-7703",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95502-7711",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(11)95503-7535",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7539",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7543",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7547",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7551",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7555",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7511",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7515",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7519",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7523",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(11)95503-7527",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7531",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95502-7917",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95502-7921",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95502-7925",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95502-7929",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7503",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7507",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95502-7893",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95502-7897",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(11)95503-7577",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95502-7799",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95502-7791",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(11)95502-7783",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(11)95502-7775",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95502-7767",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7611",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7607",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(45)3223-0939",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(11)95503-7603",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7599",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7588",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7582",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7635",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7631",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7627",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7623",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(11)95503-7619",
+        "operadora": null,
+        "whatsapp": true
+      }
+    ],
+    "renda": null,
+    "nome": null,
+    "nascimento": null,
+    "formato": "whatsapp",
+    "capitalSocial": "R$ 22.010.000.000,00",
+    "faturamento": "R$ 0,00",
+    "naoEncontrado": false,
+    "bruto": "*☞ Resultado da sua consulta:*\n\n• DADOS EMPRESARIAIS:\n       CNPJ: 07.207.996/0001-50\n       NOME FANTASIA: n/a\n       RAZÃO SOCIAL: BCO BRADESCO FINANCIAMENTOS SA\n       REPRESENTANTE: 942.909.898-53 | DOMINGOS FIGUEIREDO DE ABREU\n       MATRIZ: SIM\n       INSCRIÇÃO ESTADUAL: Sem informação\n       ABERTURA: 25/08/1966\n       CAPITAL SOCIAL: R$ 22.010.000.000,00\n       FATURAMENTO: R$ 0,00\n       FUNCIONÁRIOS: 17\n       OPERACIONALIDADE: MUITO ALTO \n       RISCO: Sem informação\n       TIPO: SA\n       TIPO CNAE: SERVICO\n       CNAE: 6422100\n       LOCALIZAÇÃO: google.com/maps/search/-23.545113,-46.764793\n\n• SÓCIOS (13):\n       934.928.129-53 | ANDRE DAVID MARQUES | N/A%\n       167.477.158-45 | ANTONIO CAMPANHA JUNIOR | N/A%\n       103.750.518-21 | CLAYTON NEVES XAVIER | N/A%\n       007.993.096-48 | CRISTIANO ADJUTO E CAMPOS | N/A%\n       271.662.978-16 | CRISTIANO GOMES DE MOURA | N/A%\n       200.051.688-21 | DANILO LUIS DAMASCENO | N/A%\n       624.211.314-72 | JOSE RAMOS ROCHA NETO | N/A%\n       261.433.668-88 | MARCOS ALEXANDRE PINA CAVAGNOLI | N/A%\n       829.357.189-68 | MARCOS DANIEL BOLL | N/A%\n       085.195.768-42 | MARCOS VALERIO TESCAROLO | N/A%\n       350.601.738-10 | PATRICIA KESSLER DE ASSUMPCAO | N/A%\n       321.279.048-26 | VINICIUS PANARO | N/A%\n       942.909.898-53 | DOMINGOS FIGUEIREDO DE ABREU | 100%\n\n• ENDEREÇOS (1):\n       NUC CIDADE DE DEUS SN AND 4 PRED PRATA, VL YARA - OSASCO/SP - 06029900\n\n• E-MAILS (10):\n       4312.dominios@bradesco.com.br\n       dep.sperafico@uol.com.br\n       drakarinerizzardi@gmail.com\n       registro@certto.com.br\n       vestibular@unioeste.br\n       victor.melo@bmc.com.br\n       marilza@bmc.com.br\n       thalita.martinelli@bradescopromotora.com.br\n       fernando.perrelli@bradescopromotora.com.br\n       bmcspo@uol.com.br\n\n• NÚMEROS (50):\n       (11)95502-7719\n       (11)95502-7727\n       (11)95502-7735\n       (11)95502-7743\n       (11)95502-7751\n       (11)95502-7759\n       (11)95503-7559\n       (11)95503-7563\n       (11)95503-7567\n       (11)95502-7695\n       (11)95502-7703\n       (11)95502-7711\n       (11)95503-7535\n       (11)95503-7539\n       (11)95503-7543\n       (11)95503-7547\n       (11)95503-7551\n       (11)95503-7555\n       (11)95503-7511\n       (11)95503-7515\n       (11)95503-7519\n       (11)95503-7523\n       (11)95503-7527\n       (11)95503-7531\n       (11)95502-7917\n       (11)95502-7921\n       (11)95502-7925\n       (11)95502-7929\n       (11)95503-7503\n       (11)95503-7507\n       (11)95502-7893\n       (11)95502-7897\n       (11)95503-7577\n       (11)95502-7799\n       (11)95502-7791\n       (11)95502-7783\n       (11)95502-7775\n       (11)95502-7767\n       (11)95503-7611\n       (11)95503-7607\n       (45)3223-0939\n       (11)95503-7603\n       (11)95503-7599\n       (11)95503-7588\n       (11)95503-7582\n       (11)95503-7635\n       (11)95503-7631\n       (11)95503-7627\n       (11)95503-7623\n       (11)95503-7619\n\n• FUNCIONÁRIOS (979):\n       000.475.815-30 | JOAO PAULO BRITO DA SILVA | 02/10/200"
+  }
+}

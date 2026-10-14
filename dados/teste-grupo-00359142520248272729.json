@@ -1,0 +1,55 @@
+{
+  "autor": {
+    "doc": "01299082238",
+    "telefones": [
+      {
+        "numero": "(91)98711-8131",
+        "operadora": "CLARO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(91)99331-1244",
+        "operadora": "VIVO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(91)99259-8206",
+        "operadora": "VIVO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(91)99240-8398",
+        "operadora": "VIVO",
+        "whatsapp": false
+      },
+      {
+        "numero": "(91)98887-3259",
+        "operadora": "CLARO",
+        "whatsapp": false
+      },
+      {
+        "numero": "(91)98415-8373",
+        "operadora": "CLARO",
+        "whatsapp": false
+      },
+      {
+        "numero": "(91)98415-8372",
+        "operadora": "CLARO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(91)98303-3498",
+        "operadora": "TIM",
+        "whatsapp": false
+      }
+    ],
+    "renda": "R$ 724,30",
+    "nome": "Leomar Torres Pereira De Souza",
+    "nascimento": "14/07/1988 | 38 Anos",
+    "formato": "whatsapp",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": false,
+    "bruto": "*☞ Resultado da sua consulta:*\n\n• DADOS PESSOAIS:\n       CPF: 012.990.822-38 (PA)\n       NOME: Leomar Torres Pereira De Souza\n       SEXO: MASCULINO\n       NASCIMENTO: 14/07/1988 | 38 Anos\n       MÃE: Cicera Sousa Torres\n       PAI: Leontino Pereira De Sousa\n\n• RENDAS/CREDITO:\n       RENDA: R$ 724,30\n       PODER AQUISITIVO: Muito Baixo\n       PODER DE COMPRA: De R$ 112 Até R$ 630\n       PROFISSÃO: Sem informação\n\n• SCORE (0 a 1000):\n       SERASA SCORE: 516\n       SERASA SCORE ANTIGO: 569\n       SPC SCORE: 575\n       SPC SCORE ANTIGO: 575\n       BOAVISTA SCORE: 442\n       BOAVISTA SCORE ANTIGO: 442\n\n• INFORMAÇÕES DO RG/CNH:\n       RG: 8240960\n       EMISSÃO: 18/09/2019\n       ORGÃO: Ssp - Secretaria De Seguranca Publica\n       UF: PA\n\n• OUTRAS INFORMAÇÕES:\n       NIS: Sem informação\n       PIS: Sem informação\n       TITULO: Sem informação\n       CONJUGE: Sem informação\n       ESCOLARIDADE: Sem informação\n       CIDADE DE NASCIMENTO: Tocantinopolis/TO\n\n• ENDEREÇOS (6):\n       ★ R MANOEL ZERO MARTINS 22 R MANOEL MAXIMINO NONA TO BEZ, S JOSE, CASTANHAL/PA - 68744195\n       ★ R MANOEL ZERO MARTINS 22 R MANOEL MAXIMINO NONA TO BEZ, 22 - CASTANHAL/PA - 68744195\n       MAGALHAES BARATA, 545 - S DOMINGOS DO CAPIM/PA - 06863500\n       FORTALEZA, 36, POSTA RESTANTE - TAILANDIA/PA - 68695000\n       AL LIBERDADE 85, PIRAPORA, CASTANHAL/PA - 68740150\n       AL LIBERDADE 85, 85 - CASTANHAL/PA - 68740150\n\n• NÚMEROS (8):\n       ★ (91)98711-8131 - CLARO - WhatsApp\n       (91)99331-1244 - VIVO\n       (91)99259-8206 - VIVO - WhatsApp\n       (91)99240-8398 - VIVO\n       (91)98887-3259 - CLARO\n       (91)98415-8373 - CLARO\n       (91)98415-8372 - CLARO - WhatsApp\n       (91)98303-3498 - TIM\n\n• E-MAILS (0):\n       E-mails não encontrados\n\n• PARENTES (1):\n       CICERA SOUSA TORRES - MAE - 026.225.891-90\n\n• EMPRESAS (0):\n       Empresas não encontradas\n\n• EMPREGOS (0):\n       Empregos não encontrados"
+  }
+}

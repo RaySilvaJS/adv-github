@@ -1,0 +1,40 @@
+{
+  "autor": {
+    "doc": "00448616130",
+    "telefones": [
+      {
+        "numero": "(63)3238-1748",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(98)99111-0604",
+        "operadora": "VIVO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(98)3238-1748",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)99209-8153",
+        "operadora": "CLARO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(15)99828-7491",
+        "operadora": "VIVO",
+        "whatsapp": true
+      }
+    ],
+    "renda": "R$ 911,16",
+    "nome": "Maria Rodrigues Lopes",
+    "nascimento": "16/02/1958 | 68 Anos",
+    "formato": "whatsapp",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": false,
+    "bruto": "*☞ Resultado da sua consulta:*\n\n• DADOS PESSOAIS:\n       CPF: 004.486.161-30\n       NOME: Maria Rodrigues Lopes\n       SEXO: FEMININO\n       NASCIMENTO: 16/02/1958 | 68 Anos\n       MÃE: Josefa Rodrigues Dos Santos\n       PAI: Sem informação\n\n• RENDAS/CREDITO:\n       RENDA: R$ 911,16\n       PODER AQUISITIVO: Baixo\n       PODER DE COMPRA: De R$ 630 Até R$ 1018\n       PROFISSÃO: Sem informação\n\n• SCORE (0 a 1000):\n       SERASA SCORE: 594\n       SERASA SCORE ANTIGO: 562\n       SPC SCORE: 487\n       SPC SCORE ANTIGO: 487\n       BOAVISTA SCORE: 226\n       BOAVISTA SCORE ANTIGO: 226\n\n• INFORMAÇÕES DO RG/CNH:\n       RG: 40508982\n       EMISSÃO: 22/05/1982\n       ORGÃO: Ssp - Secretaria De Seguranca Publica\n       UF: CE\n\n• OUTRAS INFORMAÇÕES:\n       NIS: 16396189683\n       PIS: Sem informação\n       TITULO: 033460112763\n       CONJUGE: Sem informação\n       ESCOLARIDADE: Sem informação\n       CIDADE DE NASCIMENTO: Sao Goncalo Do Amarante/CE\n\n• ENDEREÇOS (7):\n       ★ R CINCO 10, COHATRAC III, SAO LUIS/MA - 65054670\n       ★ R CINCO 10, 10 - SAO LUIS/MA - 65054670\n       LOC ASSENTAMENTO LOROTY SN, ZONA RURAL, LAGOA DA CONFUSAO/TO - 77493000\n       LOC ASSENTAMENTO LOROTY SN - LAGOA DA CONFUSAO/TO - 77493000\n       ASSENTAMENTO LOROTY, , S/N - LAGOA DA CONFUSAO/TO - 77493000\n       ASSENTAMENTO LOROTY SN, ZONA RURAL, LAGOA DA CONFUSAO/TO - 77493000\n       ASSENTAMENTO LOROTY SN - LAGOA DA CONFUSAO/TO - 77493000\n\n• NÚMEROS (5):\n       ★ (63)3238-1748\n       (98)99111-0604 - VIVO - WhatsApp\n       (98)3238-1748\n       (63)99209-8153 - CLARO\n       (15)99828-7491 - VIVO - WhatsApp\n\n• E-MAILS (0):\n       E-mails não encontrados\n\n• PARENTES (1):\n       JOSEFA RODRIGUES DOS SANTOS - MAE\n\n• EMPRESAS (0):\n       Empresas não encontradas\n\n• EMPREGOS (0):\n       Empregos não encontrados"
+  }
+}

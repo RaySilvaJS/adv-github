@@ -1,0 +1,40 @@
+{
+  "autor": {
+    "doc": "04458401106",
+    "telefones": [
+      {
+        "numero": "(63)98427-4273",
+        "operadora": "TIM",
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)99290-6427",
+        "operadora": "CLARO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)99260-0883",
+        "operadora": "CLARO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)98494-4243",
+        "operadora": "TIM",
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)98451-2355",
+        "operadora": "TIM",
+        "whatsapp": true
+      }
+    ],
+    "renda": "R$ 920,41",
+    "nome": "Neusiane Teixeira Das Neves",
+    "nascimento": "17/12/1993 | 32 Anos",
+    "formato": "whatsapp",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": false,
+    "bruto": "*☞ Resultado da sua consulta:*\n\n• DADOS PESSOAIS:\n       CPF: 044.584.011-06 (TO)\n       NOME: Neusiane Teixeira Das Neves\n       SEXO: FEMININO\n       NASCIMENTO: 17/12/1993 | 32 Anos\n       MÃE: Maristela Teixeira Bispo\n       PAI: Sem informação\n\n• RENDAS/CREDITO:\n       RENDA: R$ 920,41\n       PODER AQUISITIVO: Baixo\n       PODER DE COMPRA: De R$ 630 Até R$ 1018\n       PROFISSÃO: Sem informação\n\n• SCORE (0 a 1000):\n       SERASA SCORE: 423\n       SERASA SCORE ANTIGO: 125\n       SPC SCORE: 49\n       SPC SCORE ANTIGO: 49\n       BOAVISTA SCORE: 442\n       BOAVISTA SCORE ANTIGO: 442\n\n• INFORMAÇÕES DO RG/CNH:\n       RG: Sem informação\n       EMISSÃO: Sem informação\n       ORGÃO: Sem informação\n       UF: Sem informação\n\n• OUTRAS INFORMAÇÕES:\n       BOLSA FAMÍLIA: R$1210,00\n       NIS: 16531608081\n       PIS: Sem informação\n       TITULO: Sem informação\n       CONJUGE: Sem informação\n       ESCOLARIDADE: Sem informação\n       CIDADE DE NASCIMENTO: Sem informação\n\n• ENDEREÇOS (7):\n       ★ R QUATRO B 51 Q 73 LT 4, PRQ RESIDENCIAL NOVA FRONTEIRA, GURUPI/TO - 77420370\n       ★ R QUATRO B 51 Q 73 LT 4, 51 - GURUPI/TO - 77420370\n       R JANUARIO DIAS DOS REIS, 14, QD 16 LT14 - BREJINHO DE NAZARE/TO - 77560000\n       R JANUARIO DIAS DOS REIS 14 Q 16 LT 14, null, BREJINHO DE NAZARE/TO - 77560000\n       R JANUARIO DIAS DOS REIS 14 Q 16 LT 14, 14 - BREJINHO DE NAZARE/TO - 77560000\n       R 4B, 51 - GURUPI/TO - 77420370\n       JANUARIO DIAS DOS REIS, 14, QD 16 LT14 - BREJINHO DE NAZARE/TO - 77560000\n\n• NÚMEROS (5):\n       ★ (63)98427-4273 - TIM\n       (63)99290-6427 - CLARO - WhatsApp\n       (63)99260-0883 - CLARO - WhatsApp\n       (63)98494-4243 - TIM\n       (63)98451-2355 - TIM - WhatsApp\n\n• E-MAILS (1):\n       ★ rafaeljavarini@gmail.com - RUIM\n\n• PARENTES (1):\n       MARISTELA TEIXEIRA BISPO - MAE\n\n• EMPRESAS (0):\n       Empresas não encontradas\n\n• EMPREGOS (0):\n       Empregos não encontrados"
+  }
+}

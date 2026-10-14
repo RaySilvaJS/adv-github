@@ -1,0 +1,14 @@
+{
+  "autor": {
+    "doc": "11884303196",
+    "telefones": [],
+    "renda": null,
+    "nome": null,
+    "nascimento": null,
+    "formato": "lista",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": true,
+    "bruto": "Dados não encontrados para o CPF: 118.843.031-96"
+  }
+}

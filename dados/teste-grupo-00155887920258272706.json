@@ -1,0 +1,265 @@
+{
+  "autor": {
+    "doc": "01830793000139",
+    "telefones": [
+      {
+        "numero": "(63)3414-2564",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3412-5152",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3523-1113",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-7101",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3412-4023",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3415-1338",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-5633",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3412-3211",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3523-1152",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-5603",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-5609",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-5605",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3412-5051",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-2032",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-5629",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-7056",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-5602",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3421-1140",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3412-5041",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3412-3569",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3415-4640",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3414-6311",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-5627",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-5646",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(62)3411-7170",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-5617",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3412-5034",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-5623",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3413-1433",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-5637",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-5618",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3415-5038",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)98111-5295",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)98111-4071",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3412-6718",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-5610",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-5616",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-4979",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-5619",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3412-6091",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3421-1679",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3414-5619",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-7178",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-7175",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-7174",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-7059",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-7016",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-7013",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-7010",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3411-7009",
+        "operadora": null,
+        "whatsapp": false
+      }
+    ],
+    "renda": null,
+    "nome": null,
+    "nascimento": null,
+    "formato": "whatsapp",
+    "capitalSocial": "R$ 0,00",
+    "faturamento": "R$ 0,00",
+    "naoEncontrado": false,
+    "bruto": "*☞ Resultado da sua consulta:*\n\n• DADOS EMPRESARIAIS:\n       CNPJ: 01.830.793/0001-39\n       NOME FANTASIA: PREFEITURA MUNIC DE ARAGUA\n       RAZÃO SOCIAL: MUNIC DE ARAGUAINA\n       REPRESENTANTE: Sem informação\n       MATRIZ: SIM\n       INSCRIÇÃO ESTADUAL: Sem informação\n       ABERTURA: 13/01/1975\n       CAPITAL SOCIAL: R$ 0,00\n       FATURAMENTO: R$ 0,00\n       FUNCIONÁRIOS: 503\n       OPERACIONALIDADE: MUITO ALTO \n       RISCO: ALTISSIMO RISCO\n       TIPO: Sem informação\n       TIPO CNAE: SERVICO\n       CNAE: 8411600\n       LOCALIZAÇÃO: google.com/maps/search/-7.18990632,-48.20932592\n\n• SÓCIOS (0):\n       Sócios não encontrados\n\n• ENDEREÇOS (1):\n       R VINTE E CINCO DE DEZEMBRO 265, ST CENTRAL - ARAGUAINA/TO - 77804030\n\n• E-MAILS (1):\n       fazendagestao20132016@gmail.com\n\n• NÚMEROS (50):\n       (63)3414-2564\n       (63)3412-5152\n       (63)3523-1113\n       (63)3411-7101\n       (63)3412-4023\n       (63)3415-1338\n       (63)3411-5633\n       (63)3412-3211\n       (63)3523-1152\n       (63)3411-5603\n       (63)3411-5609\n       (63)3411-5605\n       (63)3412-5051\n       (63)3411-2032\n       (63)3411-5629\n       (63)3411-7056\n       (63)3411-5602\n       (63)3421-1140\n       (63)3412-5041\n       (63)3412-3569\n       (63)3415-4640\n       (63)3414-6311\n       (63)3411-5627\n       (63)3411-5646\n       (62)3411-7170\n       (63)3411-5617\n       (63)3412-5034\n       (63)3411-5623\n       (63)3413-1433\n       (63)3411-5637\n       (63)3411-5618\n       (63)3415-5038\n       (63)98111-5295\n       (63)98111-4071\n       (63)3412-6718\n       (63)3411-5610\n       (63)3411-5616\n       (63)3411-4979\n       (63)3411-5619\n       (63)3412-6091\n       (63)3421-1679\n       (63)3414-5619\n       (63)3411-7178\n       (63)3411-7175\n       (63)3411-7174\n       (63)3411-7059\n       (63)3411-7016\n       (63)3411-7013\n       (63)3411-7010\n       (63)3411-7009\n\n• FUNCIONÁRIOS (918):\n       000.017.373-84 | ATILA BRAGA DA ROCHA | 10/05/2005 até n/a\n       000.018.401-26 | LUCAS SOUSA SANTANA | 06/01/2021 até n/a\n       000.025.142-90 | KAILLA ANTONIA MARTINHA E SILVA | 09/03/2021 até n/a\n       000.046.921-10 | VALERIA PEREIRA MARINHO | 11/05/2005 até n/a\n       000.102.721-27 | CRISTHYANY SOUSA LUZ CUNHA | 08/03/2021 até n/a\n       000.103.125-28 | PATRICIA DE SENA OLIVEIRA | 29/04/2013 até n/a\n       000.114.811-70 | EVELYNE MEDEIROS ANDRADE | 05/12/2011 até n/a\n       000.153.031-36 | LEOMAURA MIRANDA DE ANDRADE | 25/01/2010 até n/a\n       000.183.131-32 | JOSELIA ESPINDULA GOMES | 01/02/2012 até n/a\n       000.212.001-14 | FRANCIMEIRE MUNDURIL DOS SANTOS MOURA | 01/03/2021 até n/a\n       000.212.321-56 | MARIA ELOISA ABADE DE SOUSA | 05/02/2021 até n/a\n       000.212.331-28 | CREUSA ALVES MACHADO DOS SANTOS | 05/02/2021 até n/a\n       000.216.151-60 | MARCELO ALVES COSTA | 04/01/2021 até n/a\n       000.262.381-10 | ORLANDO MAGALHAES SILVA | 04/06/2007 até n/a\n       000.320.171-62 | GILDASIA FERREIRA ALVES | 24/11/2003 até n/a\n       000.321.511-36 | FRANCIVALDO LOPES DE OLIVE"
+  }
+}

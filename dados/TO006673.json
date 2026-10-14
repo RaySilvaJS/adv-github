@@ -1,0 +1,49 @@
+{
+  "oab": "TO006673",
+  "primeira_consulta": "2026-10-13T17:53:52.950Z",
+  "ultima_consulta": "2026-10-13T17:53:57.313Z",
+  "total_na_ultima_consulta": 1,
+  "processos": {
+    "50023340220138272729": {
+      "primeira_vez_visto": "2026-10-13T17:53:52.950Z",
+      "atualizado_em": "2026-10-13T17:53:57.313Z",
+      "dados": {
+        "nr_processo": "50023340220138272729",
+        "autuacao": "31/01/2013 17:59:43",
+        "str_sig_orgao_juizo": "TOPAL4CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=50023340220138272729&hash=afb25f5e3e48093b99e08931ad0fdadd",
+        "autor": "W.REMDE - ME<br>",
+        "reu": "CONSPLAN ENGENHARIA LTDA<br>e outros",
+        "classe": "Cumprimento de sentença",
+        "cod_classe": "2366",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "22/03/2023 16:43:31",
+        "ultimo_evento": "22/03/2023 16:43:31 - Baixa Definitiva",
+        "id_orgao_juizo": "270000010",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Duplicata, Espécies de Títulos de Crédito, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "01436439000124",
+        "ident_reu": "01211003000137",
+        "endereco_autor": "TO, Palmas, PLANO DIRETOR SUL, QUADRA 812 SUL, ALAMEDA 01, LOTE 02, 02, 77023132",
+        "endereco_reu": "TO, Palmas, Plano Diretor Norte, ARNE 13 (108 Norte) Alameda 6, Lt. 18, 77006102",
+        "juizo": "Juízo da 4ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "CLEITON PAIVA DE ARAÚJO",
+          "oab": "TO006673"
+        },
+        "requerente": {
+          "nome": "W.REMDE - ME",
+          "doc": "01.436.439/0001-24",
+          "tipo": "Pessoa Jurídica",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 4.765,64"
+      }
+    }
+  }
+}

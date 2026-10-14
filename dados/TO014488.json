@@ -1,0 +1,1341 @@
+{
+  "oab": "TO014488",
+  "primeira_consulta": "2026-10-08T17:34:24.554Z",
+  "ultima_consulta": "2026-10-08T17:44:03.363Z",
+  "total_na_ultima_consulta": 35,
+  "processos": {
+    "00195819620268272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00195819620268272706",
+        "autuacao": "31/08/2026 17:26:26",
+        "str_sig_orgao_juizo": "TOARAEPRECJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00195819620268272706&hash=06a4964fe9ed5a962ac88690c23cad62",
+        "autor": "CARLOS ALBERTO DIAS DA SILVA<br>",
+        "reu": "ESTADO DO TOCANTINS<br>e outros",
+        "classe": "Procedimento do Juizado Especial da Fazenda Pública",
+        "cod_classe": "14616",
+        "cod_competencia": "36",
+        "dth_ultimo_evento": "29/09/2026 14:44:35",
+        "ultimo_evento": "29/09/2026 14:44:35 - Decisão - Declaração - Incompetência",
+        "id_orgao_juizo": "270000040",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Obrigação de Fazer / Não Fazer, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Moléstia Profissional ou Doença Grave, Invalidez Permanente, Aposentadoria, Servidor Público Civil, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO, Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Assistência Judiciária Gratuita, Partes e Procuradores, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "33469954100",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Araguaína, SETOR URBANO, AVENIDA RIO BRANCO, 499, 77809070",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juizo da Vara de Recuperação Judicial de Empresas, Falências, Precatórias e Juizado da Fazenda Pública de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "CARLOS ALBERTO DIAS DA SILVA",
+          "doc": "334.699.541-00",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 1.000,00"
+      }
+    },
+    "00172894120268272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00172894120268272706",
+        "autuacao": "04/08/2026 16:02:54",
+        "str_sig_orgao_juizo": "TOARA1EFAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00172894120268272706&hash=cc346f7e998a4ce558a901ba48097294",
+        "autor": "L. A. D. S. o. ",
+        "reu": "L. A. D. S. ",
+        "classe": "Guarda de Família",
+        "cod_classe": "977",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000163",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Fixação, Alimentos, Família, DIREITO CIVIL, Guarda, Relações de Parentesco, Família, DIREITO CIVIL, Assistência Judiciária Gratuita, Partes e Procuradores, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Regulamentação de Visitas, Relações de Parentesco, Família, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "01179576152",
+        "ident_reu": "05111363157",
+        "endereco_autor": "GO, Goianira, RES ARCO DO TRIN II, N/A T 3, QD 20 LT 27, 75370528",
+        "endereco_reu": "TO, Araguaína, Atos do WhatsApp, Atos WhatsApp Araguaína, sn, 77800000",
+        "juizo": "Juizo da 1ª Vara de Família e Sucessões de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00171213920268272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00171213920268272706",
+        "autuacao": "03/08/2026 16:08:15",
+        "str_sig_orgao_juizo": "TOARA2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00171213920268272706&hash=bb43523c4f136f70c9a45ce7a01fa52b",
+        "autor": "ANTONIO AILTON VIEIRA DE OLIVEIRA<br>",
+        "reu": "PEFISA SA CREDITO FINANCIAMENTO E INVESTIMENTO<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "08/10/2026 12:22:53",
+        "ultimo_evento": "08/10/2026 12:22:53 - Expedida/certificada a intimação eletrônica",
+        "id_orgao_juizo": "270000159",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Indenização por Dano Material, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR, Repetição do Indébito, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "77234405291",
+        "ident_reu": "43180355000112",
+        "endereco_autor": "TO, Araguaína, Setor Monte Sinai, Rua 22, 00, casa, 77814786",
+        "endereco_reu": "SP, São Paulo, Consolação, Rua da Consolação, 2411, 2 andar, PRÉDIO, 01301100",
+        "juizo": "Juízo da 2ª Vara Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "ANTONIO AILTON VIEIRA DE OLIVEIRA",
+          "doc": "772.344.052-91",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 10.251,90"
+      }
+    },
+    "00163566820268272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00163566820268272706",
+        "autuacao": "27/07/2026 10:39:59",
+        "str_sig_orgao_juizo": "TOARAJECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00163566820268272706&hash=205d76443bda1f34ed9907403d7c435a",
+        "autor": "AMARILDO JUAREZ BONASSI VICARI<br>",
+        "reu": "GRAZIELLY ALESSANDRA VIEIRA DE SOUZA<br>",
+        "classe": "Cumprimento de sentença",
+        "cod_classe": "2366",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "27/08/2026 16:40:58",
+        "ultimo_evento": "27/08/2026 16:40:58 - Protocolizada Petição",
+        "id_orgao_juizo": "270000038",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Cumprimento Provisório de Sentença, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Compromisso, Espécies de Contratos, Obrigações, DIREITO CIVIL, Promessa de Compra e Venda, Coisas, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "04477649932",
+        "ident_reu": "06002433112",
+        "endereco_autor": "TO, Araguaína, SETOR BOA SORTE, QUADRA QE 23, LOTE 46, 77820550",
+        "endereco_reu": "TO, Araguaína, JARDIM DOS IPES, N/A 21, S N, QD 15 LT 13, 77820036",
+        "juizo": "Juízo do 1º Juizado Especial Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "AMARILDO JUAREZ BONASSI VICARI",
+          "doc": "044.776.499-32",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 7.200,82"
+      }
+    },
+    "00126922920268272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00126922920268272706",
+        "autuacao": "19/06/2026 08:51:29",
+        "str_sig_orgao_juizo": "TOARA2JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00126922920268272706&hash=b75a86193683ea7daf2113aa9480f1cc",
+        "autor": "AMARILDO JUAREZ BONASSI VICARI<br>",
+        "reu": "GRAZIELLY ALESSANDRA VIEIRA DE SOUZA<br>",
+        "classe": "Execução de Título Extrajudicial",
+        "cod_classe": "644",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "23/07/2026 18:00:09",
+        "ultimo_evento": "23/07/2026 18:00:09 - Baixa Definitiva",
+        "id_orgao_juizo": "271000396",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Compromisso, Espécies de Contratos, Obrigações, DIREITO CIVIL, Mora, Inadimplemento, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "04477649932",
+        "ident_reu": "06002433112",
+        "endereco_autor": "TO, Araguaína, SETOR BOA SORTE, QUADRA QE 23, LOTE 46, 77820550",
+        "endereco_reu": "TO, Araguaína, JARDIM DOS IPES, N/A 21, S N, QD 15 LT 13, 77820036",
+        "juizo": "Juízo do 2º Juizado Especial Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "AMARILDO JUAREZ BONASSI VICARI",
+          "doc": "044.776.499-32",
+          "tipo": "Pessoa Física",
+          "papel": "EXEQUENTE"
+        },
+        "valorCausa": "R$ 7.200,82"
+      }
+    },
+    "00122896020268272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00122896020268272706",
+        "autuacao": "15/06/2026 09:56:30",
+        "str_sig_orgao_juizo": "TOARA2EFAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00122896020268272706&hash=69a1e96f2a60ad7bb65acffbcf8d0f9b",
+        "autor": "L. A. P. ",
+        "reu": "A. B. D. S. ",
+        "classe": "Divórcio Litigioso",
+        "cod_classe": "982",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "",
+        "ultimo_evento": "",
+        "id_orgao_juizo": "270000164",
+        "id_sigilo": "1",
+        "contexto_secao": "",
+        "des_assuntos": "Partilha, Dissolução, Casamento, Família, DIREITO CIVIL, Partilha, União Estável ou Concubinato, Família, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "04497539130",
+        "ident_reu": "96762985149",
+        "endereco_autor": "TO, Colinas do Tocantins, Plantão, Plantão Regional Colinas do Tocantins, s/n, Rua Castro Moura, 135, St. Sta. Maria, 77760000",
+        "endereco_reu": "TO, Colinas do Tocantins, Bairro Santa Maria, Rua Cássio Moura, 135, quadra 35, lote 06, 77760000",
+        "juizo": "Juizo da 2ª Vara de Família e Sucessões de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "requerente": null,
+        "semInformacoesAdicionais": true
+      }
+    },
+    "00107964820268272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00107964820268272706",
+        "autuacao": "27/05/2026 02:38:45",
+        "str_sig_orgao_juizo": "TOARA2ECRIJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00107964820268272706&hash=c9e934bf20fb389d2b0e835b3b83af9c",
+        "autor": "POLÍCIA CIVIL/TO<br>",
+        "reu": "VANDERLAN MARQUES CAVALCANTE<br>",
+        "classe": "Inquérito Policial",
+        "cod_classe": "2411",
+        "cod_competencia": "46",
+        "dth_ultimo_evento": "11/09/2026 13:24:47",
+        "ultimo_evento": "11/09/2026 13:24:47 - Baixa Definitiva",
+        "id_orgao_juizo": "270000037",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Crimes de Trânsito, Crimes Previstos na Legislação Extravagante, DIREITO PENAL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "",
+        "ident_reu": "03357974312",
+        "endereco_autor": "TO, Santa Maria do Tocantins, Setor Central, Rua 10, 77716000",
+        "endereco_reu": "TO, Araguaína, Setor Couto Magalhães, Rua J (Setor Couto Magalhães), 32, QD42 LT89 CS 1, 77824730",
+        "juizo": "Juízo da 2ª Vara Criminal de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "POLÍCIA CIVIL/TO",
+          "doc": null,
+          "tipo": null,
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00215533220268272729": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00215533220268272729",
+        "autuacao": "08/05/2026 16:51:29",
+        "str_sig_orgao_juizo": "TOPAL3CIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00215533220268272729&hash=589274d2b6ba084e9d9a1fd76098f110",
+        "autor": "LAZERMARY LUIZA FERREIRA<br>",
+        "reu": "SILAS DE BESSA MACEDO<br>",
+        "classe": "Embargos de Terceiro Cível",
+        "cod_classe": "2308",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "02/07/2026 12:34:55",
+        "ultimo_evento": "02/07/2026 12:34:55 - Protocolizada Petição",
+        "id_orgao_juizo": "270000009",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Transferência de Financiamento (contrato de gaveta), Sistema Financeiro da Habitação, Espécies de Contratos, Obrigações, DIREITO CIVIL, Assistência Judiciária Gratuita, Partes e Procuradores, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Liminar, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "38240327168",
+        "ident_reu": "28061888149",
+        "endereco_autor": "GO, Quirinópolis, Bairro Tônico Bento, Avenida das Nações Unidas, 90, 75860480",
+        "endereco_reu": "TO, Palmas, LOTEAMENTO ORLA 14, AVENIDA ORLA, S N, APTO 3804, 77026005",
+        "juizo": "Juízo da 3ª Vara Civel de Palmas",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "LAZERMARY LUIZA FERREIRA",
+          "doc": "382.403.271-68",
+          "tipo": "Pessoa Física",
+          "papel": "EMBARGANTE"
+        },
+        "valorCausa": "R$ 12.342,22"
+      }
+    },
+    "00004717520268272718": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00004717520268272718",
+        "autuacao": "07/05/2026 15:54:28",
+        "str_sig_orgao_juizo": "TOFIL1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00004717520268272718&hash=d74e26b495a2910007aedb8a42eb9e81",
+        "autor": "ERCÍLIA PINTO LEITE<br>",
+        "reu": "SUL AMERICA SEGUROS DE PESSOAS E PREVIDENCIA S.A.<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "06/10/2026 17:17:47",
+        "ultimo_evento": "06/10/2026 17:17:47 - Protocolizada Petição",
+        "id_orgao_juizo": "270000105",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Práticas Abusivas, DIREITO DO CONSUMIDOR",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "76013332134",
+        "ident_reu": "01704513000146",
+        "endereco_autor": "TO, Araguaína, ELDORADO, AVENIDA PREFEITO JOAO DE SOUSA LIMA, 1100, 5 CASAAPOS O POSTO LE, 77804970",
+        "endereco_reu": "RJ, Rio de Janeiro, Centro, Rua do Passeio, 42, 20021290",
+        "juizo": "Juízo da 1ª Escrivania Cível de Filadélfia",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "ERCÍLIA PINTO LEITE",
+          "doc": "760.133.321-34",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 10.686,88"
+      }
+    },
+    "00004709020268272718": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00004709020268272718",
+        "autuacao": "07/05/2026 15:42:05",
+        "str_sig_orgao_juizo": "TOFIL1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00004709020268272718&hash=d220865a17c8aac377953202c46e991d",
+        "autor": "ERCÍLIA PINTO LEITE<br>",
+        "reu": "BANCO BRADESCO S.A.<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "01/08/2026 00:12:05",
+        "ultimo_evento": "01/08/2026 00:12:05 - Decurso de Prazo",
+        "id_orgao_juizo": "270000105",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Práticas Abusivas, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "76013332134",
+        "ident_reu": "60746948000112",
+        "endereco_autor": "TO, Araguaína, ELDORADO, AVENIDA PREFEITO JOAO DE SOUSA LIMA, 1100, 5 CASAAPOS O POSTO LE, 77804970",
+        "endereco_reu": "RJ, Rio de Janeiro, Campo Grande, RUA Rua Barcelos Domingos, 39, 23080020",
+        "juizo": "Juízo da 1ª Escrivania Cível de Filadélfia",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "ERCÍLIA PINTO LEITE",
+          "doc": "760.133.321-34",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 11.437,12"
+      }
+    },
+    "00004690820268272718": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00004690820268272718",
+        "autuacao": "07/05/2026 15:27:02",
+        "str_sig_orgao_juizo": "TOFIL1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00004690820268272718&hash=37766e9f150c3b5bd8bf1c00d006458f",
+        "autor": "ERCÍLIA PINTO LEITE<br>",
+        "reu": "BRADESCO SEGUROS S/A<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "08/10/2026 00:07:45",
+        "ultimo_evento": "08/10/2026 00:07:45 - Decurso de Prazo",
+        "id_orgao_juizo": "270000105",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Práticas Abusivas, DIREITO DO CONSUMIDOR",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "76013332134",
+        "ident_reu": "33055146000193",
+        "endereco_autor": "TO, Araguaína, ELDORADO, AVENIDA PREFEITO JOAO DE SOUSA LIMA, 1100, 5 CASAAPOS O POSTO LE, 77804970",
+        "endereco_reu": "SP, São Paulo, Bela Vista, Avenida Paulista, 1450, andar 10 Torre Paulista anexo SL. Executivo Parte, 01310917",
+        "juizo": "Juízo da 1ª Escrivania Cível de Filadélfia",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "ERCÍLIA PINTO LEITE",
+          "doc": "760.133.321-34",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 11.461,24"
+      }
+    },
+    "00078319720268272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00078319720268272706",
+        "autuacao": "17/04/2026 17:20:38",
+        "str_sig_orgao_juizo": "TOARA3ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00078319720268272706&hash=b94aac2a92d36f0e1e4cbf834ecfdb3c",
+        "autor": "PEDRO YURI NUNES DA SILVA<br>",
+        "reu": "GRECIA CUSTODIO DOS PASSOS NUNES<br>e outros",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "11/09/2026 14:22:05",
+        "ultimo_evento": "11/09/2026 14:22:05 - Conclusão para decisão",
+        "id_orgao_juizo": "270000160",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Direito de Imagem, Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL, Obrigação de Fazer / Não Fazer, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "08313175150",
+        "ident_reu": "03756952223",
+        "endereco_autor": "TO, Araguaína, Setor Araguaína Sul, Rua São Raimundo, sn, numero 208,, 77827015",
+        "endereco_reu": "TO, Araguaína, Atos do WhatsApp, Atos WhatsApp Araguaína, S/N, 77800000",
+        "juizo": "Juizo da 3ª Vara Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "PEDRO YURI NUNES DA SILVA",
+          "doc": "083.131.751-50",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 10.000,00"
+      }
+    },
+    "00003187020268272741": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00003187020268272741",
+        "autuacao": "31/03/2026 17:23:51",
+        "str_sig_orgao_juizo": "TOWAN1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00003187020268272741&hash=40d376f4846dcefe6f0313703a5afa36",
+        "autor": "CLAUDIA MENEZES DOS SANTOS SOUSA<br>",
+        "reu": "MUNICÍPIO DE WANDERLÂNDIA<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "2",
+        "dth_ultimo_evento": "28/09/2026 11:59:17",
+        "ultimo_evento": "28/09/2026 11:59:17 - Baixa Definitiva",
+        "id_orgao_juizo": "270000143",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Contrato Nulo - Efeitos, Administração Pública, Contrato Individual de Trabalho, Direito Individual do Trabalho, DIREITO DO TRABALHO",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "02416904124",
+        "ident_reu": "00001636000158",
+        "endereco_autor": "TO, Wanderlândia, CENTRO, RUA PRINCIPAL, 77860000",
+        "endereco_reu": "TO, Wanderlândia, Setor Central, Praça Antônio Neto das Flores, 814, Prefeitura de Wanderlândia, 77860000",
+        "juizo": "Juízo da 1ª Escrivania Cível de Wanderlândia",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "CLAUDIA MENEZES DOS SANTOS SOUSA",
+          "doc": "024.169.041-24",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 22.201,08"
+      }
+    },
+    "00060062120268272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00060062120268272706",
+        "autuacao": "25/03/2026 10:42:44",
+        "str_sig_orgao_juizo": "TOARA2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00060062120268272706&hash=a89f1671aa1bd823c83518c0dd93bfe5",
+        "autor": "EVERALDO NAVARRO PETILO<br>",
+        "reu": "FRANCISCO WILSON GONCALVES DA SILVA<br>",
+        "classe": "Execução de Título Extrajudicial",
+        "cod_classe": "644",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "24/09/2026 15:45:12",
+        "ultimo_evento": "24/09/2026 15:45:12 - MAND DISTRIBUIDO AO OFICIAL JUSTICA",
+        "id_orgao_juizo": "270000159",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Nota Promissória, Espécies de Títulos de Crédito, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "11824778520",
+        "ident_reu": "02478981041",
+        "endereco_autor": "TO, Araguaína, VILA COUTO MAGALHÃES, RUA BELA VISTA, QUADRA 56, LOTE 12,, S/N, VILA COUTO MAGALHÃES, 77800000",
+        "endereco_reu": "TO, Araguaína, Atos do WhatsApp, Atos WhatsApp Araguaína, sn, 77800000",
+        "juizo": "Juízo da 2ª Vara Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "EVERALDO NAVARRO PETILO",
+          "doc": "118.247.785-20",
+          "tipo": "Pessoa Física",
+          "papel": "EXEQUENTE"
+        },
+        "valorCausa": "R$ 31.257,20"
+      }
+    },
+    "00047288220268272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00047288220268272706",
+        "autuacao": "09/03/2026 11:31:10",
+        "str_sig_orgao_juizo": "TOARAJECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00047288220268272706&hash=e1ff21fd991146ce546944620dd28e83",
+        "autor": "FRANCISCA CRISTINA RIBEIRO DA SILVA<br>",
+        "reu": "ALYCE ALMEIDA RIBEIRO<br>",
+        "classe": "Cumprimento de sentença",
+        "cod_classe": "2366",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "17/08/2026 17:48:26",
+        "ultimo_evento": "17/08/2026 17:48:26 - Mandado devolvido - entregue ao destinatário",
+        "id_orgao_juizo": "270000038",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Nota Promissória, Espécies de Títulos de Crédito, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "63347628187",
+        "ident_reu": "07662499138",
+        "endereco_autor": "TO, Araguaína, SETOR URBANO, AVENIDA RIO BRANCO, 499, 77809070",
+        "endereco_reu": "TO, Araguaína, Atos do WhatsApp, Atos WhatsApp Araguaína, sn, WhatsApp: (63) 99305-3432, 77800000",
+        "juizo": "Juízo do 1º Juizado Especial Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "erro": true
+      }
+    },
+    "00045997720268272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00045997720268272706",
+        "autuacao": "06/03/2026 11:33:24",
+        "str_sig_orgao_juizo": "TOARA2JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00045997720268272706&hash=65e463fab49c9c29570869f923a41be4",
+        "autor": "FRANCISCA CRISTINA RIBEIRO DA SILVA<br>",
+        "reu": "ANA VITORIA MARTINS LAGARES<br>",
+        "classe": "Execução de Título Extrajudicial",
+        "cod_classe": "644",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "02/07/2026 16:26:27",
+        "ultimo_evento": "02/07/2026 16:26:27 - Mandado devolvido - entregue ao destinatário",
+        "id_orgao_juizo": "271000396",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Nota Promissória, Espécies de Títulos de Crédito, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "63347628187",
+        "ident_reu": "06441028107",
+        "endereco_autor": "TO, Araguaína, SETOR URBANO, AVENIDA RIO BRANCO, 499, 77809070",
+        "endereco_reu": "TO, Araguaína, Setor Central, Avenida Cônego João Lima, nº 1208, sala 01, 77804900",
+        "juizo": "Juízo do 2º Juizado Especial Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "erro": true
+      }
+    },
+    "00031594620268272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00031594620268272706",
+        "autuacao": "19/02/2026 11:02:48",
+        "str_sig_orgao_juizo": "TOARAJECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00031594620268272706&hash=6b699a3fe4854c9f7bde453b5c41f6be",
+        "autor": "EVERALDO NAVARRO PETILO<br>",
+        "reu": "ANTÔNIO JOSÉ ALVES CIRQUEIRA<br>",
+        "classe": "Execução de Título Extrajudicial",
+        "cod_classe": "644",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "02/09/2026 15:09:46",
+        "ultimo_evento": "02/09/2026 15:09:46 - Conclusão para despacho",
+        "id_orgao_juizo": "270000038",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Nota Promissória, Espécies de Títulos de Crédito, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "11824778520",
+        "ident_reu": "78508282168",
+        "endereco_autor": "TO, Araguaína, VILA COUTO MAGALHÃES, RUA BELA VISTA, QUADRA 56, LOTE 12,, S/N, VILA COUTO MAGALHÃES, 77800000",
+        "endereco_reu": "TO, Araguaína, Povoado Novo Horizonte, Avenida Anhanguera, 725,  (63) 99224-7131, 77819018",
+        "juizo": "Juízo do 1º Juizado Especial Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "EVERALDO NAVARRO PETILO",
+          "doc": "118.247.785-20",
+          "tipo": "Pessoa Física",
+          "papel": "EXEQUENTE"
+        },
+        "valorCausa": "R$ 6.706,05"
+      }
+    },
+    "00024986720268272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00024986720268272706",
+        "autuacao": "09/02/2026 17:11:10",
+        "str_sig_orgao_juizo": "TOARA1EFAMJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00024986720268272706&hash=c79aa02d32c59f9667cf78e72474c852",
+        "autor": "SABRINA ALVES BARBOSA<br>e outros",
+        "reu": "RUAN PABLO PEREIRA DOS SANTOS<br>",
+        "classe": "Alimentos - Lei Especial Nº 5.478/68",
+        "cod_classe": "684",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "24/06/2026 14:58:53",
+        "ultimo_evento": "24/06/2026 14:58:53 - Protocolizada Petição",
+        "id_orgao_juizo": "270000163",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Fixação, Alimentos, Família, DIREITO CIVIL, Guarda, Relações de Parentesco, Família, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "12467015106",
+        "ident_reu": "06999953104",
+        "endereco_autor": "",
+        "endereco_reu": "TO, Araguaína, Setor Araguaína Sul, Rua das Jaqueiras, 448, 77827160",
+        "juizo": "Juizo da 1ª Vara de Família e Sucessões de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "SAMUEL PABLO ALVES SANTOS",
+          "doc": "124.670.151-06",
+          "tipo": null,
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 1.621,00"
+      }
+    },
+    "00020578620268272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00020578620268272706",
+        "autuacao": "03/02/2026 11:50:05",
+        "str_sig_orgao_juizo": "TOARA2JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00020578620268272706&hash=6902881aaeca614c06ba8294f4711dce",
+        "autor": "FRANCISCA CRISTINA RIBEIRO DA SILVA<br>",
+        "reu": "THAMARA NAYAN LIMA DANTAS<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "24/08/2026 14:06:54",
+        "ultimo_evento": "24/08/2026 14:06:54 - MAND DISTRIBUIDO AO OFICIAL JUSTICA",
+        "id_orgao_juizo": "271000396",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Nota Promissória, Espécies de Títulos de Crédito, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "63347628187",
+        "ident_reu": "00296185175",
+        "endereco_autor": "TO, Araguaína, SETOR URBANO, AVENIDA RIO BRANCO, 499, 77809070",
+        "endereco_reu": "TO, Araguaína, Atos do WhatsApp, Atos WhatsApp Araguaína, SN, (63) 9 9134-0208, 77800000",
+        "juizo": "Juízo do 2º Juizado Especial Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "FRANCISCA CRISTINA RIBEIRO DA SILVA",
+          "doc": "633.476.281-87",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 273,08"
+      }
+    },
+    "00018248920268272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00018248920268272706",
+        "autuacao": "30/01/2026 09:31:49",
+        "str_sig_orgao_juizo": "TOARA2JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00018248920268272706&hash=a6c4074fd756ffbbb98aa7a777c24006",
+        "autor": "NATTALIA RIBEIRO DA SILVA CAVALCANTE<br>",
+        "reu": "EDITORA E DISTRIBUIDORA EDUCACIONAL S/A<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "07/10/2026 16:23:36",
+        "ultimo_evento": "07/10/2026 16:23:36 - Decisão - Concessão - Gratuidade da Justiça",
+        "id_orgao_juizo": "271000396",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Irregularidade no atendimento, DIREITO DO CONSUMIDOR",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "06606700116",
+        "ident_reu": "38733648000140",
+        "endereco_autor": "TO, Araguaína, Setor Urbano, Rua Rio Branco (Setor Urbano), 499, 77809070",
+        "endereco_reu": "PR, Londrina, Jardim Piza, Rua Marselha, 145, 86041100",
+        "juizo": "Juízo do 2º Juizado Especial Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "erro": true
+      }
+    },
+    "00010334920258272741": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00010334920258272741",
+        "autuacao": "08/10/2025 17:20:55",
+        "str_sig_orgao_juizo": "TOWAN1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00010334920258272741&hash=0b0c3c44e9cdfcdfad56b2dd18ca3f29",
+        "autor": "SANTINA PEREIRA DE SOUZA<br>",
+        "reu": "BANCO AGIBANK S.A<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "04/09/2026 13:40:53",
+        "ultimo_evento": "04/09/2026 13:40:53 - Conclusão para decisão",
+        "id_orgao_juizo": "270000143",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Empréstimo consignado, Bancários, Contratos de Consumo, DIREITO DO CONSUMIDOR",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "62866958187",
+        "ident_reu": "10664513000150",
+        "endereco_autor": "TO, Wanderlândia, Setor Sul, Rua Piaui, Qd. 52, Lt. 02, 77860000",
+        "endereco_reu": "RS, Porto Alegre, MOINHOS DE VENTO, RUA R MOSTARDEIRO, 266, 90430000",
+        "juizo": "Juízo da 1ª Escrivania Cível de Wanderlândia",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null,
+        "erro": true
+      }
+    },
+    "00205513320258272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00205513320258272706",
+        "autuacao": "01/10/2025 12:46:00",
+        "str_sig_orgao_juizo": "TOARAJECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00205513320258272706&hash=279b186ab28aa8ad6f859dd5462affbf",
+        "autor": "MARCOS VINICIUS MARQUEZ ARAUJO<br>",
+        "reu": "IRMAOS FISCHER SA IND E COM<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "25/05/2026 02:45:41",
+        "ultimo_evento": "25/05/2026 02:45:41 - Publicado no DJEN",
+        "id_orgao_juizo": "270000038",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Produto Impróprio, Contratos de Consumo, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "04418661158",
+        "ident_reu": "82984287000104",
+        "endereco_autor": "TO, Araguaína, Atos do WhatsApp, Atos WhatsApp Araguaína, s/n, 77800000",
+        "endereco_reu": "SC, Brusque, LIMOEIRO, RODOVIA ANTONIO HEIL, 5600, KM    23, 88352502",
+        "juizo": "Juízo do 1º Juizado Especial Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "MARCOS VINICIUS MARQUEZ ARAUJO",
+          "doc": "044.186.611-58",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 0,00"
+      }
+    },
+    "00175097320258272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00175097320258272706",
+        "autuacao": "25/08/2025 12:10:15",
+        "str_sig_orgao_juizo": "TOARA2EFAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00175097320258272706&hash=cc7d59da10c3e37ac3d0b87f145d3892",
+        "autor": "JOSENILSON OLIVEIRA<br>",
+        "reu": "ESTADO DO TOCANTINS<br>e outros",
+        "classe": "Embargos de Terceiro Cível",
+        "cod_classe": "2308",
+        "cod_competencia": "35",
+        "dth_ultimo_evento": "28/08/2026 13:47:53",
+        "ultimo_evento": "28/08/2026 13:47:53 - Mandado devolvido - não entregue ao destinatário",
+        "id_orgao_juizo": "270000162",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "ICMS / Incidência Sobre o Ativo Fixo, ICMS/ Imposto sobre Circulação de Mercadorias, Impostos, DIREITO TRIBUTÁRIO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "33788154500",
+        "ident_reu": "01786029000103",
+        "endereco_autor": "TO, Araguaína, Vila Couta Magalhães, Avenida Contorno, s/n, 77800000",
+        "endereco_reu": "TO, Palmas, centro, Praça dos Girassóis, s/nº, Esplanada das Secretarias, sn, 77054970",
+        "juizo": "Juizo da Vara de Execuções Fiscais e Ações de Saúde Pública de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "JOSENILSON OLIVEIRA",
+          "doc": "337.881.545-00",
+          "tipo": "Pessoa Física",
+          "papel": "EMBARGANTE"
+        },
+        "valorCausa": "R$ 59.760,00"
+      }
+    },
+    "00155887920258272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00155887920258272706",
+        "autuacao": "29/07/2025 10:43:03",
+        "str_sig_orgao_juizo": "2JTUR2",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00155887920258272706&hash=6c4d8d126199a5ccbc960a9e8e49e4b6",
+        "autor": "MUNICIPIO DE ARAGUAINA<br>",
+        "reu": "CICERO DAVI DE OLIVEIRA<br>",
+        "classe": "Recurso Inominado Cível",
+        "cod_classe": "000184",
+        "cod_competencia": "38",
+        "dth_ultimo_evento": "07/10/2026 15:46:21",
+        "ultimo_evento": "07/10/2026 15:46:21 - Intimação Eletrônica - Expedida/Certificada - Pauta",
+        "id_orgao_juizo": "271000336",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Protesto Indevido de Títulos, Indenização por Dano Moral, Responsabilidade da Administração, DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO, Obrigação de Fazer / Não Fazer, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Assistência Judiciária Gratuita, Partes e Procuradores, DIREITO PROCESSUAL CIVIL E DO TRABALHO, Tutela de Urgência, Tutela Provisória, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO-AGUARDA JULGAMENTO",
+        "ident_autor": "01830793000139",
+        "ident_reu": "00687297150",
+        "endereco_autor": "TO, Abreulândia, Alaska, Av. Marginal Neblina, 1101, 77817805",
+        "endereco_reu": "TO, Araguaína, Atos do WhatsApp, Atos WhatsApp Araguaína, sn, celular: 63.99103-1815, 77800000",
+        "juizo": "SEGUNDO GABINETE DA 2ª TURMA RECURSAL",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "MUNICIPIO DE ARAGUAINA",
+          "doc": "01.830.793/0001-39",
+          "tipo": "Entidade",
+          "papel": "RECORRENTE"
+        },
+        "valorCausa": "R$ 15.000,00"
+      }
+    },
+    "00149504620258272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00149504620258272706",
+        "autuacao": "18/07/2025 11:28:51",
+        "str_sig_orgao_juizo": "TOARA2JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00149504620258272706&hash=4ccd95f962e055299b806b01677e55ff",
+        "autor": "INAILMA LOPES ARAUJO CAZAROTTO<br>",
+        "reu": "THIAGO BEZERRA MONTEIRO<br>",
+        "classe": "Procedimento do Juizado Especial Cível",
+        "cod_classe": "2292",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "18/09/2026 17:19:44",
+        "ultimo_evento": "18/09/2026 17:19:44 - Baixa Definitiva",
+        "id_orgao_juizo": "271000396",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL, Indenização por Dano Material, Responsabilidade do Fornecedor, DIREITO DO CONSUMIDOR",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "46694013191",
+        "ident_reu": "02961794269",
+        "endereco_autor": "TO, Araguaína, Atos do WhatsApp, Atos WhatsApp Araguaína, sn, celular: d63.999995-1310, 77800000",
+        "endereco_reu": "TO, Araguaína, Atos do WhatsApp, Atos WhatsApp Araguaína, SN, 77800000",
+        "juizo": "Juízo do 2º Juizado Especial Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "INAILMA LOPES ARAUJO CAZAROTTO",
+          "doc": "466.940.131-91",
+          "tipo": "Pessoa Física",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 19.995,00"
+      }
+    },
+    "00088585220258272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00088585220258272706",
+        "autuacao": "16/04/2025 11:11:18",
+        "str_sig_orgao_juizo": "TOARAJECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00088585220258272706&hash=dd80f9b99ab6bed4e4c27352c0cd7deb",
+        "autor": "FRANCISCA CRISTINA RIBEIRO DA SILVA<br>",
+        "reu": "LIGIA CARNEIRO DA SILVA<br>",
+        "classe": "Execução de Título Extrajudicial",
+        "cod_classe": "644",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "28/08/2026 06:36:43",
+        "ultimo_evento": "28/08/2026 06:36:43 - Juntado - Alvará Pago",
+        "id_orgao_juizo": "270000038",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Nota Promissória, Espécies de Títulos de Crédito, Obrigações, DIREITO CIVIL",
+        "des_situacao": "BAIXADO",
+        "ident_autor": "63347628187",
+        "ident_reu": "83145338153",
+        "endereco_autor": "TO, Araguaína, SETOR URBANO, AVENIDA RIO BRANCO, 499, 77809070",
+        "endereco_reu": "TO, Araguaína, Setor Central, Rua das Palmeiras, 299, quadra 4, lote 25, 77804080",
+        "juizo": "Juízo do 1º Juizado Especial Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "FRANCISCA CRISTINA RIBEIRO DA SILVA",
+          "doc": "633.476.281-87",
+          "tipo": "Pessoa Física",
+          "papel": "EXEQUENTE"
+        },
+        "valorCausa": "R$ 573,82"
+      }
+    },
+    "00085277020258272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00085277020258272706",
+        "autuacao": "11/04/2025 12:38:45",
+        "str_sig_orgao_juizo": "TOARAJECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00085277020258272706&hash=4a04ab11f389f2fa08160e098ae19b2b",
+        "autor": "FRANCISCA CRISTINA RIBEIRO DA SILVA<br>",
+        "reu": "MARCELA RODRIGUES PEREIRA<br>",
+        "classe": "Cumprimento de sentença",
+        "cod_classe": "2366",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "24/07/2026 00:17:51",
+        "ultimo_evento": "24/07/2026 00:17:51 - Decurso de Prazo",
+        "id_orgao_juizo": "270000038",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Mora, Inadimplemento, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "63347628187",
+        "ident_reu": "02895290261",
+        "endereco_autor": "TO, Araguaína, SETOR URBANO, AVENIDA RIO BRANCO, 499, 77809070",
+        "endereco_reu": "TO, Araguaína, Atos do WhatsApp, Atos WhatsApp Araguaína, s/n,  Telefone: (91) 99229-8862., 77800000",
+        "juizo": "Juízo do 1º Juizado Especial Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "FRANCISCA CRISTINA RIBEIRO DA SILVA",
+          "doc": "633.476.281-87",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 924,07"
+      }
+    },
+    "00081422520258272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00081422520258272706",
+        "autuacao": "07/04/2025 15:36:29",
+        "str_sig_orgao_juizo": "TOARA2ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00081422520258272706&hash=a86ab63085e05c5cb36a014471ca8189",
+        "autor": "LOTEAMENTO RESIDENCIAL CAZAROTTO<br>",
+        "reu": "VITOR EMANOEL MARTINS ROSARIO JUNIOR<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "14/08/2026 14:07:25",
+        "ultimo_evento": "14/08/2026 14:07:25 - Conclusão para despacho",
+        "id_orgao_juizo": "270000159",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Rescisão / Resolução, Inadimplemento, Obrigações, DIREITO CIVIL, Requerimento de Reintegração de Posse, Obrigação de Entregar, Liquidação / Cumprimento / Execução, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "19916470000128",
+        "ident_reu": "51734001291",
+        "endereco_autor": "TO, Araguaína, Atos do WhatsApp, Atos WhatsApp Araguaína, s/n, 77800000",
+        "endereco_reu": "TO, Araguaína, Atos do WhatsApp, Atos WhatsApp Araguaína, s/n, 77800000",
+        "juizo": "Juízo da 2ª Vara Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "LOTEAMENTO RESIDENCIAL CAZAROTTO",
+          "doc": "19.916.470/0001-28",
+          "tipo": "Pessoa Jurídica",
+          "papel": "AUTOR"
+        },
+        "valorCausa": "R$ 58.000,00"
+      }
+    },
+    "00073792420258272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00073792420258272706",
+        "autuacao": "27/03/2025 16:51:30",
+        "str_sig_orgao_juizo": "TOARA2JECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00073792420258272706&hash=c29b35a0aa4724512fcef0180dc05b87",
+        "autor": "FRANCISCA CRISTINA RIBEIRO DA SILVA<br>",
+        "reu": "DAIANA GONÇALVES DO NASCIMENTO<br>",
+        "classe": "Execução de Título Extrajudicial",
+        "cod_classe": "644",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "06/10/2026 14:43:18",
+        "ultimo_evento": "06/10/2026 14:43:18 - MAND DISTRIBUIDO AO OFICIAL JUSTICA",
+        "id_orgao_juizo": "271000396",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Nota Promissória, Espécies de Títulos de Crédito, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "63347628187",
+        "ident_reu": "03276534185",
+        "endereco_autor": "TO, Araguaína, SETOR URBANO, AVENIDA RIO BRANCO, 499, 77809070",
+        "endereco_reu": "TO, Colinas do Tocantins, Setor Santa Rosa, Rua Araguarí , 958, 77760000",
+        "juizo": "Juízo do 2º Juizado Especial Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "FRANCISCA CRISTINA RIBEIRO DA SILVA",
+          "doc": "633.476.281-87",
+          "tipo": "Pessoa Física",
+          "papel": "EXEQUENTE"
+        },
+        "valorCausa": "R$ 626,65"
+      }
+    },
+    "00040613320258272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00040613320258272706",
+        "autuacao": "10/02/2025 15:45:06",
+        "str_sig_orgao_juizo": "TOARAJECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00040613320258272706&hash=2db48369ed11fd5679e07883cd83caea",
+        "autor": "MODESTO FILHO ROCHA CARVALHO<br>",
+        "reu": "MARCIO ALBUQUERQUE DA COSTA<br>",
+        "classe": "Cumprimento de sentença",
+        "cod_classe": "2366",
+        "cod_competencia": "24",
+        "dth_ultimo_evento": "05/08/2026 12:29:18",
+        "ultimo_evento": "05/08/2026 12:29:18 - Conclusão para despacho",
+        "id_orgao_juizo": "270000038",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Perdas e Danos, Inadimplemento, Obrigações, DIREITO CIVIL, Enriquecimento sem Causa, Atos Unilaterais, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "56564732104",
+        "ident_reu": "05200116198",
+        "endereco_autor": "TO, Araguaína, SETOR CENTRAL, AVENIDA PRIMEIRO DE JANEIRO, 1993, 77803140",
+        "endereco_reu": "TO, Araguaína, Setor Coimbra, Avenida Brasil, s/n, Quadra 21,  lote 26, 77826566",
+        "juizo": "Juízo do 1º Juizado Especial Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": {
+          "nome": "KAIO LEVI CAVALCANTE BORGES",
+          "oab": "TO014488"
+        },
+        "requerente": {
+          "nome": "MODESTO FILHO ROCHA CARVALHO",
+          "doc": "565.647.321-04",
+          "tipo": "Pessoa Física",
+          "papel": "REQUERENTE"
+        },
+        "valorCausa": "R$ 26.980,18"
+      }
+    },
+    "00148347420248272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00148347420248272706",
+        "autuacao": "22/07/2024 10:11:10",
+        "str_sig_orgao_juizo": "TOARA1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00148347420248272706&hash=b1dfe53354153fb6990394b8a7ee1e91",
+        "autor": "A G DE SOUSA<br>",
+        "reu": "AGIL SOLUCOES E TRANSPORTES LTDA<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "24/09/2026 02:57:26",
+        "ultimo_evento": "24/09/2026 02:57:26 - Publicado no DJEN",
+        "id_orgao_juizo": "270000158",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Indenização por Dano Material, Responsabilidade Civil, DIREITO CIVIL, Direito de Imagem, Indenização por Dano Moral, Responsabilidade Civil, DIREITO CIVIL, Compra e Venda, Espécies de Contratos, Obrigações, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "51479140000125",
+        "ident_reu": "46984363000100",
+        "endereco_autor": "TO, Araguaína, Residencial Belchior, Rua Amélia Jacinta, 23, 77825004",
+        "endereco_reu": "TO, Araguaína, Setor Manoel Gomes da Cunha, Avenida Bernardo Sayão, 77818161",
+        "juizo": "Juízo da 1ª Vara Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00033367820248272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00033367820248272706",
+        "autuacao": "16/02/2024 17:12:59",
+        "str_sig_orgao_juizo": "TOARA3ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00033367820248272706&hash=80a50ab51ad34d9aadf37d37dfc794ff",
+        "autor": "DANIEL GERMANO SILVA<br>",
+        "reu": "EGNALDO FELISMINA FERREIRA<br>",
+        "classe": "Cumprimento de sentença",
+        "cod_classe": "2366",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "31/08/2026 16:03:27",
+        "ultimo_evento": "31/08/2026 16:03:27 - Protocolizada Petição",
+        "id_orgao_juizo": "270000160",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Acidente de Trânsito, Indenização por Dano Material, Responsabilidade Civil, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO-AGUARDA DESPACHO/DECISÃO",
+        "ident_autor": "07148791189",
+        "ident_reu": "43174930391",
+        "endereco_autor": "TO, Araguaína, Setor Martins Jorge, Avenida Brasília, 351, casa, 77817380",
+        "endereco_reu": "TO, Araguaína, Atos do WhatsApp, Atos WhatsApp Araguaína, SN, 77800000",
+        "juizo": "Juizo da 3ª Vara Cível de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00000898420248272740": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00000898420248272740",
+        "autuacao": "12/01/2024 15:51:12",
+        "str_sig_orgao_juizo": "TOTOP1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00000898420248272740&hash=8deeb6907eb91a7c600695af72842df8",
+        "autor": "JOELIA FERREIRA DO NASCIMENTO<br>",
+        "reu": "JOSE FERREIRA DA SILVA<br>",
+        "classe": "Inventário",
+        "cod_classe": "673",
+        "cod_competencia": "3",
+        "dth_ultimo_evento": "14/08/2026 16:59:59",
+        "ultimo_evento": "14/08/2026 16:59:59 - Expedida/certificada a comunicação eletrônica",
+        "id_orgao_juizo": "270000140",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Inventário e Partilha, Sucessões, DIREITO CIVIL, Assistência Judiciária Gratuita, Partes e Procuradores, DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "99850532220",
+        "ident_reu": "35225432115",
+        "endereco_autor": "PA, Redenção, CDNTRO, AVENIDA INDEPEDENCPA, 57, 68550010",
+        "endereco_reu": "PA, Conceição do Araguaia, CENTRO, TRAVESSA DIOGO MOURAO, 732, 68540000",
+        "juizo": "Juízo da 1ª Vara Cível de Tocantinópolis",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00269842920208272706": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00269842920208272706",
+        "autuacao": "15/12/2020 14:30:04",
+        "str_sig_orgao_juizo": "TOARA2EFAZJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00269842920208272706&hash=8971c24674169ed66281e2be50b81bff",
+        "autor": "MUNICIPIO DE ARAGUAINA<br>",
+        "reu": "FRANCISCA TATIANE RIBEIRO DA SILVA<br>",
+        "classe": "Execução Fiscal",
+        "cod_classe": "662",
+        "cod_competencia": "35",
+        "dth_ultimo_evento": "28/07/2026 10:33:24",
+        "ultimo_evento": "28/07/2026 10:33:24 - Protocolizada Petição",
+        "id_orgao_juizo": "270000162",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "IPTU/ Imposto Predial e Territorial Urbano, Impostos, DIREITO TRIBUTÁRIO, Dívida Ativa (Execução Fiscal), DIREITO TRIBUTÁRIO",
+        "des_situacao": "SUSPENSO / SOBRESTADO",
+        "ident_autor": "01830793000139",
+        "ident_reu": "00581592158",
+        "endereco_autor": "TO, Abreulândia, Alaska, Av. Marginal Neblina, 1101, 77817805",
+        "endereco_reu": "TO, Araguaína, JARDIM COSTA ESMERALDA, RUA CE 20, QUADRA 56 LOTE 25, 77800000",
+        "juizo": "Juizo da Vara de Execuções Fiscais e Ações de Saúde Pública de Araguaína",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    },
+    "00021101220188272718": {
+      "primeira_vez_visto": "2026-10-08T17:34:24.554Z",
+      "atualizado_em": "2026-10-08T17:44:03.363Z",
+      "dados": {
+        "nr_processo": "00021101220188272718",
+        "autuacao": "24/11/2018 09:45:58",
+        "str_sig_orgao_juizo": "TOFIL1ECIVJ",
+        "linkProcessoAssinado": "controlador.php?acao=processo_selecionar&acao_origem=pesquisa_processo_por_num_oab&acao_retorno=pesquisa_processo_por_num_oab&num_processo=00021101220188272718&hash=7a7233646e20fb243257a2d3e9406b99",
+        "autor": "MARIA JOSE FERNANDES VALADARES<br>",
+        "reu": "JUSCELINO SANTOS SILVA<br>",
+        "classe": "Procedimento Comum Cível",
+        "cod_classe": "2298",
+        "cod_competencia": "1",
+        "dth_ultimo_evento": "16/09/2026 11:45:01",
+        "ultimo_evento": "16/09/2026 11:45:01 - Protocolizada Petição",
+        "id_orgao_juizo": "270000105",
+        "id_sigilo": "0",
+        "contexto_secao": "",
+        "des_assuntos": "Direito de Vizinhança, Propriedade, Coisas, DIREITO CIVIL",
+        "des_situacao": "MOVIMENTO",
+        "ident_autor": "92982972115",
+        "ident_reu": "77884175134",
+        "endereco_autor": "TO, Babaçulândia, Setor Central, Rua 1 (63)99251-6011 Edson filho, sn, CHÁCARA NOSSA SENHORA APARECIDA, 77870000",
+        "endereco_reu": "TO, Babaçulândia, Zona Rural, Fazenda, S/N, CHACARA TRES IRMAOS, 77870000",
+        "juizo": "Juízo da 1ª Escrivania Cível de Filadélfia",
+        "retorno_modulo": "S"
+      },
+      "detalhes": {
+        "advogado": null
+      }
+    }
+  }
+}

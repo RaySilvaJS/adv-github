@@ -1,0 +1,14 @@
+{
+  "autor": {
+    "doc": "11253941106",
+    "telefones": [],
+    "renda": null,
+    "nome": null,
+    "nascimento": null,
+    "formato": "lista",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": true,
+    "bruto": "Dados não encontrados para o CPF: 112.539.411-06"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": "2026-10-13T18:37:02.275Z",
+  "modo": "numerico",
+  "uf": "TO",
+  "oab": "TO002621",
+  "etapa": "consultando processos da OAB",
+  "erro": {
+    "nome": "TypeError",
+    "mensagem": "fetch failed",
+    "stack": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:13510:13\n    at async consultarPorOab (C:\\Users\\rs250\\OneDrive\\Desktop\\📁 01 - PROJETOS\\adv-github\\src\\eproc.js:45:15)\n    at async consultar (C:\\Users\\rs250\\OneDrive\\Desktop\\📁 01 - PROJETOS\\adv-github\\scripts\\varrer-oab-eproc.js:221:12)\n    at async processarOab (C:\\Users\\rs250\\OneDrive\\Desktop\\📁 01 - PROJETOS\\adv-github\\scripts\\varrer-oab-eproc.js:314:19)\n    at async main (C:\\Users\\rs250\\OneDrive\\Desktop\\📁 01 - PROJETOS\\adv-github\\scripts\\varrer-oab-eproc.js:490:25)",
+    "causa": {
+      "nome": "SocketError",
+      "mensagem": "other side closed",
+      "codigo": "UND_ERR_SOCKET",
+      "stack": "SocketError: other side closed\n    at TLSSocket.<anonymous> (node:internal/deps/undici/undici:6294:28)\n    at TLSSocket.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)"
+    }
+  }
+}

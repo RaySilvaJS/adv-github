@@ -1,0 +1,14 @@
+{
+  "autor": {
+    "doc": "63534267397",
+    "telefones": [],
+    "renda": null,
+    "nome": null,
+    "nascimento": null,
+    "formato": "lista",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": true,
+    "bruto": "Dados não encontrados para o CPF: 635.342.673-97"
+  }
+}

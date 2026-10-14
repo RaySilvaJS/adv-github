@@ -1,0 +1,14 @@
+{
+  "autor": {
+    "doc": "10325181110",
+    "telefones": [],
+    "renda": null,
+    "nome": null,
+    "nascimento": null,
+    "formato": "lista",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": true,
+    "bruto": "Dados não encontrados para o CPF: 103.251.811-10"
+  }
+}

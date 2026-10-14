@@ -1,0 +1,70 @@
+{
+  "autor": {
+    "doc": "00896274000100",
+    "telefones": [
+      {
+        "numero": "(63)99229-7909",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)99236-5865",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)3312-2945",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3312-7970",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3312-2915",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3351-1974",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3312-2901",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(13)3233-7462",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)3312-1590",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)99984-1055",
+        "operadora": null,
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)99984-9891",
+        "operadora": null,
+        "whatsapp": true
+      }
+    ],
+    "renda": null,
+    "nome": null,
+    "nascimento": null,
+    "formato": "whatsapp",
+    "capitalSocial": "R$ 250.000,00",
+    "faturamento": "R$ 270.000,00",
+    "naoEncontrado": false,
+    "bruto": "*☞ Resultado da sua consulta:*\n\n• DADOS EMPRESARIAIS:\n       CNPJ: 00.896.274/0001-00\n       NOME FANTASIA: GURUMAQUINAS\n       RAZÃO SOCIAL: GURUMAQUINAS GURUPI MAQ AGRIC LTDA\n       REPRESENTANTE: 430.291.591-91 | MARCELO PEDROSO FONSECA\n       MATRIZ: SIM\n       INSCRIÇÃO ESTADUAL: 29.015.122-8\n       ABERTURA: 05/07/1984\n       CAPITAL SOCIAL: R$ 250.000,00\n       FATURAMENTO: R$ 270.000,00\n       FUNCIONÁRIOS: 11\n       OPERACIONALIDADE: MUITO ALTO \n       RISCO: BAIXISSIMO RISCO\n       TIPO: ME\n       TIPO CNAE: COMÉRCIO\n       CNAE: 4789099\n       LOCALIZAÇÃO: Sem informação\n\n• SÓCIOS (3):\n       370.952.501-20 | ANA MARIA PEDROSO FONSECA | 40.9%\n       430.291.591-91 | MARCELO PEDROSO FONSECA | 29.5%\n       484.652.591-00 | MARCIO PEDROSO FONSECA | 29.5%\n\n• ENDEREÇOS (1):\n       R E 50 LT 1 A 8 QUADRA4, WALDIR LINS II - GURUPI/TO - 77423350\n\n• E-MAILS (9):\n       comercial@gurumaquinas.com.br\n       crescendoeaprendendocomcristo@gmail.com\n       edimilson.lima@r7.com\n       elisa.rev.avon@gmail.com\n       sociallifebrasil@gmail.com\n       gurumaquinas@gurumaquinas.com.br\n       marketing@gurumaquinas.com.br\n       financeiro@gurumaquinas.com.br\n       contabil@gurumaquinas.com.br\n\n• NÚMEROS (11):\n       (63)99229-7909\n       (63)99236-5865\n       (63)3312-2945\n       (63)3312-7970\n       (63)3312-2915\n       (63)3351-1974\n       (63)3312-2901\n       (13)3233-7462\n       (63)3312-1590\n       (63)99984-1055\n       (63)99984-9891\n\n• FUNCIONÁRIOS (62):\n       003.399.421-85 | RUMMENIGUE PINHEIRO SILVA | 01/06/2007 até n/a\n       003.413.641-00 | ADRIANO MENEZES LIMA | 10/09/2021 até n/a\n       003.443.491-79 | CELIO CAETANO ALVES | 02/09/2019 até n/a\n       024.892.831-70 | MANOELA RIBEIRO DA SILVA | 01/08/2012 até n/a\n       029.232.951-29 | JHONATHAS DE AZEVEDO ROCHA | 06/01/2011 até n/a\n       029.370.761-81 | TIAGO DA SILVA TORRES | 01/02/2013 até n/a\n       033.886.761-94 | RODRIGO FRANCA AMARAL | 03/02/2012 até n/a\n       035.278.841-06 | EDUARDO BONFIM ALVES | 15/04/2019 até n/a\n       055.900.051-08 | EDUARDO NUNES DE SOUZA | 01/11/2018 até n/a\n       060.361.081-17 | JOAO PEDRO VIANA ARRUDA | 12/08/2013 até n/a\n       061.091.884-25 | RAIMUNDA NONATA MARTINS PEREIRA | 07/11/2018 até n/a\n       081.321.461-07 | ALEXANDRE JUSTINO DE ASSIS | 13/10/2020 até n/a\n       211.260.701-49 | FLORIANO DO PRADO | 26/10/1996 até n/a\n       218.907.491-68 | DILSON OLIVEIRA PEREIRA | 02/07/2018 até n/a\n       227.414.531-87 | JOAO SINVAL RIBEIRO | 01/11/1984 até n/a\n       598.349.941-68 | MARCELO DE PAULA SILVA | 01/03/2004 até n/a\n       623.542.991-68 | JABES PEREIRA LIMA | 02/05/2000 até n/a\n       626.058.011-87 | JOELMA CAMPOS MACHADO | 03/01/2005 até n/a\n       642.511.361-87 | RAYRA PINHEIRO SOUZA | 03/01/1994 até n/a\n       649.059.181-20 | MARCIO FERREIRA DOS SANTOS | 05/01/2011 até n/a\n       712.142.401-00 | ILDENEY DA LUZ | 28/05/2014 até n/a\n       721.087.971-49 | DANILLO PEREIRA BORGES | 11/02/2019 até n/a\n       767.431.361-15 | JOS"
+  }
+}

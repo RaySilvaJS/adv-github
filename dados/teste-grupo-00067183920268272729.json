@@ -1,0 +1,14 @@
+{
+  "autor": {
+    "doc": "08922661127",
+    "telefones": [],
+    "renda": null,
+    "nome": null,
+    "nascimento": null,
+    "formato": "lista",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": true,
+    "bruto": "Dados não encontrados para o CPF: 089.226.611-27"
+  }
+}

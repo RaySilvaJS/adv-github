@@ -1,0 +1,35 @@
+{
+  "autor": {
+    "doc": "18773168149",
+    "telefones": [
+      {
+        "numero": "(63)99999-8888",
+        "operadora": "VIVO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)99948-3347",
+        "operadora": "VIVO",
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)98102-8706",
+        "operadora": "TIM",
+        "whatsapp": false
+      },
+      {
+        "numero": "(15)97598-4714",
+        "operadora": null,
+        "whatsapp": false
+      }
+    ],
+    "renda": "R$ 653,79",
+    "nome": "Marli Canuto Pires",
+    "nascimento": "14/08/1957 | 69 Anos",
+    "formato": "whatsapp",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": false,
+    "bruto": "*☞ Resultado da sua consulta:*\n\n• DADOS PESSOAIS:\n       CPF: 187.731.681-49 (TO)\n       NOME: Marli Canuto Pires\n       SEXO: FEMININO\n       NASCIMENTO: 14/08/1957 | 69 Anos\n       MÃE: Leonila Josefa Da Conceicao\n       PAI: Jose Canuto Da Silva\n\n• RENDAS/CREDITO:\n       RENDA: R$ 653,79\n       PODER AQUISITIVO: Muito Baixo\n       PODER DE COMPRA: De R$ 112 Até R$ 630\n       PROFISSÃO: Sem informação\n\n• SCORE (0 a 1000):\n       SERASA SCORE: 874\n       SERASA SCORE ANTIGO: 113\n       SPC SCORE: 149\n       SPC SCORE ANTIGO: 149\n       BOAVISTA SCORE: 226\n       BOAVISTA SCORE ANTIGO: 226\n\n• INFORMAÇÕES DO RG/CNH:\n       RG: Sem informação\n       EMISSÃO: Sem informação\n       ORGÃO: Sem informação\n       UF: Sem informação\n\n• OUTRAS INFORMAÇÕES:\n       NIS: 16566486578\n       PIS: Sem informação\n       TITULO: 018289042755\n       CONJUGE: Sem informação\n       ESCOLARIDADE: Sem informação\n       CIDADE DE NASCIMENTO: Sem informação\n\n• ENDEREÇOS (7):\n       ★ R BR DO RIO BRANCO 581, CENTRO, AUGUSTINOPOLIS/TO - 77960000\n       ★ R BR DO RIO BRANCO 581, 581 - AUGUSTINOPOLIS/TO - 77960000\n       R PLANALTO 512 PROXIMO AO S 512 PROXIMO AO S, null, AUGUSTINOPOLIS/TO - 77960000\n       R PLANALTO 512 PROXIMO AO S 512 PROXIMO AO S, 512 - AUGUSTINOPOLIS/TO - 77960000\n       POV ITAUBA, , SN - SAO SEBASTIAO DO TOCANTINS/TO - 77990000\n       ITAUBA SN, Z RURAL, SAO SEBASTIAO DO TOCANTINS/TO - 77990000\n       ITAUBA SN - SAO SEBASTIAO DO TOCANTINS/TO - 77990000\n\n• NÚMEROS (4):\n       ★ (63)99999-8888 - VIVO - WhatsApp\n       (63)99948-3347 - VIVO\n       (63)98102-8706 - TIM\n       (15)97598-4714\n\n• E-MAILS (0):\n       E-mails não encontrados\n\n• PARENTES (8):\n       FABIO CANUTO PIRES - FILHA(O) - 028.999.091-26\n       LILIAN CANUTO PIRES - FILHA(O) - 025.472.121-45\n       LEILA CANUTO PIRES - FILHA(O) - 737.679.301-10\n       LUCAS CANUTO PIRES - FILHA(O) - 033.676.641-62\n       FERNANDA CANUTO PIRES - FILHA(O) - 042.459.261-47\n       MARCIA CANUTO PIRES - FILHA(O) - 023.491.891-80\n       SORAIA CANUTO PIRES - FILHA(O) - 028.975.021-00\n       MARIA JOSE CANUTO PIRES DA SILVA - FILHA(O) - 957.641.861-53\n\n• EMPRESAS (0):\n       Empresas não encontradas\n\n• EMPREGOS (0):\n       Empregos não encontrados"
+  }
+}

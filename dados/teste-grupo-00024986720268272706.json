@@ -1,0 +1,14 @@
+{
+  "autor": {
+    "doc": "12467015106",
+    "telefones": [],
+    "renda": null,
+    "nome": null,
+    "nascimento": null,
+    "formato": "lista",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": true,
+    "bruto": "Dados não encontrados para o CPF: 124.670.151-06"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "autor": {
+    "doc": "39808849000121",
+    "telefones": [],
+    "renda": null,
+    "nome": null,
+    "nascimento": null,
+    "formato": "lista",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": true,
+    "bruto": "Dados não encontrados para o cnpj especificado"
+  }
+}

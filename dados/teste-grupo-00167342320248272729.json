@@ -1,0 +1,45 @@
+{
+  "autor": {
+    "doc": "17898943287",
+    "telefones": [
+      {
+        "numero": "(63)3225-7766",
+        "operadora": null,
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)99994-4981",
+        "operadora": "VIVO",
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)99944-9810",
+        "operadora": "VIVO",
+        "whatsapp": true
+      },
+      {
+        "numero": "(63)99272-1437",
+        "operadora": "CLARO",
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)98456-4955",
+        "operadora": "TIM",
+        "whatsapp": false
+      },
+      {
+        "numero": "(63)98444-9810",
+        "operadora": "TIM",
+        "whatsapp": true
+      }
+    ],
+    "renda": "R$ 0,00",
+    "nome": "Adauto Pereira",
+    "nascimento": "26/10/1960 | 65 Anos",
+    "formato": "whatsapp",
+    "capitalSocial": null,
+    "faturamento": null,
+    "naoEncontrado": false,
+    "bruto": "*☞ Resultado da sua consulta:*\n\n• DADOS PESSOAIS:\n       CPF: 178.989.432-87\n       NOME: Adauto Pereira\n       SEXO: MASCULINO\n       NASCIMENTO: 26/10/1960 | 65 Anos\n       MÃE: Eudocia F Pereira\n       PAI: Trajando Pereira\n\n• RENDAS/CREDITO:\n       RENDA: R$ 0,00\n       PODER AQUISITIVO: Sem informação\n       PODER DE COMPRA: Sem informação\n       PROFISSÃO: Sem informação\n\n• SCORE (0 a 1000):\n       SERASA SCORE: 661\n       SERASA SCORE ANTIGO: 790\n       SPC SCORE: 822\n       SPC SCORE ANTIGO: 822\n       BOAVISTA SCORE: 877\n       BOAVISTA SCORE ANTIGO: 877\n\n• INFORMAÇÕES DO RG/CNH:\n       RG: 423265\n       EMISSÃO: 02/03/1998\n       ORGÃO: Ssp - Secretaria De Seguranca Publica\n       UF: TO\n\n• OUTRAS INFORMAÇÕES:\n       NIS: Sem informação\n       PIS: Sem informação\n       TITULO: Sem informação\n       CONJUGE: Sem informação\n       ESCOLARIDADE: Superior Completo\n       CIDADE DE NASCIMENTO: Dourados/MS\n\n• ENDEREÇOS (9):\n       ★ R 12 6 LT 12 C 2, JD AURENY IV TAQUARALTO, PALMAS/TO - 77060034\n       ★ R 12 6 LT 12 C 2, 6 - PALMAS/TO - 77060034\n       R 12, JD AURENY IV, PALMAS/TO - 77060034\n       R 12,  - PALMAS/TO - 77060034\n       R 12 QD 06 LT 12 - PALMAS/TO - 77270000\n       R 12 Q 6 LT 12, JD STA BARBARA, PALMAS/TO - 77060341\n       R 12 Q 6 LT 12,  - PALMAS/TO - 77060341\n       12 QD 06 LT 12, N/A - PALMAS/TO - 77270000\n       12 12, JARDIM AURENY IV,  - PALMAS/TO - 77060034\n\n• NÚMEROS (6):\n       ★ (63)3225-7766\n       (63)99994-4981 - VIVO\n       (63)99944-9810 - VIVO - WhatsApp\n       (63)99272-1437 - CLARO\n       (63)98456-4955 - TIM\n       (63)98444-9810 - TIM - WhatsApp\n\n• E-MAILS (0):\n       E-mails não encontrados\n\n• PARENTES (1):\n       EUDOCIA F PEREIRA - MAE\n\n• EMPRESAS (1):\n       ADAUTO PEREIRA | 15.865.834/0001-37 | 100%\n\n• EMPREGOS (0):\n       Empregos não encontrados"
+  }
+}
